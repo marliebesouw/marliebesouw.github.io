@@ -21,11 +21,14 @@ author: Marlie Besouw
 
 navbar-links:
   About: "about"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Use Cases:
+    - Bone Age: "https://beautifuljekyll.com"
+    - Lung nodule detection: "lungnoduledetect"
+    
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
+  Publications: "publications"
+  
 ################
 # --- Logo --- #
 ################
