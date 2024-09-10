@@ -13,15 +13,15 @@ With over <a href="https://healthairegister.com/">200 AI products in the field o
 ## Purpose of the project
 Project AIR (AI reviewed) aims to ease the process of comparing different algorithms, by evaluating algorithms from multiple centers on a multiple center dataset.
 
-## Framework
-# Vendors
+# Framework
+## Vendors
 Commercially available
 Conformité Européenne (CE) mark
-# Grand Challenge
+## Grand Challenge
 Amazon Web Services (Docker container
-# Reader study
+## Reader study
 Golden standard, for example majority vote
 
-# Do you want to contribute as a vendor?
+## Do you want to contribute as a vendor?
 Contact, use cases of this moment, initiate use case/update
 
