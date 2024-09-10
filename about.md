@@ -4,7 +4,7 @@ title: About
 subtitle: Project AIR: Artificial Intelligence Reviewed
 ---
 
-## Artificial Intelligence in healthcare
+### Artificial Intelligence in healthcare
 ...
 Searching for a more effective way of working leads to an increasing number of artificial intelligence (AI) products in healthcare. 
 
