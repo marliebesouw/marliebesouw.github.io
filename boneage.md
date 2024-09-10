@@ -1,2 +1,4 @@
+---
 layout: page
-title: Bone Age Predition
+title: Bone Age Prediction
+---
