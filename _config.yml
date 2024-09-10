@@ -22,8 +22,9 @@ author: Marlie Besouw
 navbar-links:
   About: "about"
   Use Cases:
-    - Bone Age: "https://beautifuljekyll.com"
-    - Lung nodule detection: "lungnoduledetect"
+    - Bone Age: "boneage"
+    - Lung Nodule Detection: "lungnoduledetect"
+    - Fracture Detection: "fracturedetect"
     
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
