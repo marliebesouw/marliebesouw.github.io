@@ -22,10 +22,10 @@ author: Marlie Besouw
 navbar-links:
   About: "about"
   Protocols: "protocols"
-  Leaderbord:
+  Leaderboard:
     - Bone Age: "boneage"
     - Lung Nodule Detection CXR: "lungnoduledetectCXR"
-    - Fracture Detection: "fracturedetect"
+   # - Fracture Detection: "fracturedetect"
   #Contact: "contact"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
