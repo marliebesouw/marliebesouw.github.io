@@ -3,7 +3,6 @@ layout: post
 title: Update use case: lung nodule detection on X-ray
 subtitle: Vendors can still contribute 
 cover-img: /assets/img/lungnoduleCXR_hor.png
-# thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/lungnoduleCXR_hor.png
 tags: [reproduction, lung nodule detection]
 author: Marlie Besouw
