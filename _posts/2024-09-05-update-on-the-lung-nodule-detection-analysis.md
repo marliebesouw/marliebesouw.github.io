@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Update on the lung nodule detection analysis
+title: Update use case: lung nodule detection on X-ray
 subtitle: Vendors can still contribute 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [reporoduction, lung nodule detection]
+cover-img: /assets/img/lungnoduleCXR_hor.png
+# thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/lungnoduleCXR_hor.png
+tags: [reproduction, lung nodule detection]
 author: Marlie Besouw
 ---
 
