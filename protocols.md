@@ -3,6 +3,10 @@ layout: page
 title: Protocols
 subtitle: 
 ---
+## General protocol of Project AIR
+#### Version 4 (2024)
+!!!! Deze moet nog worden aangepast aan de nieuwste versie, inclusief URL van deze site!
+
 ## Fracture detection on X-ray
 #### Version 2 (2024)
 <a href="https://www.dropbox.com/scl/fi/276nm3a7pz1x1ho1iq6pu/Protocol-Fracture-Detection-on-X-Ray-V2-MB_150824.pdf?rlkey=znrm31528ys2qw179gc2t91jx&st=27qxjtp1&dl=0"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
