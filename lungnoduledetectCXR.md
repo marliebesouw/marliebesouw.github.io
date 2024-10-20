@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Lung nodule detection
+title: Lung nodule detection on X-ray
 subtitle: 
 ---
 
-## Lung nodule detection on X-ray
 The first edition of the P ...
 
+
+## Follow-up study
 
 
 ## Protocols
