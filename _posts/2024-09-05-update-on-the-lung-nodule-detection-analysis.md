@@ -3,7 +3,7 @@ layout: post
 title: Lung nodule detection on X-ray
 subtitle: Update on the first edition
 cover-img: /assets/img/lungnoduleCXR_HOR.png
-thumbnail-img: /assets/img/lungnoduleCXR.png
+thumbnail-img: /assets/img/lungnoduleCXR_sq.png
 tags: [reproduction, lung nodule detection]
 author: Marlie Besouw
 ---
