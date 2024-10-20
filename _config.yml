@@ -23,7 +23,7 @@ navbar-links:
   About: "about"
   Use Cases:
     - Bone Age: "boneage"
-    - Lung Nodule Detection: "lungnoduledetect"
+    - Lung Nodule Detection CXR: "lungnoduledetectCXR"
     - Fracture Detection: "fracturedetect"
   Vendors: "vendors"
     #- Learn markdown: "https://www.markdowntutorial.com/"
