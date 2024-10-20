@@ -7,4 +7,4 @@ tags: [reproduction, lung nodule detection]
 author: Marlie Besouw
 ---
 Vendors can still contribute 
-Inlcuding new versions and new products to update the first round of Project AIR in lung nodule detection
+Including new versions and new products to update the first round of Project AIR in lung nodule detection
