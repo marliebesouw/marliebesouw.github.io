@@ -21,11 +21,12 @@ author: Marlie Besouw
 
 navbar-links:
   About: "about"
-  Use Cases:
+  Protocols: "protocols"
+  Leaderbord:
     - Bone Age: "boneage"
     - Lung Nodule Detection CXR: "lungnoduledetectCXR"
     - Fracture Detection: "fracturedetect"
-  Vendors: "vendors"
+  Contact: "contact"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Publications: "publications"
