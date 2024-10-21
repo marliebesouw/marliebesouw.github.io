@@ -16,11 +16,11 @@ Project AIR aims to simplify this selection process by providing a structured fr
 
 Vendors: Project AIR invites vendors who have developed commercially available AI algorithms for healthcare to participate in the evaluations. These algorithms must have a valid Conformité Européenne (CE) mark, ensuring they meet European safety, health, and environmental protection standards.
 
-Grand Challenge Platform: To facilitate this project, Amazon Web Services (AWS) will be used to host the algorithms within Docker containers, ensuring a secure and scalable environment for testing.
+<a hre="https://grand-challenge.org/>Grand Challenge Platform</a>: To facilitate this project, Amazon Web Services (AWS) will be used to host the algorithms within Docker containers, ensuring a secure and scalable environment for testing.
 
 Reader Study: A gold standard evaluation will be conducted using a reader study approach. In this process, radiologists will assess the performance of each algorithm, with the results being validated against a reference standard, such as a majority vote or expert consensus.
 
-The general Project AIR protocol as well as the use cases specific protocols can be found <a href:"https://marliebesouw.github.io/protocols/">here</a>. 
+The general Project AIR protocol as well as the use cases specific protocols can be found <a href="https://marliebesouw.github.io/protocols/">here</a>. 
 
 ### Do You Want to Contribute as a Vendor?
 
