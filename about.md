@@ -20,6 +20,8 @@ Grand Challenge Platform: To facilitate this project, Amazon Web Services (AWS) 
 
 Reader Study: A gold standard evaluation will be conducted using a reader study approach. In this process, radiologists will assess the performance of each algorithm, with the results being validated against a reference standard, such as a majority vote or expert consensus.
 
+The general Project AIR protocol as well as the use cases specific protocols can be found <a href:"https://marliebesouw.github.io/protocols/">here</a>. 
+
 ### Do You Want to Contribute as a Vendor?
 
 Vendors who are interested in participating in Project AIR, either by submitting their existing AI algorithms for evaluation or by contributing to new or updated use cases, are encouraged to get involved. At present, we are working on various use cases, and new ones can be initiated or updated as part of the project’s continuous development.
