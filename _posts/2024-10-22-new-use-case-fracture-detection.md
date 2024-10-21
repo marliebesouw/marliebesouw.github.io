@@ -2,8 +2,6 @@
 layout: post
 title: Fracture detection on X-ray
 subtitle: New use case
-cover-img: /assets/img/lungnoduleCXR_HOR.png
-thumbnail-img: /assets/img/lungnoduleCXR_sq.png
 tags: [fracture detection, new, x-ray]
 author: Marlie Besouw
 ---
