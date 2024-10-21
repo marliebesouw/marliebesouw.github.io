@@ -10,7 +10,7 @@ The growing demand for more efficient and effective healthcare workflows has led
 
 ### Purpose of the Project
 
-Project AIR (AI Reviewed) aims to simplify this selection process by providing a structured framework for evaluating different AI algorithms. By testing these algorithms across multiple centers using a diverse, multi-center dataset, Project AIR offers a standardized comparison that helps healthcare institutions make more informed decisions when choosing AI solutions. The goal is to streamline the adoption of AI in clinical practice by providing transparent, evidence-based evaluations.
+Project AIR aims to simplify this selection process by providing a structured framework for evaluating different AI algorithms. By testing these algorithms across multiple centers using a diverse, multi-center dataset, Project AIR offers a standardized comparison that helps healthcare institutions make more informed decisions when choosing AI solutions. The goal is to streamline the adoption of AI in clinical practice by providing transparent, evidence-based evaluations.
 
 ### Framework
 
