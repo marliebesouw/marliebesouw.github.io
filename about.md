@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Project AIR: Artificial Intelligence Reviewed
+subtitle: "Project AIR: Artificial Intelligence Reviewed"
 ---
 
 ### Artificial Intelligence in Healthcare
