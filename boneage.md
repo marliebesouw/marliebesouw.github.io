@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Bone Age Prediction
+title: Leaderboard
+subtitle: Bone Age Prediction
 ---
