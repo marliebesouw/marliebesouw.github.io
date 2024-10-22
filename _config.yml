@@ -21,6 +21,7 @@ author: Marlie Besouw
 
 navbar-links:
   About: "about"
+  Updates: "updates"
   Protocols: "protocols"
   Leaderboard:
     - Bone Age: "boneage"
