@@ -20,7 +20,7 @@ author: Marlie Besouw
 ###############################################
 
 navbar-links:
-  About: "about"
+  About: "index"
   Updates: "updates"
   Protocols: "protocols"
   Use cases:
