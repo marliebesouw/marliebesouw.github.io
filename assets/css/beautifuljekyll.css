@@ -420,6 +420,10 @@ img {
 
 .navbar-custom .dropdown-item .dropdown-toggle::after {
   content: '\f0da'; /* FontAwesome icon (right arrow) */
+  font-family: 'FontAwesome';
+  float: right;
+  margin-left: 5px;
+}
 
 /* --- Footer --- */
 
