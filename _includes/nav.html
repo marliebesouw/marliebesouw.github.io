@@ -19,7 +19,14 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  <div class="dropdown-submenu">
+                    <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Nested Option 1</a></li> <!-- Submenu items -->
+                      <li><a class="dropdown-item" href="#">Nested Option 2</a></li>
+                      <li><a class="dropdown-item" href="#">Nested Option 3</a></li>
+                    </ul>
+                  </div>
                 {%- endfor -%}
               {%- endfor %}
             </div>
