@@ -24,10 +24,11 @@ navbar-links:
   Updates: "updates"
   Protocols: "protocols"
   Use cases:
-    - name: "Bone Age"
+    - Bone Age:
+      href: "boneage"
       dropdown:
-        - name: "About"
-          href: "boneage"
+      - name: "Leaderboard"
+        href: "leaderboard_boneage"
     - Lung Nodule Detection CXR: "lungnoduledetectCXR"
    # - Fracture Detection: "fracturedetect"
   #Contact: "contact"
