@@ -25,10 +25,8 @@ navbar-links:
   Protocols: "protocols"
   Use cases:
     - Bone Age:
-      href: "boneage"
-      dropdown:
-      - name: "Leaderboard"
-        href: "leaderboard_boneage"
+      - "boneage"
+      - Leaderboard: "leaderboard_boneage"
     - Lung Nodule Detection CXR: "lungnoduledetectCXR"
    # - Fracture Detection: "fracturedetect"
   #Contact: "contact"
