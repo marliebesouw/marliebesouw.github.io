@@ -28,7 +28,8 @@ navbar-links:
       dropdown:
         - name: "About"
           href: "boneage"
-    - Lung Nodule Detection CXR: "lungnoduledetectCXR"
+    - name: "Lung Nodule Detection CXR"
+      href: "lungnoduledetectCXR"
    # - Fracture Detection: "fracturedetect"
   #Contact: "contact"
     #- Learn markdown: "https://www.markdowntutorial.com/"
