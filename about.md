@@ -20,7 +20,9 @@ Vendors: Project AIR invites vendors who have developed commercially available A
 
 Reader Study: A gold standard evaluation will be conducted using a reader study approach. In this process, radiologists will assess the performance of each algorithm, with the results being validated against a reference standard, such as a majority vote or expert consensus.
 
-The general Project AIR protocol as well as the use cases specific protocols can be found <a href="https://marliebesouw.github.io/protocols/">here</a>. 
+The general Project AIR protocol: DEZE MOET NOG WORDEN AANGEPAST, NU FRACTUUR PROTOCOL ERIN GEZET) Version 4 (2024)
+<a href="https://www.dropbox.com/scl/fi/276nm3a7pz1x1ho1iq6pu/Protocol-Fracture-Detection-on-X-Ray-V2-MB_150824.pdf?rlkey=znrm31528ys2qw179gc2t91jx&st=27qxjtp1&dl=0"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+
 
 ### Do you want to contribute as a vendor?
 
