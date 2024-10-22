@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: "Project AIR: Artificial Intelligence Reviewed"
+title: "Project AIR: Artificial Intelligence Reviewed"
+subtitle: "Project overview"
 ---
 
 ### Artificial Intelligence in Healthcare
@@ -22,7 +22,7 @@ Reader Study: A gold standard evaluation will be conducted using a reader study 
 
 The general Project AIR protocol as well as the use cases specific protocols can be found <a href="https://marliebesouw.github.io/protocols/">here</a>. 
 
-### Do You Want to Contribute as a Vendor?
+### Do you want to contribute as a vendor?
 
 Vendors who are interested in participating in Project AIR, either by submitting their existing AI algorithms for evaluation or by contributing to new or updated use cases, are encouraged to get involved. At present, we are working on various use cases, and new ones can be initiated or updated as part of the project’s continuous development.
 
