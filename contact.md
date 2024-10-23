@@ -21,4 +21,18 @@ For all enquiries, including use case requests or other question, please send an
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
 
-
+<form
+  action="https://formspree.io/f/mqakadro"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
