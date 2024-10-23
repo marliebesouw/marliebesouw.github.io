@@ -11,45 +11,46 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
-      {%- for link in site.navbar-links -%}
-        {%- if link[1].first -%}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- if childlink.dropdown -%}  
-                  <div class="dropdown-submenu">
-                    <a class="dropdown-item dropdown-toggle" href="#">{{ childlink.name }}</a>
-                    <ul class="dropdown-menu">
-                      {%- for subitem in childlink.dropdown -%}
-                        <li><a class="dropdown-item" href="{{ subitem.href }}">{{ subitem.name }}</a></li>
-                      {%- endfor -%}
-                    </ul>
-                  </div>
-                {%- else -%}
-                  <a class="dropdown-item" href="{{ childlink.href }}">{{ childlink.name }}</a>
-                {%- endif -%}
-              {%- endfor -%}
-            </div>
-          </li>
-        {%- else -%}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
-          </li>
-        {%- endif -%}
-      {%- endfor -%}
-      {% if site.post_search %}
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
-          </a>
+<div class="collapse navbar-collapse" id="main-navbar">
+  <ul class="navbar-nav ml-auto">
+    {%- for link in site.navbar-links -%}
+      {%- if link[1].first -%}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+            {%- for childlink in link[1] -%}
+              {%- if childlink.dropdown -%}  
+                <div class="dropdown-submenu">
+                  <a class="dropdown-item dropdown-toggle" href="#">{{ childlink.name }}</a>
+                  <ul class="dropdown-menu">
+                    {%- for subitem in childlink.dropdown -%}
+                      <li><a class="dropdown-item" href="{{ subitem.href | absolute_url }}">{{ subitem.name }}</a></li>
+                    {%- endfor -%}
+                  </ul>
+                </div>
+              {%- else -%}
+                <a class="dropdown-item" href="{{ childlink.href | absolute_url }}">{{ childlink.name }}</a>
+              {%- endif -%}
+            {%- endfor -%}
+          </div>
         </li>
-      {% endif %}
-    </ul>
-  </div>
+      {%- else -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ link[1] | absolute_url }}">{{ link[0] }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+    {% if site.post_search %}
+      <li class="nav-item">
+        <a class="nav-link" id="nav-search-link" href="#" title="Search">
+          <span id="nav-search-icon" class="fa fa-search"></span>
+          <span id="nav-search-text">Search</span>
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+</div>
+
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
