@@ -18,21 +18,5 @@ For all enquiries, including use case requests or other question, please send an
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-</form>
-
-<form
-  action="https://formspree.io/f/mqakadro"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit" class="btn btn-lg btn-primary" style="background-color: #00afdc">Submit</button>
 </form>
