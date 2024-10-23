@@ -31,7 +31,7 @@ navbar-links:
         - name: "Leaderboard"
           href: "/leaderboard_boneage"
     - name: "Lung Nodule Detection CXR"
-      href: "lungnoduledetectCXR"
+      href: "/lungnoduledetectCXR"
    # - Fracture Detection: "fracturedetect"
   #Contact: "contact"
     #- Learn markdown: "https://www.markdowntutorial.com/"
