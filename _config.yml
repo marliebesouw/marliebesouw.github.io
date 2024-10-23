@@ -24,6 +24,8 @@ navbar-links:
   Updates: "updates"
   Protocols: "protocols"
   Use cases:
+    - name: "Current"
+      href: "/current_usecases"
     - name: "Bone Age"
       dropdown:
         - name: "About"
