@@ -3,11 +3,7 @@ layout: page
 title: Contact
 ---
 
-## General enquiries
-
-For all other enquiries, including questions regarding membership, funding, or
-donations, please send an email to our....) 
-or fill out the form below :
+For all enquiries, including use case requests or other question, please send an <a href="mailto:marlie.besouw@radboudumc.nl">email</a> or fill out the form below:
 
 <form action="https://formspree.io/f/mqakadro" method="POST" >
   <div class="row">
