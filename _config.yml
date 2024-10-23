@@ -27,9 +27,9 @@ navbar-links:
     - name: "Bone Age"
       dropdown:
         - name: "About"
-          href: "boneage"
+          href: "/boneage"
         - name: "Leaderboard"
-          href: "leaderboard_boneage"
+          href: "/leaderboard_boneage"
     - name: "Lung Nodule Detection CXR"
       href: "lungnoduledetectCXR"
    # - Fracture Detection: "fracturedetect"
