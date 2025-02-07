@@ -1,0 +1,7 @@
+- video_id: "YOUR_VIDEO_ID"
+  question: "What is AI?"
+  choices: 
+    - "Artificial Intelligence"
+    - "Automated Input"
+    - "Advanced Internet"
+  correct: 0
