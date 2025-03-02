@@ -10,7 +10,10 @@ body {
 /* HERO HEADER */
 .hero {
     background: url("../img/header.png") no-repeat center center/cover;
-    height: 350px;
+    width: 100%;
+    height: 40vh;
+    min-height: 250px;
+    max-height: 400px;
     position: relative;
     display: flex;
     justify-content: center;
@@ -70,232 +73,23 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
-          [ Read 28 lines ]
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
-/* ICAI Branding */
-body {
-    background-color: #FFFFFF;
-    color: #1B2430;
-    font-family: Arial, sans-serif;
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero {
+        height: 30vh; /* Makes the banner smaller on small screens */
+        max-height: 300px;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column; /* Stack menu items on mobile */
+        padding: 10px;
+    }
+
+    nav ul li {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
 }
-.banner {
-    background-color: #FF8203;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-}
-.navbar {
-    background-color: #1B2430;
-    padding: 10px;
-}
-.navbar a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-}
-.content {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
-
-
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
-/* General Styling */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #F8F8F8;
-}
-
-/* Header */
-header {
-    background-color: #FF8203; /* ICAI Orange */
-    color: white;
-    text-align: center;
-    padding: 20px;
-}
-
-.header-content img {
-    width: 100%;
-    max-height: 300px;
-    object-fit: cover;
-}
-
-/* Navigation */
-nav ul {
-    list-style: none;
-    padding: 0;
-    text-align: center;
-    background-color: #1B2430; /* ICAI Dark Blue */
-}
-
-nav ul li {
-    display: inline;
-    margin: 10px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-/* Main Content */
-main {
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-    background-color: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    background-color: #1B2430;
-    color: white;
-    padding: 10px;
-    margin-top: 20px;
-}
-}
-.banner {
-    background-color: #FF8203;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-}
-.navbar {
-    background-color: #1B2430;
-    padding: 10px;
-}
-.navbar a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-}
-.content {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                      [ Read 28 lines ]
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
-/* ICAI Branding */
-body {
-    background-color: #FFFFFF;
-    color: #1B2430;
-    font-family: Arial, sans-serif;
-}
-.banner {
-    background-color: #FF8203;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-}
-.navbar {
-    background-color: #1B2430;
-    padding: 10px;
-}
-.navbar a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-}
-.content {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
-  GNU nano 8.2                         assets/css/style.css                         Modified
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                      [ Read 28 lines ]
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
-/* ICAI Branding */
-body {
-    background-color: #FFFFFF;
-    color: #1B2430;
-    font-family: Arial, sans-serif;
-}
-.banner {
-    background-color: #FF8203;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-}
-.navbar {
-    background-color: #1B2430;
-    padding: 10px;
-}
-.navbar a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-}
-.content {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
-
-
-^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute     ^C Location
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     ^/ Go To Line
