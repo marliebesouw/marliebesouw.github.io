@@ -7,6 +7,46 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
+
+    <!-- HEADER with Image & Overlay Text -->
+    <header class="hero">
+        <div class="hero-overlay">
+            <h1>ICAI Healthcare</h1>
+            <p>Artificial Intelligence for Healthcare Professionals</p>
+        </div>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <ul>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/information">Information</a></li>
+            <li><a href="{{ site.baseurl }}/speakers">Speakers</a></li>
+            <li><a href="{{ site.baseurl }}/online-course">Online Course</a></li>
+        </ul>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} ICAI Healthcare. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
    <header>
 	<div class = "header-content  GNU nano 8.2                        _layouts/default.html                         Modified
 <!DOCTYPE html>
