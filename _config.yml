@@ -10,12 +10,6 @@ navbar-links:
   Online Course: "/online-course"
 
 theme_skin: orange-darkblue
-###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
-###########################################################
 
 ############################
 # --- Required options --- #
@@ -316,9 +310,9 @@ plugins:
 baseurl: "/icai-healthcare"
 url: "https://marliebesouw.github.io"
 disqus: your-disqus-shortname
-=======
+
 title: "ICAI-Healthcare"
 description: "An AI learning platform for healthcare professionals."
 baseurl: "/icai-healthcare"
 url: "https://marliebesouw.github.io"
->>>>>>> 97ec041 (Applied ICAI branding and setup)
+

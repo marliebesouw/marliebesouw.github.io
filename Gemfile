@@ -1,3 +1,4 @@
+gem "jekyll-paginate"
 
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -17,6 +18,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-sitemap"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
