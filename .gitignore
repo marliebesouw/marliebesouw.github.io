@@ -1,6 +1,8 @@
 # project
 _site
 .sass-cache
+.jekyll-cache
+.jekyll-metadata
 .vagrant
 
 # general
@@ -11,3 +13,4 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+backup

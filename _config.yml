@@ -1,3 +1,15 @@
+title: "ICAI-Healthcare"
+description: "An AI learning platform for healthcare professionals."
+baseurl: "/icai-healthcare"
+url: "https://marliebesouw.github.io"
+
+navbar-links:
+  Home: "/"
+  Information: "/information"
+  Speakers: "/speakers"
+  Online Course: "/online-course"
+
+theme_skin: orange-darkblue
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -304,3 +316,9 @@ plugins:
 baseurl: "/icai-healthcare"
 url: "https://marliebesouw.github.io"
 disqus: your-disqus-shortname
+=======
+title: "ICAI-Healthcare"
+description: "An AI learning platform for healthcare professionals."
+baseurl: "/icai-healthcare"
+url: "https://marliebesouw.github.io"
+>>>>>>> 97ec041 (Applied ICAI branding and setup)

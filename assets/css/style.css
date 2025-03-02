@@ -1,0 +1,28 @@
+/* ICAI Branding */
+body {
+    background-color: #FFFFFF;
+    color: #1B2430;
+    font-family: Arial, sans-serif;
+}
+.banner {
+    background-color: #FF8203;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.navbar {
+    background-color: #1B2430;
+    padding: 10px;
+}
+.navbar a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}

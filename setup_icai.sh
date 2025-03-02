@@ -1,5 +1,146 @@
 #!/bin/bash
 
+echo "🚀 Setting up ICAI-Healthcare site..."
+
+# Initialize a new Git repo (if not already initialized)
+if [ ! -d ".git" ]; then
+  git init
+  git remote add origin https://github.com/marliebesouw/icai-healthcare.git
+fi
+
+# Set up _config.yml with ICAI branding
+echo "🚀 Updating _config.yml..."
+cat <<EOT > _config.yml
+title: "ICAI-Healthcare"
+description: "An AI learning platform for healthcare professionals."
+baseurl: "/icai-healthcare"
+url: "https://marliebesouw.github.io"
+EOT
+
+# Create CSS file for ICAI branding
+mkdir -p assets/css
+cat <<EOT > assets/css/style.css
+/* ICAI Branding */
+body {
+    background-color: #FFFFFF;
+    color: #1B2430;
+    font-family: Arial, sans-serif;
+}
+.banner {
+    background-color: #FF8203;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.navbar {
+    background-color: #1B2430;
+    padding: 10px;
+}
+.navbar a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+EOT
+
+# Create main page
+echo "🚀 Creating homepage (index.md)..."
+cat <<EOT > index.md
+---
+layout: default
+title: Home
+---
+
+<div class="banner">Welcome to ICAI-Healthcare</div>
+
+<div class="content">
+    <h2>About ICAI-Healthcare</h2>
+    <p>This platform provides AI learning for healthcare professionals.</p>
+</div>
+EOT
+
+# Create subpages
+echo "🚀 Creating subpages..."
+cat <<EOT > information.md
+---
+layout: default
+title: Information
+---
+
+<div class="content">
+    <h2>Information</h2>
+    <p>Details about the AI course and upcoming events.</p>
+</div>
+EOT
+
+cat <<EOT > speakers.md
+---
+layout: default
+title: Speakers
+---
+
+<div class="content">
+    <h2>Speakers</h2>
+    <p>Meet the experts leading the ICAI-Healthcare program.</p>
+</div>
+EOT
+
+cat <<EOT > online-course.md
+---
+layout: default
+title: Online Course
+---
+
+<div class="content">
+    <h2>Online Course</h2>
+    <p>Access the learning materials and videos here.</p>
+</div>
+EOT
+
+# Set up navigation layout
+echo "🚀 Setting up navigation..."
+mkdir -p _layouts
+cat <<EOT > _layouts/default.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+
+<div class="navbar">
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/information">Information</a>
+    <a href="{{ site.baseurl }}/speakers">Speakers</a>
+    <a href="{{ site.baseurl }}/online-course">Online Course</a>
+</div>
+
+<div class="content">
+    {{ content }}
+</div>
+
+</body>
+</html>
+EOT
+
+echo "🚀 Committing and pushing changes..."
+git add .
+git commit -m "Applied ICAI branding and setup"
+git push origin main --force
+echo "🎉 Done! Your ICAI-Healthcare website is updated: https://marliebesouw.github.io/icai-healthcare/"
+#!/bin/bash
+
+<<<<<<< HEAD
 # Set up project
 echo "🚀 Setting up ICAI-Healthcare site..."
 
@@ -61,3 +202,137 @@ git commit -m "Generated ICAI-Healthcare site"
 git push -u origin main
 
 echo "🎉 Done! Your site is now live at: https://marliebesouw.github.io/icai-healthcare/"
+=======
+echo "🚀 Updating _config.yml with ICAI branding..."
+cat <<EOT > _config.yml
+title: "ICAI-Healthcare"
+description: "An AI learning platform for healthcare professionals."
+baseurl: "/icai-healthcare"
+url: "https://marliebesouw.github.io"
+EOT
+echo "✅ _config.yml updated."
+
+echo "🚀 Creating ICAI CSS styles..."
+mkdir -p assets/css
+cat <<EOT > assets/css/style.css
+/* ICAI Branding */
+body {
+    background-color: #FFFFFF;
+    color: #1B2430;
+    font-family: Arial, sans-serif;
+}
+.banner {
+    background-color: #FF8203;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.navbar {
+    background-color: #1B2430;
+    padding: 10px;
+}
+.navbar a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+EOT
+echo "✅ ICAI styles applied."
+
+echo "🚀 Creating homepage (index.md)..."
+cat <<EOT > index.md
+---
+layout: default
+title: Home
+---
+
+<div class="banner">Welcome to ICAI-Healthcare</div>
+
+<div class="content">
+    <h2>About ICAI-Healthcare</h2>
+    <p>This platform provides AI learning for healthcare professionals.</p>
+</div>
+EOT
+echo "✅ Homepage created."
+
+echo "🚀 Creating subpages..."
+# Information Page
+cat <<EOT > information.md
+---
+layout: default
+title: Information
+---
+
+<div class="content">
+    <h2>Information</h2>
+    <p>Details about the AI course and upcoming events.</p>
+</div>
+EOT
+
+# Speakers Page
+cat <<EOT > speakers.md
+---
+layout: default
+title: Speakers
+---
+
+<div class="content">
+    <h2>Speakers</h2>
+    <p>Meet the experts leading the ICAI-Healthcare program.</p>
+</div>
+EOT
+
+# Online Course Page
+cat <<EOT > online-course.md
+---
+layout: default
+title: Online Course
+---
+
+<div class="content">
+    <h2>Online Course</h2>
+    <p>Access the learning materials and videos here.</p>
+</div>
+EOT
+echo "✅ Subpages created."
+
+echo "🚀 Setting up navigation..."
+mkdir -p _layouts
+cat <<EOT > _layouts/default.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+
+<div class="navbar">
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/information">Information</a>
+    <a href="{{ site.baseurl }}/speakers">Speakers</a>
+    <a href="{{ site.baseurl }}/online-course">Online Course</a>
+</div>
+
+{{ content }}
+
+</body>
+</html>
+EOT
+echo "✅ Navigation setup completed."
+
+echo "🚀 Committing and pushing changes..."
+git add .
+git commit -m "Applied ICAI branding and setup"
+git push origin main
+echo "🎉 Done! Your ICAI-Healthcare website is updated: https://marliebesouw.github.io/icai-healthcare/"
+>>>>>>> 97ec041 (Applied ICAI branding and setup)
