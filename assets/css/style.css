@@ -1,3 +1,4 @@
+
 /* General Page Styling */
 body {
     font-family: 'Arial', sans-serif;
@@ -11,10 +12,12 @@ body {
 .hero {
     background: url("../img/header.png") no-repeat center center/cover;
     background-size: contain;
+    background-color: #fff;
     width: 100%;
     height: auto;
-    min-height: 200px;
-    max-height: none;
+    min-height: 350px;
+    max-height: 600px;
+    aspect-ratio: 16 / 5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -77,8 +80,9 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero {
-        height: 30vh; /* Makes the banner smaller on small screens */
+        min-height: 250vh; /* Makes the banner smaller on small screens */
         max-height: 300px;
+        aspect-ratio: 16 / 7;
     }
 
     nav ul {
