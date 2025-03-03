@@ -3,7 +3,7 @@ layout: default
 title: Program
 ---
 
-<div class="content">
+<div class="program">
     <h2>Program</h2>
 
     <p><strong>9.00-9.30:</strong> Registration of participants</p>
