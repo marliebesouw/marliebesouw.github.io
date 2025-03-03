@@ -148,3 +148,13 @@ header, .hero, .hero img {
 .speaker-info {
     max-width: 600px;
 }
+
+/* Default: Image on the Left */
+.speaker.left {
+    flex-direction: row;
+}
+
+/* Alternate: Image on the Right */
+.speaker.right {
+    flex-direction: row-reverse;
+}
