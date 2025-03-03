@@ -15,7 +15,6 @@ title: Speakers
 <div class="speaker">
     <img src="{{ site.baseurl }}/assets/img/Bram-van-Ginneken.jpg" alt="Bram van Ginneken">
     <div class="speaker-info">
-        <h2>Bram van Ginneken</h2>
         <p>Professor of Medical Image Analysis at Radboud University Medical Center. Expert in AI for medical imaging.</p>
     </div>
 </div>
