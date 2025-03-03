@@ -132,7 +132,7 @@ header, .hero, .hero img {
 
 .speaker {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 30px; /* Space between image and text */
     margin-bottom: 50px; /* Space between speakers */
     padding: 20px
@@ -151,7 +151,7 @@ header, .hero, .hero img {
     max-width: 600px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     text-align: left;
 }
 
