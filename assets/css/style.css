@@ -102,13 +102,13 @@ footer {
         max-height: 300px; 
     }
 
-    nav ul {
+    navbar ul {
         display: flex;
         flex-direction: column; /* Stack menu items on mobile */
         padding: 10px;
     }
 
-    nav ul li {
+    navbar ul li {
         display: block;
         text-align: center;
         margin: 10px 0;
