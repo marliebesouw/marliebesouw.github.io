@@ -24,11 +24,10 @@ body {
 }
 
 .hero img {
-    width: 100%;
+    width: 100vw;
     height: auto;
-    max-height: 100vh;
     display: block;
-    object-fit: cover;
+    object-fit: contain;
     margin: 0;
     padding: 0;
 }
@@ -114,4 +113,19 @@ footer {
         text-align: center;
         margin: 10px 0;
     }
+}
+
+
+/* Remove extra margins and paddings from body and html */
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevents any horizontal scroll */
+}
+
+/* Remove spacing around the hero image */
+header, .hero, .hero img {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
