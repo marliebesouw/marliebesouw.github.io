@@ -15,7 +15,7 @@ body {
     background-color: #fff;
     width: 100%;
     height: auto;
-    min-height: 350px;
+    min-height: 250px;
     max-height: 600px;
     aspect-ratio: 16 / 5;
     display: flex;
@@ -80,7 +80,7 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero {
-        min-height: 250vh; /* Makes the banner smaller on small screens */
+        min-height: 50vh; /* Makes the banner smaller on small screens */
         max-height: 300px;
         aspect-ratio: 16 / 7;
     }
