@@ -133,8 +133,9 @@ header, .hero, .hero img {
 .speaker {
     display: flex;
     align-items: center;
-    gap: 20px; /* Space between image and text */
-    margin-bottom: 40px; /* Space between speakers */
+    gap: 30px; /* Space between image and text */
+    margin-bottom: 50px; /* Space between speakers */
+    padding: 20px
 }
 
 .speaker img {
@@ -146,6 +147,7 @@ header, .hero, .hero img {
 }
 
 .speaker-info {
+    flex: 1;
     max-width: 600px;
 }
 
@@ -157,4 +159,5 @@ header, .hero, .hero img {
 /* Alternate: Image on the Right */
 .speaker.right {
     flex-direction: row-reverse;
+    text-align: right;
 }
