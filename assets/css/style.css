@@ -152,16 +152,15 @@ header, .hero, .hero img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: left;
 }
 
 /* Default: Image on the Left */
 .speaker.left {
     flex-direction: row;
-    text-align: left;
 }
 
 /* Alternate: Image on the Right */
 .speaker.right {
     flex-direction: row-reverse;
-    text-align: right;
 }
