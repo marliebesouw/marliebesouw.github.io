@@ -10,22 +10,19 @@ body {
 
 /* HERO HEADER */
 .hero {
-    background: url("../img/header.png") no-repeat center center;
-    background-size: 100% auto;
-    background-position: center;
-    background-color: #fff;
-    background-repeat: no-repeat;
     width: 100vw;
-    height: auto;
-    min-height: 300px;
-    max-height: none;
-   
+    height: auto;   
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: white;
 }
+
+.hero img {
+    width: 100%;
+    height: auto;
+    display: block;
 
 .hero h1 {
     font-size: 40px;
