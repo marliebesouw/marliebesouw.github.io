@@ -128,3 +128,23 @@ header, .hero, .hero img {
     border: 0;
     display: block;
 }
+
+
+.speaker {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between image and text */
+    margin-bottom: 40px; /* Space between speakers */
+}
+
+.speaker img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Makes the image round */
+    border: 5px solid #1B2430; /* Thick dark blue border */
+    object-fit: cover;
+}
+
+.speaker-info {
+    max-width: 600px;
+}
