@@ -14,7 +14,6 @@ body {
     height: auto;
     max-width: 100%;
     overflow: hidden;
-    background-color: transparent;
     margin: 0;
     padding: 0; 
     display: flex;
@@ -24,10 +23,10 @@ body {
 }
 
 .hero img {
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: block;
-    object-fit: contain;
+    object-fit: cover;
     margin: 0;
     padding: 0;
 }
@@ -98,7 +97,6 @@ footer {
 @media (max-width: 768px) {
     .hero {
         height: auto;
-        min-height: 150px;
         max-height: 300px; 
     }
 
@@ -128,4 +126,5 @@ header, .hero, .hero img {
     margin: 0;
     padding: 0;
     border: 0;
+    display: block;
 }
