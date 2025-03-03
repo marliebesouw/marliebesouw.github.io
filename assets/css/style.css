@@ -131,8 +131,9 @@ header, .hero, .hero img {
 
 
 .speaker {
-    display: flex;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 150px auto;
+    align-items: center;
     gap: 30px; /* Space between image and text */
     margin-bottom: 50px; /* Space between speakers */
     padding: 20px
@@ -147,20 +148,17 @@ header, .hero, .hero img {
 }
 
 .speaker-info {
-    flex: 1;
     max-width: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    text-align: left;
 }
 
 /* Default: Image on the Left */
 .speaker.left {
-    flex-direction: row;
+    grid-template-columns: 150px auto; 
+    text-align: left;
 }
 
 /* Alternate: Image on the Right */
 .speaker.right {
-    flex-direction: row-reverse;
+    grid-template-columns: auto 150 px;
+    text-align: left;
 }
