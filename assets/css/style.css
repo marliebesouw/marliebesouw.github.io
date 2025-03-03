@@ -10,12 +10,11 @@ body {
 /* HERO HEADER */
 .hero {
     background: url("../img/header.png") no-repeat center center/cover;
-    background-size: cover;
+    background-size: contain;
     width: 100%;
     height: auto;
     min-height: 200px;
     max-height: none;
-    aspect-ratio: 16/6;
     display: flex;
     justify-content: center;
     align-items: center;
