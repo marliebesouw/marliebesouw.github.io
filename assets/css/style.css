@@ -147,9 +147,6 @@ header, .hero, .hero img {
     object-fit: cover;
 }
 
-.speaker-info {
-    max-width: 600px;
-}
 
 /* Default: Image on the Left */
 .speaker.left {
@@ -164,3 +161,11 @@ header, .hero, .hero img {
     justify-content: flex-end;
 }
 
+/* NEW: Ensure the image stays on the right */
+.speaker.right img {
+    order: 2; /* Move image to second column */
+}
+
+.speaker.right .speaker-info {
+    order: 1; /* Move text to first column */
+}
