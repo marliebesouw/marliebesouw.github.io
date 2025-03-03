@@ -160,5 +160,7 @@ header, .hero, .hero img {
 /* Alternate: Image on the Right */
 .speaker.right {
     grid-template-columns: auto 150px;
-    text-align: right;
+    text-align: left;
+    justify-content: flex-end;
 }
+
