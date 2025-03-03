@@ -135,7 +135,7 @@ header, .hero, .hero img {
     grid-template-columns: 150px auto;
     align-items: center;
     gap: 30px; /* Space between image and text */
-    margin-bottom: 50px; /* Space between speakers */
+    margin-bottom: 40px; /* Space between speakers */
     padding: 20px
 }
 
@@ -159,6 +159,6 @@ header, .hero, .hero img {
 
 /* Alternate: Image on the Right */
 .speaker.right {
-    grid-template-columns: auto 150 px;
+    grid-template-columns: auto 150px;
     text-align: right;
 }
