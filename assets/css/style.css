@@ -149,11 +149,15 @@ header, .hero, .hero img {
 .speaker-info {
     flex: 1;
     max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /* Default: Image on the Left */
 .speaker.left {
     flex-direction: row;
+    text-align: left;
 }
 
 /* Alternate: Image on the Right */
