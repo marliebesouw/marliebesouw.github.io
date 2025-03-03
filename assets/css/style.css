@@ -13,11 +13,11 @@ body {
     background: url("../img/header.png") no-repeat center center/cover;
     background-size: contain;
     background-color: #fff;
-    width: 100%;
+    background-repeat: no-repeat;
+    width: 100vw;
     height: auto;
-    min-height: 250px;
-    max-height: 600px;
-    aspect-ratio: 16 / 5;
+    min-height: 100px;
+   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,8 +80,9 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero {
-        max-height: 300px;
-        aspect-ratio: 16 / 7;
+        height: auto;
+        min-height: 150px;
+        max-height: 300px; 
     }
 
     nav ul {
