@@ -5,27 +5,36 @@ title: Sign-up
 
 # Sign-up
 
-# Contact Us
-
+# Register Your Interest
 <div class="content">
     <div id="formContainer">
-        <form id="contactForm">
+        <form id="interestForm">
         
             <label for="name">Full Name*:</label>
             <input type="text" id="name" name="name" required><br><br>
 
-            <label for="email">Your Email Address*:</label>
+            <label for="email">Email Address*:</label>
             <input type="email" id="email" name="email" required><br><br>
 
-            <label>What is your request about?*:</label> <br>
-            <input type="radio" id="signup" name="interest" value="Signup" required>
-            <label for="signup">Sign-up & Payment</label><br>
+            <label>Select your interest area*:</label> <br>
+            <div class="radio-group">
+                <input type="radio" id="radiology" name="interest" value="Radiology" required>
+                <label for="radiology">Radiology</label><br>
 
-            <input type="radio" id="course" name="interest" value="Course">
-            <label for="course">Course Content & General Questions</label><br><br>
+                <input type="radio" id="radiotherapy" name="interest" value="Radiotherapy">
+                <label for="radiotherapy">Radiotherapy</label><br>
 
-            <label for="message">Your Message*:</label>
-            <textarea id="message" name="message" rows="4" required></textarea><br><br>
+                <input type="radio" id="cardiology" name="interest" value="Cardiology">
+                <label for="cardiology">Cardiology</label><br>
+
+                <input type="radio" id="pathology" name="interest" value="Pathology">
+                <label for="pathology">Pathology</label>
+            </div><br>
+
+            <label>
+                <input type="checkbox" id="updates" name="updates" required>
+                I want to receive updates and information regarding the ICAI course: AI for Healthcare*
+            </label><br><br>
 
             <button type="submit">Submit</button>
 
@@ -35,74 +44,20 @@ title: Sign-up
     </div>
 </div>
 
-<script>
-document.getElementById("contactForm").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent default form submission
-
-    var formData = new FormData(this);
-
-    fetch("https://script.google.com/macros/s/AKfycbwlqbltr9tJAURhjigfJh3Ow9v8v23iMSOj_1Oj2dN1_PbhYIPQFUqYbTVX235pXRrbIQ/exec", {
-        method: "POST",
-        body: formData
-    })
-    .then(response => response.text())
-    .then(data => {
-        if (data.includes("Error")) {
-            document.getElementById("responseMessage").style.color = "red";
-            document.getElementById("responseMessage").innerHTML = "⚠️ " + data;
-        } else {
-            document.getElementById("contactForm").style.display = "none";
-            document.getElementById("responseMessage").style.color = "green";
-            document.getElementById("responseMessage").innerHTML = "✅ Thank you! Your request has been submitted.";
-        }
-        document.getElementById("responseMessage").style.display = "block";
-    })
-    .catch(error => console.error("Error:", error));
-});
-</script>
-
-
-<!-- # Contact Us
-
-<div class="content">
-    <div id="formContainer">
-        <form id="contactForm">
-        
-            <label for="name">Full Name*:</label>
-            <input type="text" id="name" name="name" required><br><br>
-
-            <label for="email">Your Email Address*:</label>
-            <input type="email" id="email" name="email" required><br><br>
-
-            <label>What is your request about?*:</label> <br>
-            <input type="radio" id="signup" name="topic" value="signup" required>
-            <label for="signup">Sign-up & Payment</label><br>
-
-            <input type="radio" id="course" name="topic" value="course">
-            <label for="course">Course Content & General Questions</label><br><br>
-
-            <label for="message">Your Message*:</label>
-            <textarea id="message" name="message" rows="4" required></textarea><br><br>
-
-            <button type="submit">Send Email</button>
-
-        </form>
-    </div>
-</div> -->
-
 <style>
     /* Styling for the form */
     #formContainer {
-        background-color: #f5f5f5;
+        background-color: #f5f5f5; /* Light grey background */
         padding: 20px;
         border-radius: 8px;
         width: 50%;
         margin: auto;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        /*text-align: center;*/
     }
 
     /* Style for input fields */
-    input[type="text"], input[type="email"], textarea {
+    input[type="text"], input[type="email"] {
         width: 100%;
         padding: 8px;
         margin-top: 5px;
@@ -111,9 +66,15 @@ document.getElementById("contactForm").addEventListener("submit", function(event
         box-sizing: border-box;
     }
 
+    /* Style for radio buttons */
+    .radio-group {
+        text-align: left; /* Aligns radio buttons nicely */
+        margin-bottom: 10px;
+    }
+
     /* Style for the submit button */
     button {
-        background-color: #1B2430;
+        background-color: #1B2430; /* Dark blue */
         color: white;
         padding: 10px 15px;
         border: none;
@@ -126,34 +87,37 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     button:hover {
         background-color: #34495E;
     }
+
+    /* Style for the response message */
+    #responseMessage {
+        font-size: 18px;
+        font-weight: bold;
+        color: #1B2430;
+        display: none;
+    }
 </style>
 
 <script>
-document.getElementById("contactForm").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent default form submission
+document.getElementById("interestForm").addEventListener("submit", function(event){
+    event.preventDefault(); // Prevent form from submitting normally
 
-    // Get form values
-    var name = document.getElementById("name").value;
-    var email = document.getElementById("email").value;
-    var message = document.getElementById("message").value;
-
-    // Determine recipient email based on selected topic
-    var recipientEmail = "";
-    if (document.getElementById("signup").checked) {
-        recipientEmail = "judith.vanwerven-nobel@radboudumc.nl";
-    } else if (document.getElementById("course").checked) {
-        recipientEmail = "marlie.besouw@radboudumc.nl";
-    } else {
-        alert("Please select a topic for your request.");
-        return;
-    }
-
-    // // Construct mailto link
-    // var mailtoLink = "mailto:" + recipientEmail +
-    //                  "?subject=" + encodeURIComponent("Contact Request from " + name) +
-    //                  "&body=" + encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message);
-
-    // // Open the mail client
-    // window.location.href = mailtoLink;
+    var formData = new FormData(this);
+    fetch("https://script.google.com/macros/s/AKfycbwTdhs1pjxw_hCp1ZTjUB1LVMeMoil_KB90SPUQAP7SNB6Y_Qi2diiOfu8D4GnFQo4l/exec", {
+        method: "POST",
+        body: formData
+    })
+    .then(response => response.text())
+    .then(data => {
+        if (data.includes("Error")) {
+            document.getElementById("responseMessage").style.color = "red"; // Error styling
+            document.getElementById("responseMessage").innerHTML = "⚠️ This email is already registered.";
+        } else {
+            document.getElementById("interestForm").style.display = "none"; // Hide the form
+            document.getElementById("responseMessage").style.color = "green"; // Success styling
+            document.getElementById("responseMessage").innerHTML = "✅ Thank you! Your response has been recorded.";
+        }
+        document.getElementById("responseMessage").style.display = "block";
+    })
+    .catch(error => console.error("Error:", error));
 });
 </script>
