@@ -51,7 +51,7 @@ Marlie Besouw <br>
 
             <label>
                 <input type="checkbox" id="updates" name="updates" required>
-                I want to receive updates and information regarding the ICAI course: AI for Healthcare
+                I want to receive updates and information regarding the ICAI course: AI for Healthcare*
             </label><br><br>
 
             <button type="submit">Submit</button>
