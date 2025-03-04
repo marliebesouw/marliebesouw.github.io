@@ -57,7 +57,7 @@ document.getElementById("interestForm").addEventListener("submit", function(even
     event.preventDefault(); // Prevent form from submitting normally
 
     var formData = new FormData(this);
-    fetch("https://script.google.com/u/0/home/projects/1CuOAUwzbc3nXH0OXyuIMAQHxbqvITDPmdesg5CRXbDZ7AOvP0y45t5sM", {
+    fetch("https://script.google.com/macros/s/AKfycbxrictys5kyh8TBDn3zqqSVU6G07PYJL9RQYXUTAWknX5JMfBigJmKurx_tZsHLLiLO/exec", {
         method: "POST",
         body: formData
     })
