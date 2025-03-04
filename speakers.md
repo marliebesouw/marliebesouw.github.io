@@ -10,7 +10,7 @@ title: Speakers
     <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
     <div class="speaker-info">
         <h2>Colin Jacobs  
-        <a href="https://www.linkedin.com/in/colin-jacobs-01a14628/" target="_blank">
+        <a href="https://www.linkedin.com/in/colin-jacobs-01a14628/" target="_blank" style="margin-left:10mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
         <p> Colin Jacobs is a leading researcher in artificial intelligence and medical imaging, with a strong focus on lung cancer detection and pulmonary diseases. His expertise lies in the development and validation of machine learning algorithms for radiology applications, aiming to enhance early disease detection and improve patient outcomes. He is actively involved in international research collaborations and contributes to the advancement of AI-driven healthcare solutions.  </p>
@@ -37,7 +37,10 @@ title: Speakers
 <div class="speaker right">
     <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
     <div class="speaker-info">
-       <h2>Bram van Ginneken</h2> 
+       <h2>Bram van Ginneken 
+        <a href="https://www.linkedin.com/in/bramvanginneken/" target="_blank" style="margin-left:10mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
        <p> Bram van Ginneken is a globally recognized expert in medical image analysis and artificial intelligence. As a professor at Radboudumc, he leads groundbreaking research in deep learning applications for radiology, focusing on automated image interpretation and AI-assisted diagnostics. His work has significantly contributed to advancements in lung cancer detection, tuberculosis screening, and broader AI-driven imaging solutions in healthcare.</p>
     </div>
 </div>
