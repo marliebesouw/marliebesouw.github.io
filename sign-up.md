@@ -6,7 +6,6 @@ title: Sign-up
 # Sign-up
 
 # Contact Us
-
 <div class="content">
     <div id="formContainer">
         <form id="contactForm">
@@ -17,21 +16,14 @@ title: Sign-up
             <label for="email">Your Email Address*:</label>
             <input type="email" id="email" name="email" required><br><br>
 
-            <label>What is your request about?*:</label> <br>
-            <input type="radio" id="signup" name="interest" value="Signup" required>
-            <label for="signup">Sign-up & Payment</label><br>
-
-            <input type="radio" id="course" name="interest" value="Course">
-            <label for="course">Course Content & General Questions</label><br><br>
-
             <label for="message">Your Message*:</label>
             <textarea id="message" name="message" rows="4" required></textarea><br><br>
 
-            <button type="submit">Submit</button>
+            <button type="submit">Send Message</button>
 
         </form>
 
-        <p id="responseMessage" style="display: none;"></p>
+        <p id="contactResponseMessage" style="display: none;"></p>
     </div>
 </div>
 
