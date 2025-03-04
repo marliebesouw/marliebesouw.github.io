@@ -57,6 +57,43 @@ Marlie Besouw <br>
 </form>
 
 <p id="responseMessage" style="display: none;"></p>
+<style>
+  /* Styling for the form */
+  #interestForm {
+      background-color: #f5f5f5; /* Light grey background */
+      padding: 20px;
+      border-radius: 8px;
+      width: 50%;
+      margin: auto;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Style for input fields */
+  input[type="text"], input[type="email"] {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+  }
+
+  /* Style for the submit button */
+  button {
+      background-color: #1B2430; /* Dark blue */
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+  }
+
+  button:hover {
+      background-color: #34495E;
+  }
+</style>
 
 <script>
 document.getElementById("interestForm").addEventListener("submit", function(event){
