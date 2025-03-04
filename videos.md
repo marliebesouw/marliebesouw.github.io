@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Online Course
+title: Videos
 ---
 
 <div class="content">
-    <h2>Online Course</h2>
+    <h2>Videos</h2>
     <p>Access the learning materials and videos here.</p>
 </div>
