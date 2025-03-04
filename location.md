@@ -4,8 +4,11 @@ title: Location
 ---
 
 # Location
+
 <div class="content a">
-[Radboudumc Experience Center](https://www.radboudumc.nl/over-het-radboudumc/experience-center)
+    <a href="https://www.radboudumc.nl/over-het-radboudumc/experience-center" target="_blank">
+        Radboudumc Experience Center
+    </a>
 </div>
 
 
