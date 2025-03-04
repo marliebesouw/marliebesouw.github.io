@@ -28,13 +28,13 @@ Marlie Besouw <br>
     <div id="formContainer">
         <form id="interestForm">
         
-            <label for="name">Full Name:</label>
+            <label for="name">Full Name*:</label>
             <input type="text" id="name" name="name" required><br><br>
 
-            <label for="email">Email Address:</label>
+            <label for="email">Email Address*:</label>
             <input type="email" id="email" name="email" required><br><br>
 
-            <label>Select Your Interest Area:</label> <br>
+            <label>Select your interest area*:</label> <br>
             <div class="radio-group">
                 <input type="radio" id="radiology" name="interest" value="Radiology" required>
                 <label for="radiology">Radiology</label><br>
@@ -71,7 +71,7 @@ Marlie Besouw <br>
         width: 50%;
         margin: auto;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        text-align: center;
+        /*text-align: center;*/
     }
 
     /* Style for input fields */
@@ -120,15 +120,21 @@ document.getElementById("interestForm").addEventListener("submit", function(even
     event.preventDefault(); // Prevent form from submitting normally
 
     var formData = new FormData(this);
-    fetch("https://script.google.com/macros/s/AKfycbxrictys5kyh8TBDn3zqqSVU6G07PYJL9RQYXUTAWknX5JMfBigJmKurx_tZsHLLiLO/exec", {
+    fetch("https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec", {
         method: "POST",
         body: formData
     })
     .then(response => response.text())
     .then(data => {
-        document.getElementById("interestForm").style.display = "none"; // Hide the form
+        if (data.includes("Error")) {
+            document.getElementById("responseMessage").style.color = "red"; // Error styling
+            document.getElementById("responseMessage").innerHTML = "⚠️ This email is already registered.";
+        } else {
+            document.getElementById("interestForm").style.display = "none"; // Hide the form
+            document.getElementById("responseMessage").style.color = "green"; // Success styling
+            document.getElementById("responseMessage").innerHTML = "✅ Thank you! Your response has been recorded.";
+        }
         document.getElementById("responseMessage").style.display = "block";
-        document.getElementById("responseMessage").innerHTML = "✅ Thank you! Your response has been recorded.";
     })
     .catch(error => console.error("Error:", error));
 });
