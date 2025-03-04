@@ -12,7 +12,7 @@ title: Speakers
         <h2>Colin Jacobs</h2>
         <div class="content a">
             <a href="https://www.radboudumc.nl/over-het-radboudumc/experience-center" target="_blank">
-            <h2>Colin Jacobs<2> <br>
+            <h2>Colin Jacobs</h2> <br>
              </a>
         </div>
         <p> Colin Jacobs is a leading researcher in artificial intelligence and medical imaging, with a strong focus on lung cancer detection and pulmonary diseases. His expertise lies in the development and validation of machine learning algorithms for radiology applications, aiming to enhance early disease detection and improve patient outcomes. He is actively involved in international research collaborations and contributes to the advancement of AI-driven healthcare solutions.  </p>
