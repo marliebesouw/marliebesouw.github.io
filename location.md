@@ -8,8 +8,8 @@ title: Location
 ## [Radboudumc Experience Center](https://www.radboudumc.nl/over-het-radboudumc/experience-center)
 
 <div class="content">
-Geert Grooteplein Noord
-6525 EZ Nijmegen
+Geert Grooteplein Noord 15 <br>
+6525 EZ Nijmegen <br>
 The Netherlands
 </div>
 
