@@ -73,6 +73,23 @@ body {
     text-decoration: underline;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+    min-width: 150px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
 
 
 /* MAIN CONTENT */
