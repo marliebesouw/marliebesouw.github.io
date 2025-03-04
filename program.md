@@ -33,7 +33,7 @@ title: Program
         <div class="program-description">
             Workshop 1:<br>
             <em>Hands-on workshop: selecting an AI system</em><br>
-            <strong>Session 1a OR 1b (parallel):</strong><br>
+            Session 1a/1b<br>
             <em>Insight session: AI in clinical practice.</em>
         </div>
     </div>
@@ -48,11 +48,10 @@ title: Program
         <div class="program-description">
             Workshop 2:<br>
             <em>Hands-on workshop: selecting an AI system</em><br>
-            <strong>Session 2a OR 2b (parallel):</strong><br>
+            Session 2a/2b:</strong><br>
             <em>Insight session: AI in clinical practice.</em>
         </div>
     </div>
-
     <div class="program-item">
         <div class="program-time">15.00-15.30</div>
         <div class="program-description">Coffee break</div>
@@ -70,7 +69,6 @@ title: Program
         <div class="program-time">16.45-17.00</div>
         <div class="program-description">Closing remarks</div>
     </div>
-
     <div class="program-item">
         <div class="program-time">17.00</div>
         <div class="program-description">Closing drinks</div>
@@ -78,3 +76,11 @@ title: Program
 </div>
 
 
+
+
+<div class="content">
+    The participants will be divided into smaller groups for the workshops. You will either attend the workshop in the morning (1) or in the afternoon (2).  
+
+    For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
+    This choice determines which session you will be assigned to (A or B).
+</div>
