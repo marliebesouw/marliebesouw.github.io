@@ -15,7 +15,7 @@ title: Location
 <div class="content">
 Geert Grooteplein Noord 15 <br>
 6525 EZ Nijmegen <br>
-The Netherlands
+The Netherlands <br>
 </div>
 
 
