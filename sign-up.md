@@ -78,7 +78,7 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     event.preventDefault(); // Prevent default form submission
 
     var formData = new FormData(this);
-    fetch("https://script.google.com/macros/s/YOUR_SCRIPT_DEPLOYMENT_URL/exec", { 
+    fetch("https://script.google.com/macros/s/AKfycbxNI_smEA0FSvScU17XYgXzeKLxedljyOrpKw0Et511vXPbbzvgbzfalUmw73uwtz9F6Q/exec", { 
         method: "POST",
         body: formData
     })
