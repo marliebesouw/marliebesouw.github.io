@@ -6,6 +6,7 @@ title: Program
 <div class="program">
     <h2>Program</h2>
 
+
     <div class="program-item">
         <div class="program-time">9.00-9.30</div>
         <div class="program-description">Registration of participants</div>
