@@ -22,9 +22,10 @@ Marlie Besouw <br>
 <br>
 </div>
 
-<div class="content">
+
 # Register Your Interest
 
+<div class="content">
 <form id="interestForm">
   
   <label for="name">Full Name:</label>
@@ -33,7 +34,7 @@ Marlie Besouw <br>
   <label for="email">Email Address:</label>
   <input type="email" id="email" name="email" required><br><br>
 
-  <label for="interest">Select Your Interest Area:</label>
+  <label for="interest">Select Your Interest Area:</label> <br>
   <input type="radio" id="radiology" name="interest" value="Radiology" required>
   <label for="radiology">Radiology</label><br>
 
