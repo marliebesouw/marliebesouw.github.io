@@ -73,22 +73,44 @@ body {
     text-decoration: underline;
 }
 
+/* Style for dropdown container */
 .dropdown {
     position: relative;
     display: inline-block;
 }
 
-.dropdown-menu {
+/* Hide the dropdown by default */
+.dropdown-content {
     display: none;
     position: absolute;
-    background-color: white;
-    list-style: none;
-    padding: 0;
-    min-width: 150px;
+    background-color: #1B2430; /* Dark blue */
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
 }
 
-.dropdown:hover .dropdown-menu {
+/* Style for dropdown links */
+.dropdown-content li {
     display: block;
+    text-align: left;
+}
+
+/* Make dropdown visible when hovering */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Dropdown links styling */
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change background color on hover */
+.dropdown-content a:hover {
+    background-color: #34495E;
 }
 
 
