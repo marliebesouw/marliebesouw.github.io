@@ -148,12 +148,12 @@ document.getElementById("contactForm").addEventListener("submit", function(event
         return;
     }
 
-    // Construct mailto link
-    var mailtoLink = "mailto:" + recipientEmail +
-                     "?subject=" + encodeURIComponent("Contact Request from " + name) +
-                     "&body=" + encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message);
+    // // Construct mailto link
+    // var mailtoLink = "mailto:" + recipientEmail +
+    //                  "?subject=" + encodeURIComponent("Contact Request from " + name) +
+    //                  "&body=" + encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message);
 
-    // Open the mail client
-    window.location.href = mailtoLink;
+    // // Open the mail client
+    // window.location.href = mailtoLink;
 });
 </script>
