@@ -16,7 +16,7 @@ title: Speakers
 
 
 <div class="speaker right">
-    <img src="{{ site.baseurl }}/assets/img/Colin_Jacobs.jpg" alt="Another Speaker">
+    <img src="{{ site.baseurl }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
     <div class="speaker-info">
         <h2>Colin Jacobs</h2>
         <p> Colin Jacobs is a leading researcher in artificial intelligence and medical imaging, with a strong focus on lung cancer detection and pulmonary diseases. His expertise lies in the development and validation of machine learning algorithms for radiology applications, aiming to enhance early disease detection and improve patient outcomes. He is actively involved in international research collaborations and contributes to the advancement of AI-driven healthcare solutions.  </p>
@@ -25,7 +25,7 @@ title: Speakers
 
 
 <div class="speaker left">
-    <img src="{{ site.baseurl }}/assets/img/another-speaker.png" alt="Another Speaker">
+    <img src="{{ site.baseurl }}/assets/img/Kicky_van_Leeuwen.jpg" alt="Kicky van Leeuwen">
     <div class="speaker-info">
         <h2>Kicky van Leeuwen</h2>
         <p> Kicky van Leeuwen is a co-founder of Romion Health, where she applies her expertise as a clinical scientist in medical imaging and healthcare innovation. With a strong background in translational research, she works on bridging the gap between advanced imaging technologies and clinical implementation. At Romion Health, she focuses on integrating AI-driven solutions into medical practice, optimizing imaging techniques, and improving diagnostic accuracy. </p>
@@ -33,7 +33,7 @@ title: Speakers
 </div>
 
 <div class="speaker right">
-    <img src="{{ site.baseurl }}/assets/img/another-speaker.png" alt="Another Speaker">
+    <img src="{{ site.baseurl }}/assets/img/Stephan_Romeijn.jpg" alt="Stephan Romeijn">
     <div class="speaker-info">
         <h2>Stephan Romeijn</h2>
         <p>Stephan Romeijn is co-founder of Romion Health and an expert in healthcare innovation. His work focuses on the strategic development and implementation of AI-driven solutions in medical imaging and healthcare workflows. With a strong background in imaging sciences and medical technology, he is dedicated to making advanced healthcare solutions more accessible, efficient, and impactful for clinical practice. At Romion Health, Stephan plays a key role in driving innovation and translating technological advancements into real-world applications.</p>
@@ -42,7 +42,7 @@ title: Speakers
 
 
 <div class="speaker left">
-    <img src="{{ site.baseurl }}/assets/img/another-speaker.png" alt="Another Speaker">
+    <img src="{{ site.baseurl }}/assets/img/Robert_Breas.png" alt="Robert Breas">
     <div class="speaker-info">
         <h2>Robert Breas</h2>
         <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
