@@ -4,8 +4,10 @@ title: Location
 ---
 
 # Location
-
+<div class="content a">
 [Radboudumc Experience Center](https://www.radboudumc.nl/over-het-radboudumc/experience-center)
+</div>
+
 
 <div class="content">
 Geert Grooteplein Noord 15 <br>
