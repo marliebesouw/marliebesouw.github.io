@@ -79,28 +79,27 @@ body {
     display: inline-block;
 }
 
-/* Dropdown Styling */
-.dropdown .dropbtn {
-    position: relative;
+/* Style for dropdown arrow */
+.dropbtn::after {
+    content: " ▼"; /* Adds a small downward arrow */
+    font-size: 12px;
 }
 
-/* Hide the dropdown by default */
+/* Adjust dropdown position to align directly below "Program" */
 .dropdown-content {
     display: none;
     position: absolute;
+    top: 100%; /* Aligns below "Program" */
+    left: 50%; /* Aligns it to the center */
+    transform: translateX(-50%); /* Centers it correctly */
     background-color: #1B2430; /* Dark blue */
     min-width: 140px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
     z-index: 1000;
+    text-align: left; /* Keeps text aligned properly */
 }
 
-/* Style for dropdown links */
-.dropdown-content li {
-    display: block;
-    text-align: left;
-}
-
-/* Make dropdown visible when hovering */
+/* Ensure dropdown stays directly below when hovering */
 .dropdown:hover .dropdown-content {
     display: block;
 }
