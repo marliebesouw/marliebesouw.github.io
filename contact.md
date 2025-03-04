@@ -51,7 +51,7 @@ Marlie Besouw <br>
 </form>
 
 <p id="responseMessage"></p>
-
+ 
 <script>
 document.getElementById("interestForm").addEventListener("submit", function(event){
     event.preventDefault(); // Prevent form from submitting normally
