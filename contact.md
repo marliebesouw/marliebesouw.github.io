@@ -50,8 +50,8 @@ Marlie Besouw <br>
 
 </form>
 
-<p id="responseMessage"></p>
- 
+<p id="responseMessage" style="display: none;"></p>
+
 <script>
 document.getElementById("interestForm").addEventListener("submit", function(event){
     event.preventDefault(); // Prevent form from submitting normally
@@ -62,8 +62,13 @@ document.getElementById("interestForm").addEventListener("submit", function(even
         body: formData
     })
     .then(response => response.text())
-    .then(data => document.getElementById("responseMessage").innerHTML = "Thank you! Your response has been recorded.")
+    .then(data => {
+        document.getElementById("interestForm").style.display = "none"; // Hide the form
+        document.getElementById("responseMessage").style.display = "block";
+        document.getElementById("responseMessage").innerHTML = "Thank you! Your response has been recorded.";
+    })
     .catch(error => console.error("Error:", error));
 });
 </script>
+
 
