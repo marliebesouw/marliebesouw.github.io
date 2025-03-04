@@ -22,7 +22,7 @@ Marlie Besouw <br>
 <br>
 </div>
 
-
+<div class="content">
 # Register Your Interest
 
 <form id="interestForm">
@@ -34,12 +34,17 @@ Marlie Besouw <br>
   <input type="email" id="email" name="email" required><br><br>
 
   <label for="interest">Select Your Interest Area:</label>
-  <select id="interest" name="interest" required>
-    <option value="Radiology">Radiology</option>
-    <option value="Radiotherapy">Radiotherapy</option>
-    <option value="Cardiology">Cardiology</option>
-    <option value="Pathology">Pathology</option>
-  </select><br><br>
+  <input type="radio" id="radiology" name="interest" value="Radiology" required>
+  <label for="radiology">Radiology</label><br>
+
+  <input type="radio" id="radiotherapy" name="interest" value="Radiotherapy">
+  <label for="radiotherapy">Radiotherapy</label><br>
+
+  <input type="radio" id="cardiology" name="interest" value="Cardiology">
+  <label for="cardiology">Cardiology</label><br>
+
+  <input type="radio" id="pathology" name="interest" value="Pathology">
+  <label for="pathology">Pathology</label><br><br>
 
   <label>
     <input type="checkbox" id="updates" name="updates" required>
@@ -72,3 +77,4 @@ document.getElementById("interestForm").addEventListener("submit", function(even
 </script>
 
 
+</div>
