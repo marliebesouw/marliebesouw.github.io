@@ -7,7 +7,7 @@ title: Location
 
 <div class="content a">
     <a href="https://www.radboudumc.nl/over-het-radboudumc/experience-center" target="_blank">
-        Radboudumc Experience Center
+        Radboudumc Experience Center <br>
     </a>
 </div>
 
