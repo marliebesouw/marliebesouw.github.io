@@ -6,6 +6,7 @@ title: Sign-up
 # Sign-up
 
 # Contact Us
+
 <div class="content">
     <div id="formContainer">
         <form id="contactForm">
@@ -16,14 +17,21 @@ title: Sign-up
             <label for="email">Your Email Address*:</label>
             <input type="email" id="email" name="email" required><br><br>
 
+            <label>What is your request about?*:</label> <br>
+            <input type="radio" id="signup" name="interest" value="Signup" required>
+            <label for="signup">Sign-up & Payment</label><br>
+
+            <input type="radio" id="course" name="interest" value="Course">
+            <label for="course">Course Content & General Questions</label><br><br>
+
             <label for="message">Your Message*:</label>
             <textarea id="message" name="message" rows="4" required></textarea><br><br>
 
-            <button type="submit">Send Message</button>
+            <button type="submit">Submit</button>
 
         </form>
 
-        <p id="contactResponseMessage" style="display: none;"></p>
+        <p id="responseMessage" style="display: none;"></p>
     </div>
 </div>
 
@@ -36,7 +44,7 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     fetch("https://script.google.com/macros/s/AKfycbwlqbltr9tJAURhjigfJh3Ow9v8v23iMSOj_1Oj2dN1_PbhYIPQFUqYbTVX235pXRrbIQ/exec", {
         method: "POST",
         body: formData
-    }) 
+    })
     .then(response => response.text())
     .then(data => {
         if (data.includes("Error")) {
