@@ -5,7 +5,7 @@ title: Location
 
 # Location
 
-## [Radboudumc Experience Center](https://www.radboudumc.nl/over-het-radboudumc/experience-center)
+[Radboudumc Experience Center](https://www.radboudumc.nl/over-het-radboudumc/experience-center)
 
 <div class="content">
 Geert Grooteplein Noord 15 <br>
