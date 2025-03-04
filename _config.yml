@@ -2,6 +2,7 @@ title: "ICAI-Healthcare"
 description: "An AI learning platform for healthcare professionals."
 baseurl: "" #removed "/icai-healthcare"
 url: "https://marliebesouw.github.io"
+baseurl: "https://marliebesouw.github.io"
 
 navbar-links:
   Home: "/"
