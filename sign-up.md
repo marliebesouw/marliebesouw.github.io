@@ -6,30 +6,37 @@ title: Sign-up
 # Sign-up
 
 # Contact Us
+# Contact Us
+
 <div class="content">
-    <div id="contactFormContainer">
+    <div id="formContainer">
         <form id="contactForm">
-            
+        
             <label for="name">Full Name*:</label>
             <input type="text" id="name" name="name" required><br><br>
 
-            <label for="email">Email Address*:</label>
+            <label for="email">Your Email Address*:</label>
             <input type="email" id="email" name="email" required><br><br>
 
-            <label for="message">Your Message*:</label>
-            <textarea id="message" name="message" rows="5" required></textarea><br><br>
+            <label>What is your request about?*:</label> <br>
+            <input type="radio" id="signup" name="topic" value="signup" required>
+            <label for="signup">Sign-up & Payment</label><br>
 
-            <button type="submit">Send Message</button>
+            <input type="radio" id="course" name="topic" value="course">
+            <label for="course">Course Content & General Questions</label><br><br>
+
+            <label for="message">Your Message*:</label>
+            <textarea id="message" name="message" rows="4" required></textarea><br><br>
+
+            <button type="submit">Send Email</button>
 
         </form>
-
-        <p id="contactResponseMessage" style="display: none;"></p>
     </div>
 </div>
 
 <style>
     /* Styling for the form */
-    #contactFormContainer {
+    #formContainer {
         background-color: #f5f5f5;
         padding: 20px;
         border-radius: 8px;
@@ -63,32 +70,34 @@ title: Sign-up
     button:hover {
         background-color: #34495E;
     }
-
-    /* Style for the response message */
-    #contactResponseMessage {
-        font-size: 18px;
-        font-weight: bold;
-        color: #1B2430;
-        display: none;
-    }
 </style>
 
 <script>
-document.getElementById("contactForm").addEventListener("submit", function(event){
+document.getElementById("contactForm").addEventListener("submit", function(event) {
     event.preventDefault(); // Prevent default form submission
 
-    var formData = new FormData(this);
-    fetch("https://script.google.com/macros/s/AKfycbxNI_smEA0FSvScU17XYgXzeKLxedljyOrpKw0Et511vXPbbzvgbzfalUmw73uwtz9F6Q/exec", { 
-        method: "POST",
-        body: formData
-    })
-    .then(response => response.text())
-    .then(data => {
-        document.getElementById("contactForm").style.display = "none";
-        document.getElementById("contactResponseMessage").style.color = "green";
-        document.getElementById("contactResponseMessage").innerHTML = "✅ Your message has been sent successfully!";
-        document.getElementById("contactResponseMessage").style.display = "block";
-    })
-    .catch(error => console.error("Error:", error));
+    // Get form values
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var message = document.getElementById("message").value;
+
+    // Determine recipient email based on selected topic
+    var recipientEmail = "";
+    if (document.getElementById("signup").checked) {
+        recipientEmail = "judith.vanwerven-nobel@radboudumc.nl";
+    } else if (document.getElementById("course").checked) {
+        recipientEmail = "marlie.besouw@radboudumc.nl";
+    } else {
+        alert("Please select a topic for your request.");
+        return;
+    }
+
+    // Construct mailto link
+    var mailtoLink = "mailto:" + recipientEmail +
+                     "?subject=" + encodeURIComponent("Contact Request from " + name) +
+                     "&body=" + encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message);
+
+    // Open the mail client
+    window.location.href = mailtoLink;
 });
 </script>
