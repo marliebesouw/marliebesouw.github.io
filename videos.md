@@ -3,7 +3,7 @@ layout: default
 title: Videos
 ---
 
+# Videos
 <div class="content">
-    <h2>Videos</h2>
     <p>Access the learning materials and videos here.</p>
 </div>
