@@ -44,7 +44,7 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     fetch("https://script.google.com/macros/s/AKfycbwlqbltr9tJAURhjigfJh3Ow9v8v23iMSOj_1Oj2dN1_PbhYIPQFUqYbTVX235pXRrbIQ/exec", {
         method: "POST",
         body: formData
-    })
+    }) 
     .then(response => response.text())
     .then(data => {
         if (data.includes("Error")) {
