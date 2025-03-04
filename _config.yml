@@ -308,12 +308,12 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-baseurl: "/icai-healthcare"
+#baseurl: "/icai-healthcare"
 url: "https://marliebesouw.github.io"
 disqus: your-disqus-shortname
 
 title: "ICAI-Healthcare"
 description: "An AI learning platform for healthcare professionals."
-baseurl: "/icai-healthcare"
+#baseurl: "/icai-healthcare"
 url: "https://marliebesouw.github.io"
 
