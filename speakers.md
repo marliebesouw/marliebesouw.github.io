@@ -5,17 +5,8 @@ title: Speakers
 
 # Speakers
 
-  
+
 <div class="speaker left">
-    <img src="{{ site.baseurl }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
-    <div class="speaker-info">
-       <h2>Bram van Ginneken</h2> 
-       <p> Bram van Ginneken is a globally recognized expert in medical image analysis and artificial intelligence. As a professor at Radboudumc, he leads groundbreaking research in deep learning applications for radiology, focusing on automated image interpretation and AI-assisted diagnostics. His work has significantly contributed to advancements in lung cancer detection, tuberculosis screening, and broader AI-driven imaging solutions in healthcare.</p>
-    </div>
-</div>
-
-
-<div class="speaker right">
     <img src="{{ site.baseurl }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
     <div class="speaker-info">
         <h2>Colin Jacobs</h2>
@@ -24,7 +15,7 @@ title: Speakers
 </div>
 
 
-<div class="speaker left">
+<div class="speaker right">
     <img src="{{ site.baseurl }}/assets/img/Kicky_van_Leeuwen.jpg" alt="Kicky van Leeuwen">
     <div class="speaker-info">
         <h2>Kicky van Leeuwen</h2>
@@ -32,7 +23,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right">
+<div class="speaker left">
     <img src="{{ site.baseurl }}/assets/img/Stephan_Romeijn.jpg" alt="Stephan Romeijn">
     <div class="speaker-info">
         <h2>Stephan Romeijn</h2>
@@ -40,9 +31,16 @@ title: Speakers
     </div>
 </div>
 
+<div class="speaker right">
+    <img src="{{ site.baseurl }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
+    <div class="speaker-info">
+       <h2>Bram van Ginneken</h2> 
+       <p> Bram van Ginneken is a globally recognized expert in medical image analysis and artificial intelligence. As a professor at Radboudumc, he leads groundbreaking research in deep learning applications for radiology, focusing on automated image interpretation and AI-assisted diagnostics. His work has significantly contributed to advancements in lung cancer detection, tuberculosis screening, and broader AI-driven imaging solutions in healthcare.</p>
+    </div>
+</div>
 
 <div class="speaker left">
-    <img src="{{ site.baseurl }}/assets/img/Robert_Breas.png" alt="Robert Breas">
+    <img src="{{ site.baseurl }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
     <div class="speaker-info">
         <h2>Robert Breas</h2>
         <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
