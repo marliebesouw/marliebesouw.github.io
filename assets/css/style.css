@@ -262,3 +262,12 @@ header, .hero, .hero img {
     max-width: 100%;
 }
 
+.fa-linkedin {
+    font-size: 24px; /* Adjust size */
+    color: #0077B5; /* LinkedIn Blue */
+    text-decoration: none;
+}
+
+.fa-linkedin:hover {
+    color: #005582; /* Darker blue on hover */
+}
