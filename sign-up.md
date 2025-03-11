@@ -4,6 +4,9 @@ title: Sign-up
 ---
 
 # Sign-up
+<div class="content">
+    <p>Sign-ups are not open yet, but you can register your interest to stay informed. We will keep you updated and let you know as soon as registration becomes available.  If you have any questions in the meantime, feel free to reach out via the <a href="{{ site.baseurl }}/contact">contact form</a>.</p>
+</div>
 
 # Register Your Interest
 <div class="content">

@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-# Contact
+<!-- # Contact
 
 <div class="content">
 
@@ -20,11 +20,11 @@ For other questions: <br>
 Marlie Besouw <br>
 
 <br>
-</div>
+</div> -->
 
 
 
-# Contact Us
+# Contact 
 
 <div class="content">
     <div id="formContainer">
