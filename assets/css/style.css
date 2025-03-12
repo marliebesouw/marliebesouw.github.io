@@ -122,6 +122,7 @@ body {
 
 /* MAIN CONTENT */
 main {
+    flex: 1;
     max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
@@ -150,7 +151,7 @@ footer {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .hero {
         height: auto;
         max-height: 300px; 
@@ -158,7 +159,7 @@ footer {
 
     navbar ul {
         display: flex;
-        flex-direction: column; /* Stack menu items on mobile */
+        flex-direction: column;
         padding: 10px;
     }
 
@@ -167,11 +168,12 @@ footer {
         text-align: center;
         margin: 10px 0;
     }
-}
+} */
 
 
 /* Remove extra margins and paddings from body and html */
 html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
     overflow-x: hidden; /* Prevents any horizontal scroll */
@@ -289,6 +291,12 @@ header, .hero, .hero img {
 
 /* MOBILE NAVBAR - Hides menu initially */
 @media screen and (max-width: 768px) {
+    .hero {
+        height: auto;
+        max-height: 300px; 
+    }
+
+    
     .navbar ul {
         display: none; /* Hide menu */
         flex-direction: column;
@@ -300,6 +308,12 @@ header, .hero, .hero img {
         text-align: center;
     }
 
+    navbar ul li {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+
     .navbar ul.active {
         display: flex; /* Show menu when active */
     }
@@ -308,3 +322,5 @@ header, .hero, .hero img {
         display: block; /* Show hamburger icon on small screens */
     }
 }
+
+
