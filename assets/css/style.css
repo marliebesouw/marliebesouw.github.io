@@ -55,6 +55,7 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
+;
 }
 
 .navbar li {
@@ -270,4 +271,40 @@ header, .hero, .hero img {
 
 .fa-linkedin:hover {
     color: #005582; /* Darker blue on hover */
+}
+
+
+/* HAMBURGER MENU (Hidden on Desktop) */
+.hamburger {
+    display: none; /* Hidden by default */
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+    background: none;
+    border: none;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+
+/* MOBILE NAVBAR - Hides menu initially */
+@media screen and (max-width: 768px) {
+    .navbar ul {
+        display: none; /* Hide menu */
+        flex-direction: column;
+        background-color: #1B2430;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 50px;
+        text-align: center;
+    }
+
+    .navbar ul.active {
+        display: flex; /* Show menu when active */
+    }
+
+    .hamburger {
+        display: block; /* Show hamburger icon on small screens */
+    }
 }
