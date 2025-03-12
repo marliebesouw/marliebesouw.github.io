@@ -16,7 +16,7 @@ title: Program
   Interactive sessions focused on selecting AI systems for healthcare.  
 
 - **Insight Sessions: AI in Clinical Practice**  
-  <a href="{{ site.baseurl }}/vendors">Vendors</a>.</p> from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.  
+  <p><a href="{{ site.baseurl }}/vendors">Vendors</a></p> from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.  
 
 - **Plenary Discussion**  
   A panel discussion on the future of AI in healthcare, covering impact, ethics, and trends.  
