@@ -2,9 +2,7 @@
 layout: default
 title: Program
 ---
-# Program
-
-## Program Overview
+# Program overview
 
 - **Plenary Opening**  
   A practical story from the clinic on the opportunities and challenges of AI in healthcare.  
@@ -15,9 +13,8 @@ title: Program
 - **Hands-on Workshops**  
   Interactive sessions focused on selecting AI systems for healthcare.  
 
-- **Insight Sessions: AI in Clinical Practice**  
-  <div class = "content">
-  <p><a href="{{ site.baseurl }}/vendors">Vendors</a>from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.  
+- **Insight Sessions: AI in Clinical Practice**  <div class = "content"> 
+<p><a href="{{ site.baseurl }}/vendors">Vendors</a> from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.  
     </p> </div>
 - **Plenary Discussion**  
   A panel discussion on the future of AI in healthcare, covering impact, ethics, and trends.  
@@ -25,6 +22,8 @@ title: Program
 - **Networking Opportunities**  
   Time to connect with experts and peers over coffee, lunch, and closing drinks.  
 
+## Accreditation
+Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
 
 <!-- <div class="program">
 
