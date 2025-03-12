@@ -4,7 +4,7 @@ title: Program
 ---
 <div class="content">
 <p>
-<h>Program Overview<h>
+<h1>Program Overview<h1>
 
 <h2>Plenary Opening</h2>  
   A practical story from the clinic on the opportunities and challenges of AI in healthcare.  
