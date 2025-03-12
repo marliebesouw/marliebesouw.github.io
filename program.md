@@ -3,7 +3,29 @@ layout: default
 title: Program
 ---
 # Program
-<div class="program">
+
+## Program Overview
+
+- **Plenary Opening**  
+  A practical story from the clinic on the opportunities and challenges of AI in healthcare.  
+
+- **Introduction to AI Selection**  
+  Key considerations for selecting an AI system.  
+
+- **Hands-on Workshops**  
+  Interactive sessions focused on selecting AI systems for healthcare.  
+
+- **Insight Sessions: AI in Clinical Practice**  
+  <a href="{{ site.baseurl }}/vendors">Vendors</a>.</p> from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.  
+
+- **Plenary Discussion**  
+  A panel discussion on the future of AI in healthcare, covering impact, ethics, and trends.  
+
+- **Networking Opportunities**  
+  Time to connect with experts and peers over coffee, lunch, and closing drinks.  
+
+
+<!-- <div class="program">
 
     <div class="program-item">
         <div class="program-time">9.00-9.30</div>  
@@ -81,4 +103,4 @@ title: Program
 
     For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
     This choice determines which session you will be assigned to (A or B).
-</div>
+</div> -->
