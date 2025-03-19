@@ -65,6 +65,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-description">
             Workshop 1:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
+            Speaker:
+            <br><br>
             Session 1a/1b<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a>
@@ -82,6 +84,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-description">
             Workshop 2:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
+            Speakers:
+            <br> <br>
             Session 2a/2b:<br>
             <strong>Insight session: AI in clinical practice.</strong>
         </div>
@@ -97,8 +101,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
             <!-- <em>Plenary discussion:<br></em> -->
             <strong>Bringing the large language model (LLM) to the clinic </strong><br>
             Speaker: <a href= "https://nl.autoscriber.com/" class="speaker-link">Autoscriber</a> <br>
-            <strong>What is the future of AI in healthcare?</strong>
-            Speakers: 
+            <strong>What is the future of AI in healthcare?</strong> <br>
+            Speakers: <br>
             <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a><br>
             <a href= "{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
         </div>
