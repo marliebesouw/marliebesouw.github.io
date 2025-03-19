@@ -78,7 +78,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-description">
             Workshop 2:<br>
             <em>Hands-on workshop: selecting an AI system</em><br>
-            Session 2a/2b:</strong><br>
+            Session 2a/2b:<br>
             <em>Insight session: AI in clinical practice.</em>
         </div>
     </div>
@@ -91,7 +91,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
             Plenary discussion:<br>
-            <em>What is the future of AI in healthcare?</em>
+            <bold><em>What is the future of AI in healthcare?</em></bold>
         </div>
     </div>
 
