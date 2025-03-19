@@ -67,7 +67,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
             <strong>Hands-on workshop: selecting an AI system</strong><br>
             Session 1a/1b<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
-            Speakers:  <a href= "{{ site.url }}/vendors">Vendors</a>
+            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a>
 
         </div>
     </div>
