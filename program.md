@@ -91,7 +91,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
             Plenary discussion:<br>
-            <bold><em>What is the future of AI in healthcare?</em></bold>
+            <strong><em>What is the future of AI in healthcare?</em></strong>
         </div>
     </div>
 
