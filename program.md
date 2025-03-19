@@ -95,7 +95,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
             <!-- <em>Plenary discussion:<br></em> -->
-            <strong>Bringing the large language model (LLM) to the clinic <br>
+            <strong>Bringing the large language model (LLM) to the clinic </strong><br>
             Speaker: <a href= "https://nl.autoscriber.com/" class="speaker-link">Autoscriber</a> <br>
             <strong>What is the future of AI in healthcare?</strong>
             Speakers: 
