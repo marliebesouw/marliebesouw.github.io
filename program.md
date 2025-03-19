@@ -100,7 +100,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-description">
             <!-- <em>Plenary discussion:<br></em> -->
             <strong>Bringing the large language model (LLM) to the clinic </strong><br>
-            Speaker: <a href= "https://nl.autoscriber.com/" class="speaker-link">Autoscriber</a> <br>
+            Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br>
             <strong>What is the future of AI in healthcare?</strong> <br>
             Speakers: <br>
             <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a><br>
