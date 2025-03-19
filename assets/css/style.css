@@ -235,6 +235,17 @@ header, .hero, .hero img {
     order: 1; /* Move text to first column */
 }
 
+.speaker-link {
+    color: #1B2430;  /* Dark blue, same as other links */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make it bold */
+}
+
+.speaker-link:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #34495E; /* Slightly lighter color on hover */
+}
+
 .program {
     max-width: 700px; /* Restricts width for better readability */
     /*margin: 0 auto; Centers the program section */
