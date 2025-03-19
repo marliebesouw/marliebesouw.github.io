@@ -3,7 +3,7 @@ layout: default
 title: Program
 ---
 
-## Program Overview
+# Program Overview
 
 <!-- #### Plenary Opening  
  
@@ -113,4 +113,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
 
     For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
     This choice determines which session you will be assigned to (A or B).
-</div> -->
+</div> 
+
+## Accreditation
+Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
