@@ -54,7 +54,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
             <!-- Plenary introduction of the selection of AI:<br> -->
-            <strong>Considerations for selecting an AI system</strong>
+            <strong>Considerations for selecting an AI system</strong><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
 
         </div>
@@ -66,8 +66,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
             Workshop 1:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
             Session 1a/1b<br>
-            <strong>Insight session: AI in clinical practice.</strong>
-            Speakers:  <a href= "{{ site.url }}/vendors>Vendors</a>
+            <strong>Insight session: AI in clinical practice.</strong><br>
+            Speakers:  <a href= "{{ site.url }}/vendors">Vendors</a>
 
         </div>
     </div>
