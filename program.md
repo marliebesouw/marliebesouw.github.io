@@ -5,7 +5,7 @@ title: Program
 
 ## Program Overview
 
-#### Plenary Opening  
+<!-- #### Plenary Opening  
  
  <div class="content">
     <p>
@@ -32,10 +32,10 @@ title: Program
 
 ## Accreditation 
 Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
+ -->
 
 
-
-<!-- <div class="program">
+<div class="program">
 
     <div class="program-item">
         <div class="program-time">9.00-9.30</div>  
