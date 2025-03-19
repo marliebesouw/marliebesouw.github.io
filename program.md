@@ -53,8 +53,10 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
-            Plenary introduction of the selection of AI:<br>
-            <em>Considerations for selecting an AI system</em>
+            <!-- Plenary introduction of the selection of AI:<br> -->
+            <strong>Considerations for selecting an AI system</strong>
+            Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
+
         </div>
     </div>
 
@@ -62,9 +64,11 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
             Workshop 1:<br>
-            <em>Hands-on workshop: selecting an AI system</em><br>
+            <strong>Hands-on workshop: selecting an AI system</strong><br>
             Session 1a/1b<br>
-            <em>Insight session: AI in clinical practice.</em>
+            <strong>Insight session: AI in clinical practice.</strong>
+            Speakers:  <a href= "{{ site.url }}/vendors>Vendors</a>
+
         </div>
     </div>
 
@@ -77,9 +81,9 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">13.30-15.00</div>
         <div class="program-description">
             Workshop 2:<br>
-            <em>Hands-on workshop: selecting an AI system</em><br>
+            <strong>Hands-on workshop: selecting an AI system</strong><br>
             Session 2a/2b:<br>
-            <em>Insight session: AI in clinical practice.</em>
+            <strong>Insight session: AI in clinical practice.</strong>
         </div>
     </div>
     <div class="program-item">
@@ -90,7 +94,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
     <div class="program-item">
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
-            <em>Plenary discussion:<br></em>
+            <!-- <em>Plenary discussion:<br></em> -->
+            <strong>Large language model in the clinic: Autoscriber</strong> <br>
             <strong>What is the future of AI in healthcare?</strong>
         </div>
     </div>
