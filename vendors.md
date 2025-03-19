@@ -5,8 +5,8 @@ title: Vendors
 
 # Vendors
 <div class="content">
-    <p> During the Insight Sessions, vendors from four key fields—Cardiology, Pathology, Radiology, and Radiotherapy—will present their algorithms and share their experiences. They will discuss the implementation process and collaboration with end-users, providing valuable insights into the challenges and successes of integrating AI into medical practice.
-    </p>
+    <p> During the Insight Sessions, vendors from four key fields—Cardiology, Pathology, Radiology, and Radiotherapy—will present their algorithms and share their experiences. They will discuss the implementation process and collaboration with end-users, providing valuable insights into the challenges and successes of integrating AI into medical practice.<br><br> 
+    For more information about the vendor's algorithms, click on their logo to be redirected to their website.    </p>
 </div>
 
 <div class="content" style="text-align: center;">
