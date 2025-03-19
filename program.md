@@ -46,7 +46,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
         <div class="program-time">9.45-10.25</div>
         <div class="program-description">
             <strong>The opportunities and challenges of AI in healthcare</strong><br>
-            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs">Colin Jacobs</a>
+            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
         </div>
     </div>
 
