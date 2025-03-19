@@ -45,8 +45,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
     <div class="program-item">
         <div class="program-time">9.45-10.25</div>
         <div class="program-description">
-            Plenary opening with a practical story from the clinic:<br>
-            <em>The opportunities and challenges of AI in healthcare</em>
+            <strong>The opportunities and challenges of AI in healthcare</strong><br>
+            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs">Colin Jacobs</a>
         </div>
     </div>
 
@@ -113,7 +113,8 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
 
     For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
     This choice determines which session you will be assigned to (A or B).
-</div> 
 
-## Accreditation
+
+<h2>Accreditation</h2>
 Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
+</div> 
