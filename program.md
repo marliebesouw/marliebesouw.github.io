@@ -5,32 +5,32 @@ title: Program
 
 ## Program Overview
 
-## Plenary Opening  
+#### Plenary Opening  
  
  <div class="content">
     <p>
   A practical story from the clinic on the opportunities and challenges of AI in healthcare.  </p>
 </div>
 
- ## Introduction to AI Selection
+#### Introduction to AI Selection
   Key considerations for selecting an AI system.  
 
-## Hands-on Workshops  
+#### Hands-on Workshops  
   Interactive sessions focused on selecting AI systems for healthcare.  
 
-## Insight Sessions: AI in Clinical Practice
+#### Insight Sessions: AI in Clinical Practice
 <div class = "content"> <p>
   <a href="{{ site.baseurl }}/vendors">Vendors</a> from Cardiology, Pathology, Radiology, and Radiotherapy present their AI solutions and discuss implementation with end-users.
   </p>
   </div>
 
-## Plenary Discussion  
+#### Plenary Discussion  
   A panel discussion on the future of AI in healthcare, covering impact, ethics, and trends.  
 
-## Networking Opportunities
+#### Networking Opportunities
   Time to connect with experts and peers over coffee, lunch, and closing drinks.  
 
-# Accreditation 
+## Accreditation 
 Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
 
 
