@@ -6,7 +6,7 @@ title: Speakers
 # Speakers
 
 
-<div class="speaker left">
+<div class="speaker left" id="colin-jacobs">
     <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
     <div class="speaker-info">
         <h2>Colin Jacobs  
@@ -18,7 +18,7 @@ title: Speakers
 </div>
 
 
-<div class="speaker right">
+<div class="speaker right" id="kicky-van-leeuwen">
     <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" alt="Kicky van Leeuwen">
     <div class="speaker-info">
         <h2>Kicky van Leeuwen  
@@ -40,7 +40,7 @@ title: Speakers
     </div>
 </div> -->
 
-<div class="speaker left", id = "colin-jacobs">
+<div class="speaker left" id = "robert-breas">
     <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
     <div class="speaker-info">
         <h2>Robert Breas 
@@ -51,7 +51,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right">
+<div class="speaker right" id = "bram-van-ginneken">
     <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
     <div class="speaker-info">
        <h2>Bram van Ginneken 
