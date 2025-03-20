@@ -74,7 +74,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             &nbsp;<br><em><u>or</u>*</em><br>
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
-            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors & their end-users</a>
+            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
 
         </div>
     </div>
@@ -90,9 +90,11 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <strong>Workshop 2:</strong><br>
             <u>Hands-on workshop: selecting an AI system</u><br>
             Speakers: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            <br> <em><u>or</u>*</em><br>
+            <br> 
+            &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <strong>Session 2a/2b:</strong><br>
-            <u>Insight session: AI in clinical practice.</u>
+            <u>Insight session: AI in clinical practice.</u><br>
+            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
         </div>
     </div>
     <div class="program-item">
