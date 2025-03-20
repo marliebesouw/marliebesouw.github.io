@@ -49,7 +49,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-time">9.45-10.25</div>
         <div class="program-description">
             <strong>The opportunities and challenges of AI in healthcare</strong><br>
-            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
+            Speaker: <em><a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a></em>
         </div>
     </div>
 
@@ -68,7 +68,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-description">
             Workshop 1:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
-            Speaker:
+            Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
             <br><br>
             Session 1a/1b<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
@@ -87,7 +87,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-description">
             Workshop 2:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
-            Speakers:
+            Speakers: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
             <br> <br>
             Session 2a/2b:<br>
             <strong>Insight session: AI in clinical practice.</strong>
@@ -106,7 +106,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br>
             <strong>What is the future of AI in healthcare?</strong> <br>
             Speakers: <br>
-            <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a><br>
+            <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> & 
             <a href= "{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
         </div>
     </div>
