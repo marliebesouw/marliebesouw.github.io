@@ -42,13 +42,14 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
     <div class="program-item">
         <div class="program-time">9.00-9.30</div>  
-        <div class="program-description">Registration of participants</div>
+        <div class="program-description"><strong>Registration of participants</strong></div>
     </div>
 
     <div class="program-item">
         <div class="program-time">9.45-10.25</div>
         <div class="program-description">
-            <strong>The opportunities and challenges of AI in healthcare</strong><br>
+            <strong>Reading 1</strong><br>
+            <u>The opportunities and challenges of AI in healthcare</u><br>
             Speaker: <em><a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a></em>
         </div>
     </div>
@@ -56,8 +57,9 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
+            <strong>Reading 2</strong> <br>
             <!-- Plenary introduction of the selection of AI:<br> -->
-            <strong>Considerations for selecting an AI system</strong><br>
+            <u>Considerations for selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
 
         </div>
@@ -70,7 +72,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <strong>Hands-on workshop: selecting an AI system</strong><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
             &nbsp;<br><em><u>or</u>*</em><br>
-            Session 1a/1b<br>
+            Session 1a/1b:<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors & their end-users</a>
 
@@ -105,7 +107,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <strong>Bringing the large language model (LLM) to the clinic </strong><br>
             Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br>
             <strong>What is the future of AI in healthcare?</strong> <br>
-            Speakers: <br>
+            Speakers: 
             <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> & 
             <a href= "{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
         </div>
@@ -128,7 +130,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     *The participants will be divided into smaller groups for the workshops. You will either attend the workshop in the morning (1) or in the afternoon (2).  
 
     For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
-    This choice determines which session you will be assigned to (A or B).
+    This choice determines which session you will be assigned to (a or b).
 
 
 <h2>Accreditation</h2>

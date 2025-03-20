@@ -239,8 +239,9 @@ header, .hero, .hero img {
 
 .speaker-link {
     color: #1B2430;  /* Dark blue, same as other links */
-    text-decoration: none;  
-    font-weight: bold, italic; /* Make it bold */
+    text-decoration:none;  
+    /* font-weight: bold, italic;  */
+    font-style:italic;
 }
 
 .speaker-link:hover {
