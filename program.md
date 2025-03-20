@@ -33,7 +33,10 @@ title: Program
 ## Accreditation 
 Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
  -->
-
+<div class="content">
+Below you can find the time schedule of the workshop day on September 19. <br>
+More information regarding the speakers can be found <a href= "{{ site.url }}/speakers#colin-jacobs">here</a>.
+</div>
 
 <div class="program">
 
