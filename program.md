@@ -70,8 +70,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-description">
             <strong>Workshop 1:</strong><br>
             <u>Hands-on workshop: selecting an AI system</u><br>
-            Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            &nbsp;&nbsp;<br><em><u>or</u>*</em><br>
+            Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br>
+            &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
@@ -106,10 +106,10 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
             <!-- <em>Plenary discussion:<br></em> -->
-            <strong>Plenary session 3</strong><br>
+            <strong>Plenary session 3:</strong><br>
             <u>Bringing the large language model (LLM) to the clinic </u><br>
-            Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br>
-            <strong>Plenary session 4</strong><br>
+            Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br><br>
+            <strong>Plenary session 4:</strong><br>
             <u>What is the future of AI in healthcare?</u> <br>
             Speakers: 
             <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> & 
