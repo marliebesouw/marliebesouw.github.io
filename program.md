@@ -48,16 +48,16 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time">9.45-10.25</div>
         <div class="program-description">
-            <strong>Reading 1</strong><br>
+            <strong>Plenary session 1:</strong><br>
             <u>The opportunities and challenges of AI in healthcare</u><br>
-            Speaker: <em><a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a></em>
+            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
         </div>
     </div>
 
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
-            <strong>Reading 2</strong> <br>
+            <strong>Plenary session 2:</strong> <br>
             <!-- Plenary introduction of the selection of AI:<br> -->
             <u>Considerations for selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
@@ -68,12 +68,12 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
-            Workshop 1:<br>
-            <strong>Hands-on workshop: selecting an AI system</strong><br>
+            <strong>Workshop 1:</strong><br>
+            <u>Hands-on workshop: selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
             &nbsp;<br><em><u>or</u>*</em><br>
-            Session 1a/1b:<br>
-            <strong>Insight session: AI in clinical practice.</strong><br>
+            <strong>Session 1a/1b:</strong><br>
+            <u>Insight session: AI in clinical practice.</u><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors & their end-users</a>
 
         </div>
@@ -81,32 +81,34 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
     <div class="program-item">
         <div class="program-time">12.30-13.30</div>
-        <div class="program-description">Lunch break</div>
+        <div class="program-description"><strong>Lunch break</strong></div>
     </div>
 
     <div class="program-item">
         <div class="program-time">13.30-15.00</div>
         <div class="program-description">
-            Workshop 2:<br>
-            <strong>Hands-on workshop: selecting an AI system</strong><br>
+            <strong>Workshop 2:</strong><br>
+            <u>Hands-on workshop: selecting an AI system</u><br>
             Speakers: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            <br> <br>
-            Session 2a/2b:<br>
-            <strong>Insight session: AI in clinical practice.</strong>
+            <br> <em><u>or</u>*</em><br>
+            <strong>Session 2a/2b:</strong><br>
+            <u>Insight session: AI in clinical practice.</u>
         </div>
     </div>
     <div class="program-item">
         <div class="program-time">15.00-15.30</div>
-        <div class="program-description">Coffee break</div>
+        <div class="program-description"><strong>Coffee break</strong></div>
     </div>
 
     <div class="program-item">
         <div class="program-time">15.30-16.45</div>
         <div class="program-description">
             <!-- <em>Plenary discussion:<br></em> -->
-            <strong>Bringing the large language model (LLM) to the clinic </strong><br>
+            <strong>Plenary session 3</strong><br>
+            <u>Bringing the large language model (LLM) to the clinic </u><br>
             Speaker: <a href= "https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a> <br>
-            <strong>What is the future of AI in healthcare?</strong> <br>
+            <strong>Plenary session 4</strong><br>
+            <u>What is the future of AI in healthcare?</u> <br>
             Speakers: 
             <a href= "{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> & 
             <a href= "{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
@@ -115,11 +117,11 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
     <div class="program-item">
         <div class="program-time">16.45-17.00</div>
-        <div class="program-description">Closing remarks</div>
+        <div class="program-description"><strong>Closing remarks</strong></div>
     </div>
     <div class="program-item">
         <div class="program-time">17.00</div>
-        <div class="program-description">Closing drinks</div>
+        <div class="program-description"><strong>Closing drinks</strong></div>
     </div>
 </div>
 
