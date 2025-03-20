@@ -69,7 +69,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             Workshop 1:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            <br><p></p><em><u>or*</u></em><br>
+            &nbsp;<br><em><u>or</u>*</em><br>
             Session 1a/1b<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors & their end-users</a>
