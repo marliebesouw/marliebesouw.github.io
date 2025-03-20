@@ -69,7 +69,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             Workshop 1:<br>
             <strong>Hands-on workshop: selecting an AI system</strong><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            <br><em><u>Or</u></em><br>
+            <br><p></p><em><u>or*</u></em><br>
             Session 1a/1b<br>
             <strong>Insight session: AI in clinical practice.</strong><br>
             Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors & their end-users</a>
@@ -125,7 +125,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
 
 <div class="content">
-    The participants will be divided into smaller groups for the workshops. You will either attend the workshop in the morning (1) or in the afternoon (2).  
+    *The participants will be divided into smaller groups for the workshops. You will either attend the workshop in the morning (1) or in the afternoon (2).  
 
     For the insight sessions, there will be an additional split. When signing up, you will choose one of the four focus areas: Radiology, Radiotherapy, Cardiology, or Pathology.  
     This choice determines which session you will be assigned to (A or B).
