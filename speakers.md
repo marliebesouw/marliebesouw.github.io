@@ -130,6 +130,17 @@ title: Speakers
     </div>
 </div>
 
+<div class="speaker left" id = "marja-de-waal">
+    <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" alt="Marja de Waal">
+    <div class="speaker-info">
+        <h2>Marja de Waal
+        <a href="https://www.linkedin.com/in/marja-de-waal-42b61337/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> ​Marja de Waal is a clinical informatician at Radboud University Medical Center (Radboudumc) in Nijmegen, Netherlands, with extensive experience in the healthcare sector, particularly in medical imaging. She has played a pivotal role in integrating artificial intelligence (AI) solutions into clinical practice. Notably, she initiated a pilot project evaluating Autoscriber's AI-driven digital scribe technology within Radboudumc's EPIC Electronic Health Record system. This three-month pilot involved ten medical specialists assessing the impact of ambient listening technology on clinical documentation, aiming to enhance workflow efficiency and reduce physician burnout. </p>
+    </div>
+</div>
+
 <div class="speaker right" id = "martijn-bauer">
     <img src="{{ site.url }}/assets/img/Martijn_Bauer.jpg" alt="Martijn Bauer">
     <div class="speaker-info">
@@ -141,16 +152,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker left" id = "marja-de-waal">
-    <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" alt="Marja de Waal">
-    <div class="speaker-info">
-        <h2>Marja de Waal
-        <a href="https://www.linkedin.com/in/marja-de-waal-42b61337/" target="_blank" style="margin-left:3mm;">
-            <i class="fa-brands fa-linkedin"></i>
-        </a></h2>
-        <p> ​Marja de Waal is a clinical informatician at Radboud University Medical Center (Radboudumc) in Nijmegen, Netherlands, with extensive experience in the healthcare sector, particularly in medical imaging. She has played a pivotal role in integrating artificial intelligence (AI) solutions into clinical practice. Notably, she initiated a pilot project evaluating Autoscriber's AI-driven digital scribe technology within Radboudumc's EPIC Electronic Health Record system. This three-month pilot involved ten medical specialists assessing the impact of ambient listening technology on clinical documentation, aiming to enhance workflow efficiency and reduce physician burnout. </p>
-    </div>
-</div>
+
 
 <div class="speaker left" id = "bram-van-ginneken">
     <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
