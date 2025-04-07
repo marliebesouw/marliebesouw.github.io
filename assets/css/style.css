@@ -315,6 +315,24 @@ header, .hero, .hero img {
   }
   
   
+  .program-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .program-text {
+    flex: 1;
+    padding-right: 10px;
+  }
+  
+  .program-image img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #1B2430;
+  }
   
 
 .map-container {
