@@ -5,6 +5,8 @@ title: Welcome to ICAI-Healthcare
 # Welcome to ICAI Healthcare
 <div class="content">
     <p>
+   <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br>
+
     Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This course is designed to bridge that gap—connecting ideas with implementation. <br>
 
     A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and successfully implement it. This course provides practical insights, real-world case studies, and hands-on experience to help professionals navigate the entire AI adoption process. By bringing together healthcare experts, AI vendors, and researchers, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br>
