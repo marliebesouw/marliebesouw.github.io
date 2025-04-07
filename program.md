@@ -87,9 +87,9 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <u>Hands-on workshop: selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br>
         </div>
-             &nbsp;&nbsp; <em><u>or</u>*</em><br>
 
-            <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
+            <a href="{{ site.url }}/speakers#kicky-van-leeuwen"><br>
+             &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
             </a>
         </div>
