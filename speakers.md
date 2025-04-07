@@ -142,7 +142,7 @@ title: Speakers
 </div>
 
 <div class="speaker right" id = "martijn-bauer">
-    <img src="{{ site.url }}/assets/img/Martijn_Bauer.jpg" alt="Martijn Bauer">
+    <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" alt="Martijn Bauer">
     <div class="speaker-info">
        <h2>Martijn Bauer
         <a href="https://www.linkedin.com/in/martijn-bauer-79909b6/" target="_blank" style="margin-left:3mm;">
