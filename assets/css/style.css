@@ -289,12 +289,16 @@ header, .hero, .hero img {
   }
   
   .speaker-thumb {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid #1B2430;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
   }
+  
   
   
   
