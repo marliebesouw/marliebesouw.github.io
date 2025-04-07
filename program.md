@@ -77,6 +77,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         </div>
     </div>
     </div>
+    
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
@@ -86,6 +87,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <u>Hands-on workshop: selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br>
         </div>
+             &nbsp;&nbsp; <em><u>or</u>*</em><br>
+
             <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
             <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
             </a>
@@ -98,7 +101,6 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-description">
             <div class= program-session">
             <div class= "text">
-            &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
             Speakers: <br> 
@@ -107,8 +109,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             &nbsp;&nbsp;&nbsp;&nbsp; Radiology: <a href= "{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a>  & TBA <br>
             <!-- & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a>  <br> --> 
             &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & <a href= "{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  <br>
-        </div>
-        </div>
+            </div>
+            </div>
     </div>
     </div>
 
