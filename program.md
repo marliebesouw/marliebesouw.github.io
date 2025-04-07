@@ -87,8 +87,11 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
             Speakers: <br> 
-            &nbsp;&nbsp;&nbsp;&nbsp; Radiology:<a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users <br>
-            &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:<a href= "{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Pathology: <a href= "{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & <a href= "{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a>  <br>        
+            <!-- &nbsp;&nbsp;&nbsp;&nbsp; Radiology:<a href= "{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a>  
+            <!-- & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a>  <br> --> -->
+            &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & <a href= "{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  <br>
         </div>
     </div>
 
@@ -151,7 +154,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <em>Bringing the large language model (LLM) to the clinic</em><br>
             Speaker:<br>
             <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> &
-            <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
+            <a href="{{ site.url }}/speakers#martijn-bauer1" class="speaker-link">Martijn Bauer</a>
         </div>
         <div class="program-image">
             <a href="{{ site.url }}/speakers#marja-de-waal">
