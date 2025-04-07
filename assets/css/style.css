@@ -12,6 +12,30 @@ html, body {
     width: 100%;
 }
 
+
+/* MAIN CONTENT */
+main {
+    flex: 1;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.content a {
+    color: #1B2430; /* Dark color */
+    text-decoration: none; /* Removes underline */
+    font-weight: bold; /* Optional: Makes text bold */
+}
+
+.content a:hover {
+    text-decoration: underline; /* Adds underline only on hover */
+}
+
 /* HERO HEADER */
 .hero {
     width: 100vw;
@@ -124,70 +148,6 @@ html, body {
 }
 
 
-/* MAIN CONTENT */
-main {
-    flex: 1;
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 20px;
-    background: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.content a {
-    color: #1B2430; /* Dark color */
-    text-decoration: none; /* Removes underline */
-    font-weight: bold; /* Optional: Makes text bold */
-}
-
-.content a:hover {
-    text-decoration: underline; /* Adds underline only on hover */
-}
-
-
-/* FOOTER */
-footer {
-    text-align: center;
-    background-color: #1B2430;
-    color: white;
-    padding: 10px;
-    margin-top: auto;
-    width: 100%;
-}
-
-/* Responsive Design */
-/* @media (max-width: 768px) {
-    .hero {
-        height: auto;
-        max-height: 300px; 
-    }
-
-    navbar ul {
-        display: flex;
-        flex-direction: column;
-        padding: 10px;
-    }
-
-    navbar ul li {
-        display: block;
-        text-align: center;
-        margin: 10px 0;
-    }
-} */
-
-
-/* Remove extra margins and paddings from body and html */
-/* html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden; 
-} */
-
-
 /* Remove spacing around the hero image */
 header, .hero, .hero img {
     margin: 0;
@@ -249,6 +209,17 @@ header, .hero, .hero img {
     color: #34495E; /* Slightly lighter color on hover */
 }
 
+/* FOOTER */
+footer {
+    text-align: center;
+    background-color: #1B2430;
+    color: white;
+    padding: 10px;
+    margin-top: auto;
+    width: 100%;
+}
+
+
 .program {
     max-width: 700px; /* Restricts width for better readability */
     /*margin: 0 auto; Centers the program section */
@@ -272,21 +243,6 @@ header, .hero, .hero img {
     text-align: left; /* Align description to the left */
     
 }
-
-.program-description-with-image {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 20px;
-  }
-  
-  .program-description-with-image .description-text {
-    flex: 1;
-  }
-  
-  .program-description-with-image .speaker-image {
-    flex-shrink: 0;
-  }
   
   .program-session {
     display: flex;
@@ -337,26 +293,6 @@ header, .hero, .hero img {
     width: 100%;
   }
   
-  .program-description .speaker-flex {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .program-description .speaker-text {
-    flex: 1;
-    min-width: 250px;
-  }
-  
-  .program-description img.speaker-thumb {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid #1B2430;
-    margin-left: 15px;
-  }
   .program-flex {
     display: flex;
     justify-content: space-between;
