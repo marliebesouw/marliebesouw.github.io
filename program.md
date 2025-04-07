@@ -65,11 +65,17 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
+            <div class="program-session">
+            <div class="text">
             <strong>Plenary session 2:</strong> <br>
-            <!-- Plenary introduction of the selection of AI:<br> -->
             <u>Considerations for selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
         </div>
+        <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
+            <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
+        </a>
+        </div>
+    </div>
     </div>
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
