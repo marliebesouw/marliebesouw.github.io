@@ -288,16 +288,26 @@ header, .hero, .hero img {
     flex-shrink: 0;
   }
   
+  .program-session {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .program-session .text {
+    flex: 1;
+    min-width: 200px;
+  }
+  
   .speaker-thumb {
     width: 60px;
     height: 60px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #1B2430;
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 5px;
+    border: 2px solid #1B2430;
   }
+  
   
   .speaker-inline {
     display: flex;
