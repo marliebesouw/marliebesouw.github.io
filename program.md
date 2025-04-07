@@ -47,10 +47,14 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
     <div class="program-item">
         <div class="program-time">9.45-10.25</div>
-        <div class="program-description">
+        <div class="program-description-with-image">
+         <div class="description-text">
             <strong>Plenary session 1:</strong><br>
             <u>The opportunities and challenges of AI in healthcare</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
+         </div>
+         <div class = "speaker-image">
+            <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
         </div>
     </div>
 

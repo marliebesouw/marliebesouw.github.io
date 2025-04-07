@@ -273,6 +273,19 @@ header, .hero, .hero img {
     
 }
 
+.speaker-thumb {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #1B2430;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+  
+  
+
 .map-container {
     width: 100%;
     max-width: 100%; /* Ensures it doesn't overflow */
