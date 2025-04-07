@@ -40,7 +40,7 @@ title: Speakers
     </div>
 </div> -->
 
-<div class="speaker right" id = "Niels van Royen">
+<div class="speaker left" id = "Niels van Royen">
     <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
     <div class="speaker-info">
         <h2>Niels van Royen
@@ -52,7 +52,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker left" id = "Joeri Huigen">
+<div class="speaker right" id = "Joeri Huigen">
     <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" alt="Joeri Huigen">
     <div class="speaker-info">
         <h2>Joeri Huigen
@@ -64,7 +64,7 @@ title: Speakers
 </div>
 
 
-<div class="speaker right" id = "Natalie ter Hoeve">
+<div class="speaker left" id = "Natalie ter Hoeve">
     <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
     <div class="speaker-info">
         <h2>Natalie ter Hoeve
@@ -75,7 +75,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker left" id = "Gabriele Bani">
+<div class="speaker right" id = "Gabriele Bani">
     <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" alt="Gabriele Bani">
     <div class="speaker-info">
         <h2>Gabriele Bani
@@ -86,7 +86,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right" id = "Steven Schalekamp">
+<div class="speaker left" id = "Steven Schalekamp">
     <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
     <div class="speaker-info">
         <h2>Steven Schalekamp
@@ -108,7 +108,7 @@ title: Speakers
     </div>
 </div> -->
 
-<div class="speaker right" id = "Hanneke Bluemink">
+<div class="speaker left" id = "Hanneke Bluemink">
     <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
     <div class="speaker-info">
         <h2>Hanneke Bluemink
@@ -119,7 +119,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker left" id = "Dennie Fransen">
+<div class="speaker right" id = "Dennie Fransen">
     <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
     <div class="speaker-info">
         <h2>Dennie Fransen
@@ -130,7 +130,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right" id = "bram-van-ginneken">
+<div class="speaker left" id = "bram-van-ginneken">
     <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
     <div class="speaker-info">
        <h2>Bram van Ginneken 
@@ -141,7 +141,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker left" id = "robert-breas">
+<div class="speaker right" id = "robert-breas">
     <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
     <div class="speaker-info">
         <h2>Robert Breas 
