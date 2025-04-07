@@ -149,8 +149,9 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="text">
             <strong>Plenary session 3:</strong><br>
             <em>Bringing the large language model (LLM) to the clinic</em><br>
-            Speaker:
-            <a href="https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a>
+            Speaker:<br>
+            <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a>
+            <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a>
         </div>
         </div>
     </div>
@@ -164,7 +165,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="text">
             <strong>Plenary session 4:</strong><br>
             <em>What is the future of AI in healthcare?</em><br>
-            Speakers:
+            Speakers:<br>
             <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> &
             <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
         </div>
