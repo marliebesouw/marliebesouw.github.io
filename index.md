@@ -14,12 +14,12 @@ title: Welcome to ICAI-Healthcare
 ## About the Course
 This course is designed to provide healthcare professionals, researchers, and decision-makers with practical insights and background knowledge on the critical decision of buying, building, selecting, and implementing AI solutions for healthcare. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
 
-## Course Objectives
+<!-- ## Course Objectives
 - Understand the buy vs. build principle in AI for healthcare  
 - Gain insights into real-world AI applications and the implementation process  
 - Learn practical selection criteria for AI systems  
 - Engage in interactive workshops for hands-on experience  
-- Discuss the future of AI in clinical practice with experts  
+- Discuss the future of AI in clinical practice with experts   -->
 
 ## Who Should Attend?
 - Healthcare professionals looking to integrate AI into clinical practice, including:  
