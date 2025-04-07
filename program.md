@@ -80,9 +80,24 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
+            <div class= program-description">
+            <div class= "text">
             <strong>Workshop 1:</strong><br>
             <u>Hands-on workshop: selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br>
+        </div>
+            <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
+            <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
+            </a>
+        </div>
+    </div>
+    </div>
+    
+    <div class="program-item">
+        <div class="program-time">11.00-12.30</div>
+        <div class="program-description">
+            <div class= program-description">
+            <div class= "text">
             &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
