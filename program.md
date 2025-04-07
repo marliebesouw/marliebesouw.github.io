@@ -77,7 +77,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         </div>
     </div>
     </div>
-    
+
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
@@ -99,7 +99,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-item">
         <div class="program-time"> </div> 
         <div class="program-description">
-            <div class= program-session">
+            <div class= "program-session">
             <div class= "text">
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
