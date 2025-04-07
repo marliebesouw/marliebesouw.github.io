@@ -57,20 +57,24 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
         </div>
     </div> -->
+    
     <div class="program-item">
 
- <div class="program-item">
-  <div class="program-time">9.45-10.25</div>
-  <div class="program-description">
-    <strong>Plenary session 1:</strong><br>
-    <em>The opportunities and challenges of AI in healthcare</em><br>
-    
-    <div class="speaker-inline">
-      <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs" class="speaker-thumb">
-      <span>Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a></span>
+    <div class="program-item">
+    <div class="program-time">9.45-10.25</div>
+    <div class="program-description">
+        <div class="program-flex">
+        <div class="program-text">
+            <strong>Plenary session 1:</strong><br>
+            <em>The opportunities and challenges of AI in healthcare</em><br>
+            Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
+        </div>
+        <div class="program-image">
+            <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs" class="speaker-thumb">
+        </div>
+        </div>
     </div>
-  </div>
- </div>
+    </div>
 
 
 
