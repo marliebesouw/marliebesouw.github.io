@@ -40,14 +40,93 @@ title: Speakers
     </div>
 </div> -->
 
-<div class="speaker left" id = "robert-breas">
-    <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
+<div class="speaker right" id = "Niels van Royen">
+    <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
     <div class="speaker-info">
-        <h2>Robert Breas 
-        <a href="https://www.linkedin.com/in/robertbreas/" target="_blank" style="margin-left:3mm;">
+        <h2>Niels van Royen
+        <a href="https://www.linkedin.com/in/niels-van-royen-56ba1193/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
+        <p> ​Prof. Dr. Niels van Royen is a full professor and head of the Cardiology Department at Radboud University Medical Center (Radboudumc) in Nijmegen, Netherlands. He is affiliated with the Radboud Institute for Molecular Life Sciences, focusing on the Vascular Damage theme. 
+        Prof. van Royen's research primarily centers on translational studies related to ischemic heart disease, collateral artery growth, and the phenomenon of no-reflow. He has initiated several multicenter clinical trials, including the TRANSIENT, COACT, REDUCE-MVI, and iMODERN trials, which explore the timing of interventional procedures and the use of intracoronary physiology to guide interventions in both stable coronary artery disease and acute coronary syndromes. </p>
+    </div>
+</div>
+
+<div class="speaker left" id = "Joeri Huigen">
+    <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" alt="Joeri Huigen">
+    <div class="speaker-info">
+        <h2>Joeri Huigen
+        <a href="https://www.linkedin.com/in/joeri-h-09764287/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> ​Joeri Huigen serves as a Territory Manager in the Vascular division at Abbott, a global healthcare company. Based in Zwolle, Netherlands, he has been with Abbott since 2018, bringing over six years of experience in this role. Prior to his tenure at Abbott, Joeri held various positions in the medical devices industry, including roles at Medtronic and Boston Scientific. His expertise lies in sales and management within the vascular and endovascular medical devices sector. </p>
+    </div>
+</div>
+
+
+<div class="speaker right" id = "Natalie ter Hoeve">
+    <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
+    <div class="speaker-info">
+        <h2>Natalie ter Hoeve
+        <a href="https://www.linkedin.com/in/natalie-ter-hoeve-61a8ab87/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> ​Natalie ter Hoeve is a pathologist assistant at the University Medical Center Utrecht (UMCU), actively involved in integrating artificial intelligence (AI) into pathology to enhance diagnostic accuracy and efficiency. She co-authored the CONFIDENT-trial protocol, a study exploring the benefits of AI-assisted workflows in detecting prostate and breast cancer while maintaining diagnostic safety standards. Additionally, she contributed to research on deep learning-supported mitosis counting in breast cancer grading, demonstrating the potential of AI to improve prognostic assessments in clinical workflows.</p>
+    </div>
+</div>
+
+<div class="speaker left" id = "Gabriele Bani">
+    <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" alt="Gabriele Bani">
+    <div class="speaker-info">
+        <h2>Gabriele Bani
+        <a href="https://www.linkedin.com/in/gabriele-bani-ai/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Gabriele Bani is an AI Engineer at Ellogon.AI, a company specializing in developing artificial intelligence solutions for pathology. He holds a Master's degree in Artificial Intelligence from the University of Amsterdam and has a background in Computer Science, including participation in an Erasmus+ Exchange Programme at the University of Groningen. Before joining Ellogon.AI, Gabriele founded Intrical AI, a tech startup that utilized AI and Natural Language Processing to enhance the research processes of M&A analysts. In his current role at Ellogon.AI, he focuses on creating state-of-the-art AI models aimed at improving diagnostic accuracy and efficiency in pathology. </p>
+    </div>
+</div>
+
+<div class="speaker right" id = "Steven Schalekamp">
+    <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
+    <div class="speaker-info">
+        <h2>Steven Schalekamp
+        <a href="https://www.linkedin.com/in/steven-schalekamp-22306ab2/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Dr. Steven Schalekamp is a radiologist at Radboudumc with a focus on chest imaging and the clinical application of AI in radiology. His research examines the validation and real-world impact of AI tools, including their regulatory claims and evidence base. He has led key studies revealing that many CE-marked AI products lack clear intended use or robust clinical validation. He also co-authored work showing that AI can safely identify normal chest X-rays, helping reduce radiologist workload. His work bridges clinical practice and critical evaluation of AI technologies in healthcare.</p>
+    </div>
+</div>
+
+<!-- <div class="speaker left" id = "Gabriele Bani">
+    <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" alt="Gabriele Bani">
+    <div class="speaker-info">
+        <h2>Gabriele Bani
+        <a href="https://www.linkedin.com/in/gabriele-bani-ai/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Gabriele Bani is an AI Engineer at Ellogon.AI, a company specializing in developing artificial intelligence solutions for pathology. He holds a Master's degree in Artificial Intelligence from the University of Amsterdam and has a background in Computer Science, including participation in an Erasmus+ Exchange Programme at the University of Groningen. Before joining Ellogon.AI, Gabriele founded Intrical AI, a tech startup that utilized AI and Natural Language Processing to enhance the research processes of M&A analysts. In his current role at Ellogon.AI, he focuses on creating state-of-the-art AI models aimed at improving diagnostic accuracy and efficiency in pathology. </p>
+    </div>
+</div> -->
+
+<div class="speaker right" id = "Hanneke Bluemink">
+    <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
+    <div class="speaker-info">
+        <h2>Hanneke Bluemink
+        <a href="https://www.linkedin.com/in/hanneke-bluemink-2055256/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Hanneke Bluemink is a medical physicist at Catharina Hospital in Eindhoven, specializing in AI-driven radiotherapy planning. Her work focuses on using deep learning to automate treatment planning for breast cancer, improving both speed and consistency. She co-authored studies showing that AI-generated plans can match clinical quality while saving significant time, and she supervises research on AI-based segmentation and planning in radiotherapy. </p>
+    </div>
+</div>
+
+<div class="speaker left" id = "Dennie Fransen">
+    <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
+    <div class="speaker-info">
+        <h2>Dennie Fransen
+        <a href="https://www.linkedin.com/in/DennieFransen/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Dennie Fransen is an Application Specialist at RaySearch Laboratories, focusing on the development and optimization of radiation therapy treatment planning systems. Prior to this, he served as a Senior Radiation Therapy Technologist at Holland Proton Therapy Centre (HollandPTC). In 2018, Fransen achieved the highest score in the proton category of the World Championships of Treatment Planning, utilizing RayStation software. His expertise lies in leveraging advanced planning techniques to enhance the quality and efficiency of radiation therapy treatments.​ </p>
     </div>
 </div>
 
@@ -62,7 +141,16 @@ title: Speakers
     </div>
 </div>
 
-
+<div class="speaker left" id = "robert-breas">
+    <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
+    <div class="speaker-info">
+        <h2>Robert Breas 
+        <a href="https://www.linkedin.com/in/robertbreas/" target="_blank" style="margin-left:3mm;">
+            <i class="fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
+    </div>
+</div>
 
 
 
