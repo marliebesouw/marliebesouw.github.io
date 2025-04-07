@@ -74,8 +74,9 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
-            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
-
+            Speakers: <br> 
+            &nbsp;&nbsp;&nbsp;&nbsp; Radiology:<a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users <br>
         </div>
     </div>
 
