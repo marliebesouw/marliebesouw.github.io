@@ -39,46 +39,24 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 </div>
 
 <div class="program">
-
     <div class="program-item">
         <div class="program-time">9.00-9.30</div>  
         <div class="program-description"><strong>Registration of participants</strong></div>
     </div>
-
-    <!-- <div class="program-item">
-        <div class="program-time">9.45-10.25</div>
-        <div class="program-description-with-image">
-         <div class="description-text">
-            <strong>Plenary session 1:</strong><br>
-            <u>The opportunities and challenges of AI in healthcare</u><br>
-            Speaker: <a href= "{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
-         </div>
-         <div class = "speaker-image">
-            <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
-        </div>
-    </div> -->
-    
     <div class="program-item">
-
     <div class="program-item">
-    <div class="program-time">9.45-10.25</div>
+    <div class="program-time">9.45–10.25</div>
     <div class="program-description">
-        <div class="program-flex">
-        <div class="program-text">
+        <div class="speaker-flex">
+        <div class="speaker-text">
             <strong>Plenary session 1:</strong><br>
             <em>The opportunities and challenges of AI in healthcare</em><br>
             Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
         </div>
-        <div class="program-image">
-            <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs" class="speaker-thumb">
-        </div>
+        <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs" class="speaker-thumb">
         </div>
     </div>
     </div>
-
-
-
-
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
@@ -86,10 +64,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <!-- Plenary introduction of the selection of AI:<br> -->
             <u>Considerations for selecting an AI system</u><br>
             Speaker: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-
         </div>
     </div>
-
     <div class="program-item">
         <div class="program-time">11.00-12.30</div>
         <div class="program-description">
