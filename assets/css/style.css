@@ -316,16 +316,37 @@ header, .hero, .hero img {
   
   .program-item {
     display: grid;
-    grid-template-columns: 120px 1fr;
+    grid-template-columns: 120px auto;
     gap: 20px;
-    margin-bottom: 20px;
-    align-items: start;
+    margin-bottom: 25px;
+    align-items: flex-start;
   }
   
   .program-description {
+    position: relative;
     width: 100%;
   }
   
+  .program-description .speaker-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .program-description .speaker-text {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .program-description img.speaker-thumb {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #1B2430;
+    margin-left: 15px;
+  }
   .program-flex {
     display: flex;
     justify-content: space-between;
