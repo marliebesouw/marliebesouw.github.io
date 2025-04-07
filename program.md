@@ -53,10 +53,13 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <em>The opportunities and challenges of AI in healthcare</em><br>
             Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
         </div>
-        <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
+        <a href="{{ site.url }}/speakers#colin-jacobs">
+            <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
+        </a>
         </div>
     </div>
     </div>
+
 
 
     <div class="program-item">
