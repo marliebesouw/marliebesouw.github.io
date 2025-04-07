@@ -273,16 +273,29 @@ header, .hero, .hero img {
     
 }
 
-.speaker-thumb {
-    width: 50px;
-    height: 50px;
+.program-description-with-image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .program-description-with-image .description-text {
+    flex: 1;
+  }
+  
+  .program-description-with-image .speaker-image {
+    flex-shrink: 0;
+  }
+  
+  .speaker-thumb {
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid #1B2430;
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 5px;
   }
+  
   
   
 
