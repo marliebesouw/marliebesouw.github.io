@@ -35,7 +35,7 @@ Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in pro
  -->
 <div class="content">
 Below you can find the time schedule of the workshop day on September 19. <br>
-More information regarding the speakers can be found <a href= "{{ site.url }}/speakers#colin-jacobs">here</a>.
+More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>.
 </div>
 
 <div class="program">
@@ -43,20 +43,22 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-time">9.00-9.30</div>  
         <div class="program-description"><strong>Registration of participants</strong></div>
     </div>
-    <div class="program-item">
+
     <div class="program-item">
     <div class="program-time">9.45–10.25</div>
     <div class="program-description">
-        <div class="speaker-flex">
-        <div class="speaker-text">
+        <div class="program-session">
+        <div class="text">
             <strong>Plenary session 1:</strong><br>
             <em>The opportunities and challenges of AI in healthcare</em><br>
             Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
         </div>
-        <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs" class="speaker-thumb">
+        <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" class="speaker-thumb" alt="Colin Jacobs">
         </div>
     </div>
     </div>
+
+
     <div class="program-item">
         <div class="program-time">10.25-10.55</div>
         <div class="program-description">
