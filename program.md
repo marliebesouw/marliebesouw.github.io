@@ -115,7 +115,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <div class="program-description"><strong>Coffee break</strong></div>
     </div>
 
-    <div class="program-item">
+    <!-- <div class="program-item">
     <div class="program-time">15.30–16.45</div>
     <div class="program-description">
         <div class="program-session">
@@ -124,6 +124,44 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <em>Bringing the large language model (LLM) to the clinic</em><br>
             Speaker: <a href="https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a><br><br>
 
+            <strong>Plenary session 4:</strong><br>
+            <em>What is the future of AI in healthcare?</em><br>
+            Speakers:
+            <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> &
+            <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
+        </div>
+        <div class="program-image">
+            <a href="{{ site.url }}/speakers#bram-van-ginneken">
+            <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" class="speaker-thumb" alt="Bram van Ginneken">
+            </a>
+            <a href="{{ site.url }}/speakers#robert-breas">
+            <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" class="speaker-thumb" alt="Robert Breas">
+            </a>
+        </div>
+        </div>
+    </div>
+    </div> -->
+    <!-- Plenary Session 3 -->
+    <div class="program-item">
+    <div class="program-time">15.30–16.00</div>
+    <div class="program-description">
+        <div class="program-session">
+        <div class="text">
+            <strong>Plenary session 3:</strong><br>
+            <em>Bringing the large language model (LLM) to the clinic</em><br>
+            Speaker:
+            <a href="https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a>
+        </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Plenary Session 4 -->
+    <div class="program-item">
+    <div class="program-time">16.00–16.45</div>
+    <div class="program-description">
+        <div class="program-session">
+        <div class="text">
             <strong>Plenary session 4:</strong><br>
             <em>What is the future of AI in healthcare?</em><br>
             Speakers:
