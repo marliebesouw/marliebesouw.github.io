@@ -59,7 +59,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     </div> -->
     <div class="program-item">
 
-<div class="program-item">
+ <div class="program-item">
   <div class="program-time">9.45-10.25</div>
   <div class="program-description">
     <strong>Plenary session 1:</strong><br>
@@ -70,7 +70,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <span>Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a></span>
     </div>
   </div>
-</div>
+ </div>
 
 
 
