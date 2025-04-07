@@ -250,6 +250,11 @@ footer {
     align-items: center;
     gap: 20px;
   }
+
+  .program-session::before,
+  .program-session::after {
+    content: none; /* prevents pseudo-elements adding a stripe */
+}
   
   .program-session .text {
     flex: 1;
