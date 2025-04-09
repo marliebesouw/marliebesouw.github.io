@@ -16,7 +16,7 @@ html, body {
 /* MAIN CONTENT */
 main {
     flex: 1;
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 20px auto;
     padding: 20px;
     background: white;
@@ -288,7 +288,7 @@ footer {
 
     .speaker-thumb-grid {
     display: flex;
-    /*flex-wrap: nowrap;*/
+    flex-wrap: wrap;
     /*flex-direction: row; */    /* Force horizontal stacking */
     justify-content: flex-end; /* Align group to the right */
     gap: 10px;
@@ -457,3 +457,36 @@ footer {
 }
 
 
+/* Default: 60x60px */
+.speaker-thumb-grid .speaker-thumb {
+    width: 60px;
+    height: 60px;
+  }
+  
+  /* Medium screens: 2 per row */
+  @media (max-width: 768px) {
+    .speaker-thumb-grid {
+      justify-content: center; /* optional: center on tablets */
+    }
+  
+    .speaker-thumb-grid .speaker-thumb {
+      width: 48%;  /* roughly 2 per row with some gap */
+      max-width: 100px;
+    }
+  }
+  
+  /* Small screens: 1 per row */
+  @media (max-width: 480px) {
+    .speaker-thumb-grid .speaker-thumb {
+      width: 100%;
+      max-width: 100px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .speaker-thumb-grid {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
