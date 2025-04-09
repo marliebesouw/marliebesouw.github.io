@@ -240,11 +240,8 @@ footer {
 }
 
 .program-description {
-    /*text-align: left; /* Align description to the left */
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
+    text-align: left; /* Align description to the left */
+    
 }
   
   .program-session {
@@ -274,26 +271,14 @@ footer {
   
 
   .speaker-thumb-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 60px); /* 2 images per row */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end; /* Pushes images to the right */
     gap: 10px;
-    justify-content: end; /* align the entire grid to the right */
-    margin-left: auto; /* push to the right side */
+    margin-left: auto;
     margin-top: 10px;
+    max-width: 150px; /* Optional: controls how many images fit per line */
   }
-  
-  .speaker-thumb-grid a {
-    display: block;
-  }
-  
-  .speaker-thumb {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid #1B2430;
-  }
-  
   
   .speaker-thumb-grid .speaker-thumb {
     width: 60px;
