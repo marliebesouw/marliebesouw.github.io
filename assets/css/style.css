@@ -526,3 +526,13 @@ footer {
   
 
 
+    body {
+        overflow-x: hidden;
+      }
+      
+      main, .program {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+      }
+      
