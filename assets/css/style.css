@@ -24,7 +24,8 @@ main {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 75%;
+    box-sizing: border-box;
 }
 
 .content a {
@@ -458,6 +459,12 @@ footer {
 
 /* MOBILE NAVBAR - Hides menu initially */
 @media screen and (max-width: 768px) {
+    main{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        padding: 15px;
+    }
     .hero {
         height: auto;
         max-height: 300px; 
@@ -534,12 +541,7 @@ footer {
         overflow-x: hidden;
       }
       
-      main, .program {
-        width: 100%;
-        max-width: 100%;
-        box-sizing: border-box;
-      }
-      
+
       img, video, iframe, table, div, section, nav, header, main, footer {
         max-width: 100%;
         box-sizing: border-box;
