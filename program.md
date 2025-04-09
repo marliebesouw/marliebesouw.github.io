@@ -89,12 +89,13 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         </div>
 
             <a href="{{ site.url }}/speakers#kicky-van-leeuwen"><br>
-             &nbsp;&nbsp; <em><u>or</u>*</em><br>
             <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
             </a>
         </div>
     </div>
     </div>
+
+        
 
     <div class="program-item">
         <div class="program-time"> </div> 
