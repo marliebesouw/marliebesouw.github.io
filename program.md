@@ -106,6 +106,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         </div>
     </div>
     </div>
+    
     <div class="program-item">
         <div class="program-time"> </div> 
 
