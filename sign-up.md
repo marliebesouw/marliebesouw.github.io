@@ -55,7 +55,7 @@ title: Sign-up
         border-radius: 8px;
         width: 100%;
         max-width: 600px;
-        margin: 20 px auto;
+        margin: 20px auto;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
         box-sizing: border-box;
         /*text-align: center;*/
