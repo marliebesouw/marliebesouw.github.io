@@ -533,7 +533,7 @@ footer {
       }
       
       main, .program {
-        width: 100%;
+        width: 75%;
         max-width: 100%;
         box-sizing: border-box;
       }
