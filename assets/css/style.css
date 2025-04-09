@@ -231,7 +231,7 @@ footer {
     grid-template-columns: 120px 1fr auto; /* First column for time, second for description */
     gap: 20px; /* Space between columns */
     margin-bottom: 10px; /* Space between program items */
-    align-items: flex-start; /* Aligns text at the top */
+    align-items: start; /* Aligns text at the top */
 }
 
 .program-time {
