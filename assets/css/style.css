@@ -523,73 +523,60 @@ footer {
         max-width: 100%;
         box-sizing: border-box;
       }
+    
+      .dropdown-content {
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #1B2430;
+        min-width: 140px;
+        padding: 10px 0;
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+        text-align: left;
+      }
       
-      /* === DESKTOP (hover) === */
+
       @media (min-width: 769px) {
         .dropdown-content {
-          display: none; 
-          position: absolute;
-          left: 50%;
-          transform: translateX(-50%);
-          top: 100%;
-          text-align: left;
-          padding: 10px 0;
-          background-color: #1B2430;
-          min-width: 140px;
-          box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-          z-index: 1000;
+          display: none; /* hide by default */
         }
       
         .dropdown:hover .dropdown-content {
-          display: block;
+          display: block; /* show on hover */
         }
-          /* prevent .open from affecting desktop */
-        .dropdown.open .dropdown-content {
-        display: none;
-  }
       }
       
+      
   
-  /* === MOBILE (click simulation using checkbox hack) === */
-    @media (max-width: 768px) {
-        .navbar ul {
-            flex-direction: column;
-            align-items: center;
-        }
-        
-        .navbar li {
-            width: 100%;
-            text-align: center;
-            margin: 0;
-        }
-        
+      @media (max-width: 768px) {
         .dropdown {
-            display: block;       /* Was inline-block, force block for full-width */
-            width: 100%;
-            position: relative;
+          width: 100%;
+          position: relative;
         }
-        
+      
         .dropdown-content {
-            display: none;
-            
-            position: static !important;   /* Key: prevent absolute offset issues */
-            left: auto !important;
-            transform: none !important;
-            background-color: #1B2430;
-            width: 100%;
-            box-shadow: none;
-            padding: 0;
-            text-align: center;
+          display: none;
+          position: static;
+          transform: none;
+          left: auto;
+          background-color: #1B2430;
+          width: 100%;
+          box-shadow: none;
+          text-align: center;
+          padding: 0;
         }
-        
+      
         .dropdown.open .dropdown-content {
-            display: block;
+          display: block;
         }
-        
+      
         .dropdown-content a {
-            padding: 12px 0;
-            display: block;
-            width: 100%;
+          padding: 12px 0;
+          display: block;
+          width: 100%;
         }
-        }
+      }
+      
         
