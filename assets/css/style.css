@@ -566,7 +566,10 @@ footer {
         
         .dropdown-content {
             display: none;
-            position: relative;   /* Key: prevent absolute offset issues */
+            
+            position: static !important;   /* Key: prevent absolute offset issues */
+            left: auto !important;
+            transform: none !important;
             background-color: #1B2430;
             width: 100%;
             box-shadow: none;
