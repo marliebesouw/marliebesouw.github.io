@@ -228,7 +228,7 @@ footer {
 
 .program-item{
     display: grid;
-    grid-template-columns: 120px auto; /* First column for time, second for description */
+    grid-template-columns: 120px 1fr auto; /* First column for time, second for description */
     gap: 20px; /* Space between columns */
     margin-bottom: 10px; /* Space between program items */
     align-items: start; /* Aligns text at the top */
@@ -251,13 +251,7 @@ footer {
     gap: 20px;
   }
 
-  .speaker-thumbs {
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: auto; /* Pushes it to the right */
-    gap: 10px;
-  }
-  
+
   .speaker-thumbs a {
     display: inline-block;
   }

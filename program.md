@@ -107,61 +107,48 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     </div>
     </div>
 
-
     <div class="program-item">
         <div class="program-time"> </div> 
-            <div class="program-description">
-            <div class= "program-session">
-            <div class= "text">            
+
+        <!-- COLUMN 2: TEXT -->
+        <div class="program-text">            
             <strong>Session 1a/1b:</strong><br>
             <u>Insight session: AI in clinical practice.</u><br>
             Speakers: <br> 
-            &nbsp;&nbsp;&nbsp;&nbsp; Cardiology: <a href= "{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a> <br>
-            &nbsp;&nbsp;&nbsp;&nbsp; Pathology: <a href= "{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & <a href= "{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a>  <br>        
-            &nbsp;&nbsp;&nbsp;&nbsp; Radiology: <a href= "{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a>  & TBA <br>
-            <!-- & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a>  <br> --> 
-            &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & <a href= "{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  <br>
-            </div>
-            <div class="speaker-thumb-grid">
-                <a href="{{ site.url }}/speakers#niels-van-royen"><br>
-                    <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
-                </a>
-                <a href="{{ site.url }}/speakers#joeri-huigen"><br>
-                     <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
-                </a>
-                <a href="{{ site.url }}/speakers#natalie-ter-hoeve"><br>
-                    <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-                </a>
-                <a href="{{ site.url }}/speakers#gabriele-bani"><br>
-                    <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
-                </a>
-            </div>
-            </div>
-    </div>
-    </div>
+            &nbsp;&nbsp;&nbsp;&nbsp; Cardiology: 
+            <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
+            <a href="{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a> <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Pathology: 
+            <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
+            <a href="{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a>  <br>        
+            &nbsp;&nbsp;&nbsp;&nbsp; Radiology: 
+            <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & TBA <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: 
+            <a href="{{ site.url }}/speakers#hanneke-bluemink"
 
-    <div class="program-item">
-        <div class="program-time">12.30-13.30</div>
-        <div class="program-description"><strong>Lunch break</strong></div>
-    </div>
 
-    <div class="program-item">
-        <div class="program-time">13.30-15.00</div>
-        <div class="program-description">
-            <strong>Workshop 2:</strong><br>
-            <u>Hands-on workshop: selecting an AI system</u><br>
-            Speakers: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
-            <br> 
-            &nbsp;&nbsp; <em><u>or</u>*</em><br>
-            <strong>Session 2a/2b:</strong><br>
-            <u>Insight session: AI in clinical practice.</u><br>
-            Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
+        <div class="program-item">
+            <div class="program-time">12.30-13.30</div>
+            <div class="program-description"><strong>Lunch break</strong></div>
         </div>
-    </div>
-    <div class="program-item">
-        <div class="program-time">15.00-15.30</div>
-        <div class="program-description"><strong>Coffee break</strong></div>
-    </div>
+
+        <div class="program-item">
+            <div class="program-time">13.30-15.00</div>
+            <div class="program-description">
+                <strong>Workshop 2:</strong><br>
+                <u>Hands-on workshop: selecting an AI system</u><br>
+                Speakers: <a href= "{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
+                <br> 
+                &nbsp;&nbsp; <em><u>or</u>*</em><br>
+                <strong>Session 2a/2b:</strong><br>
+                <u>Insight session: AI in clinical practice.</u><br>
+                Speakers:  <a href= "{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
+            </div>
+        </div>
+        <div class="program-item">
+            <div class="program-time">15.00-15.30</div>
+            <div class="program-description"><strong>Coffee break</strong></div>
+        </div>
 
 
     <!-- Plenary Session 3 -->
