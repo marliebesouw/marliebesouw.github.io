@@ -351,11 +351,12 @@ footer {
   
   .program-item {
     display: grid;
-    grid-template-columns: 120px auto;
+    grid-template-columns: 120px 1fr auto; /* ✅ correct: time | text | images */
     gap: 20px;
     margin-bottom: 25px;
     align-items: flex-start;
   }
+  
   
   .program-description {
     position: relative;
