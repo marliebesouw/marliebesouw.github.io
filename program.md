@@ -100,7 +100,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       </a>
       <a href="{{ site.url }}/speakers#gabriele-bani">
         <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
-      </a>
+      </a><br>
     </div>
     <div class="speaker-thumb-grid">
       <a href="{{ site.url }}/speakers#steven-schalekamp">
@@ -135,6 +135,11 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <strong>Session 2a/2b:</strong><br>
       <u>Insight session: AI in clinical practice.</u><br>
       Speakers: <a href="{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
+    </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
+        <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
+      </a>
     </div>
   </div>
 
