@@ -328,15 +328,10 @@ footer {
   
   @media (max-width: 480px) {
     .speaker-thumb-grid {
-      grid-template-columns: 60px; /* 1 per row */
+      grid-template-columns: repeat(1,60px); /* 1 per row */
       justify-content: center;
     }
   }
-  
-  
-    .speaker-thumb-grid a {
-      flex: 0 0 100%;
-    }
   
 
   .speaker-inline {
@@ -466,32 +461,15 @@ footer {
 .speaker-thumb-grid .speaker-thumb {
     width: 60px;
     height: 60px;
-  }
-  
-  /* Medium screens: 2 per row */
-  @media (max-width: 768px) {
-    .speaker-thumb-grid {
-      justify-content: center; /* optional: center on tablets */
-    }
-  
-    .speaker-thumb-grid .speaker-thumb {
-      width: 48%;  /* roughly 2 per row with some gap */
-      max-width: 100px;
-    }
-  }
-  
-  /* Small screens: 1 per row */
-  @media (max-width: 480px) {
-    .speaker-thumb-grid .speaker-thumb {
-      width: 100%;
-      max-width: 100px;
-    }
-  }
 
-  @media (max-width: 480px) {
-    .speaker-thumb-grid {
-      flex-direction: column;
-      align-items: center;
-    }
   }
   
+
+  
+    .speaker-thumb-grid .speaker-thumb {
+      max-width: 100px;
+    }
+  
+  
+
+
