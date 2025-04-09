@@ -275,6 +275,7 @@ footer {
     flex-wrap: wrap;
     justify-content: flex-end; /* Pushes images to the right */
     gap: 10px;
+    margin-left: auto;
     margin-top: 10px;
     max-width: 150px; /* Optional: controls how many images fit per line */
   }
@@ -287,7 +288,17 @@ footer {
     border: 2px solid #1B2430;
   }
   
+  /* Responsive behavior */
+@media (max-width: 600px) {
+    .speaker-thumb-grid {
+      max-width: 70px; /* Adjusts to 1 per row */
+    }
   
+    .speaker-thumb-grid a {
+      flex: 0 0 100%;
+    }
+  }
+
   .speaker-inline {
     display: flex;
     align-items: center;
