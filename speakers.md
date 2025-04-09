@@ -101,9 +101,8 @@ title: Speakers
     <img src="{{ site.url }}/assets/img/TBA.jpg" alt="TBA">
     <div class="speaker-info">
         <h2>To Be Announced
-        <a href="https://www.linkedin.com/in/" target="_blank" style="margin-left:3mm;">
-            <i class="fa-brands fa-linkedin"></i>
-        </a></h2>
+
+        </h2>
         <p>  </p>
     </div>
 </div> 
