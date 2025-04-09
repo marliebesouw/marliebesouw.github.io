@@ -527,7 +527,7 @@ footer {
       /* === DESKTOP (hover) === */
       @media (min-width: 769px) {
         .dropdown-content {
-          display: none; 
+          display: none !important; 
           position: absolute;
           left: 50%;
           transform: translateX(-50%);
