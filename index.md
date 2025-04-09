@@ -5,7 +5,7 @@ title: Welcome to ICAI-Healthcare
 # Welcome to ICAI Healthcare
 <div class="content">
     <p>
-   <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br>
+   <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
 
     Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This course is designed to bridge that gap—connecting ideas with implementation. <br>
 
@@ -36,5 +36,5 @@ This course is designed to provide healthcare professionals, researchers, and de
 
 
 <div class="content">
-    <p><strong>**</strong>Sign-ups are not open yet, but you can <a href="{{ site.url }}/contact">register your interest</a> to stay informed. We will keep you updated and let you know as soon as registration becomes available.<strong>**</strong></p>
+    <p><strong>***</strong>Sign-ups are not open yet, but you can <a href="{{ site.url }}/contact">register your interest</a> to stay informed. We will keep you updated and let you know as soon as registration becomes available.<strong>***</strong></p>
 </div>
