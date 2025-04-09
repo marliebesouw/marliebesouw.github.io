@@ -110,6 +110,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
     <div class="program-item">
         <div class="program-time"> </div> 
+            <div class="program-description">
             <div class= "program-session">
             <div class= "text">            
             <strong>Session 1a/1b:</strong><br>
