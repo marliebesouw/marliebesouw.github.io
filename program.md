@@ -38,7 +38,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">10.25-10.55</div>
     <div class="program-text">
       <strong>Plenary session 2:</strong><br>
-      <strong><em>Considerations for selecting an AI system</strong><br><br>
+      <strong><em>Considerations for selecting an AI system</em></strong><br><br>
       Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
     </div>
     <div class="speaker-thumb-grid">
