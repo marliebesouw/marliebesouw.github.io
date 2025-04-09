@@ -368,7 +368,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap; /* makes it mobile-friendly */
+    /*flex-wrap: wrap; *//* makes it mobile-friendly */
   }
   
   .program-text {
