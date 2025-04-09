@@ -527,6 +527,7 @@ footer {
       /* === DESKTOP (hover) === */
       @media (min-width: 769px) {
         .dropdown-content {
+          display: none; 
           position: absolute;
           left: 50%;
           transform: translateX(-50%);
@@ -542,6 +543,10 @@ footer {
         .dropdown:hover .dropdown-content {
           display: block;
         }
+          /* prevent .open from affecting desktop */
+        .dropdown.open .dropdown-content {
+        display: none;
+  }
       }
       
   
