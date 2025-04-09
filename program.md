@@ -100,9 +100,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       </a>
       <a href="{{ site.url }}/speakers#gabriele-bani">
         <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
-      </a><br>
-    </div>
-    <div class="speaker-thumb-grid">
+      </a>
       <a href="{{ site.url }}/speakers#steven-schalekamp">
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
       </a>
