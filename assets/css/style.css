@@ -122,7 +122,7 @@ main {
 
 /* Adjust dropdown position to align directly below "Program" */
 .dropdown-content {
-    display: none;
+    /*display: none;*/
     position: absolute;
     top: 100%; /* Aligns below "Program" */
     left: 50%; /* Aligns it to the center */
