@@ -227,8 +227,10 @@ footer {
 
 .program {
     max-width: 1000px; /* Restricts width for better readability */
-    /*margin: 0 auto; Centers the program section */
+    margin: 0 auto; /* Centers the program section */
     padding: 20px; /* Adds spacing */
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .program-item{
