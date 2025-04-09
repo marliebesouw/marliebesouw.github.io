@@ -176,14 +176,12 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> &
             <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
         </div>
-        <div class="program-image">
             <a href="{{ site.url }}/speakers#bram-van-ginneken">
             <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" class="speaker-thumb" alt="Bram van Ginneken">
             </a>
             <a href="{{ site.url }}/speakers#robert-breas">
             <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" class="speaker-thumb" alt="Robert Breas">
             </a>
-        </div>
         </div>
     </div>
     </div> -->
