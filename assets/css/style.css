@@ -562,6 +562,7 @@ footer {
         }
       
         .dropdown-content {
+          display: none; 
           position: static;
           transform: none;
           left: auto;
