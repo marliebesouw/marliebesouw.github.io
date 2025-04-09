@@ -128,16 +128,65 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-text">
       <strong>Workshop 2:</strong><br>
       <u>Hands-on workshop: selecting an AI system</u><br>
-      Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br><br>
-      <em><u>or</u>*</em><br>
-      <strong>Session 2a/2b:</strong><br>
-      <u>Insight session: AI in clinical practice.</u><br>
-      Speakers: <a href="{{ site.url }}/vendors" class="speaker-link">Vendors</a> & their end-users
+      Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
     </div>
     <div class="speaker-thumb-grid">
       <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
         <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
       </a>
+    </div>
+  </div>
+
+  <!-- OR Divider -->
+  <div class="program-item">
+    <div class="program-time"></div>
+    <div class="program-text">&nbsp;&nbsp;<em><u>or</u>*</em></div>
+  </div>
+
+  <!-- Session 1a/1b -->
+  <div class="program-item">
+    <div class="program-time"></div>
+    <div class="program-text">
+      <strong>Session 2a/2b:</strong><br>
+      <u>Insight session: AI in clinical practice.</u><br>
+      Speakers: <br>
+      &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
+      <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
+      <a href="{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
+      <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
+      <a href="{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
+      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & TBA<br>
+      &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
+      <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & 
+      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
+    </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#niels-van-royen">
+        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
+      </a>
+      <a href="{{ site.url }}/speakers#joeri-huigen">
+        <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
+      </a>
+      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
+        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
+      </a>
+      <a href="{{ site.url }}/speakers#gabriele-bani">
+        <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
+      </a>
+      <a href="{{ site.url }}/speakers#steven-schalekamp">
+        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
+      </a>
+      <a href="{{ site.url }}/speakers#TBA">
+        <img src="{{ site.url }}/assets/img/TBA.jpg" class="speaker-thumb" alt="TBA">
+      </a>
+      <a href="{{ site.url }}/speakers#hanneke-bluemink">
+        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
+      </a>
+      <a href="{{ site.url }}/speakers#dennie-fransen">
+        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
+      </a>    
     </div>
   </div>
 
