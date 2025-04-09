@@ -53,9 +53,11 @@ title: Sign-up
         background-color: #f5f5f5; /* Light grey background */
         padding: 20px;
         border-radius: 8px;
-        width: 50%;
-        margin: auto;
+        width: 100%;
+        max-width: 600px;
+        margin: 20 px auto;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        box-sizing: border-box;
         /*text-align: center;*/
     }
 
