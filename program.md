@@ -174,12 +174,14 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> &
             <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
         </div>
+        <div class = "speaker-thumb-row">
             <a href="{{ site.url }}/speakers#marja-de-waal">
             <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" class="speaker-thumb" alt="Marja de Waal">
             </a>
             <a href="{{ site.url }}/speakers#martijn-bauer">
             <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" class="speaker-thumb" alt="Martijn Bauer">
             </a>
+        </div>
         </div>
     </div>
     </div>
