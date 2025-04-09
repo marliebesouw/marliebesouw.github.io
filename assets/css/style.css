@@ -534,25 +534,22 @@ footer {
   /* === MOBILE (click simulation using checkbox hack) === */
   @media (max-width: 768px) {
     .dropdown-content {
-      display: none;
-      position: static;
-      background-color: #1B2430;
-      width: 100%;
-      box-shadow: none;
-      text-align: left;
-      padding-left: 20px
-    }
-
-    .dropdown .dropdown-content {
         display: none;
-    }
-    .dropdown.open .dropdown-content {
-      display: block;
-    }
-  
-    .dropdown-content a {
-      padding: 12px 0;
-      display: block;
-    }
+        position: relative;        /* ← was static before, this is better */
+        background-color: #1B2430;
+        width: 100%;
+        box-shadow: none;
+        text-align: center;        /* align with top nav items */
+        padding: 0;                /* remove left padding */
+      }
+    
+      .dropdown.open .dropdown-content {
+        display: block;
+      }
+    
+      .dropdown-content a {
+        padding: 12px 0;
+        display: block;
+      }
   }
   
