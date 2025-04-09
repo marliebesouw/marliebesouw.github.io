@@ -169,7 +169,6 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <strong>Plenary session 3:</strong><br>
             <em>Bringing the large language model (LLM) to the clinic</em><br>
             Speaker: <a href="https://nl.autoscriber.com/" target="_blank" class="speaker-link">Autoscriber</a><br><br>
-
             <strong>Plenary session 4:</strong><br>
             <em>What is the future of AI in healthcare?</em><br>
             Speakers:
@@ -197,14 +196,12 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> &
             <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
         </div>
-        <div class="program-image">
             <a href="{{ site.url }}/speakers#marja-de-waal">
             <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" class="speaker-thumb" alt="Marja de Waal">
             </a>
             <a href="{{ site.url }}/speakers#martijn-bauer">
             <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" class="speaker-thumb" alt="Martijn Bauer">
             </a>
-        </div>
         </div>
     </div>
     </div>
