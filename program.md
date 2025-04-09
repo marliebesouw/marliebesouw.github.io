@@ -122,19 +122,18 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <!-- & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a>  <br> --> 
             &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & <a href= "{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  <br>
             </div>
-            <div class="speaker-thumb-grid">
-
+            <div class="speaker-thumbs">
                 <a href="{{ site.url }}/speakers#niels-van-royen"><br>
-                <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
+                    <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
                 </a>
                 <a href="{{ site.url }}/speakers#joeri-huigen"><br>
-                <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
+                     <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
                 </a>
                 <a href="{{ site.url }}/speakers#natalie-ter-hoeve"><br>
-                <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-                <a href="{{ site.url }}/speakers#gabriele-bani"><br>
-                <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
+                    <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
                 </a>
+                <a href="{{ site.url }}/speakers#gabriele-bani"><br>
+                    <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
                 </a>
             </div>
             </div>
