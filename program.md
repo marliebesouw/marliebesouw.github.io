@@ -122,7 +122,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             <!-- & <a href= "{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a>  <br> --> 
             &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: <a href= "{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & <a href= "{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  <br>
             </div>
-            <div class="speaker-thumbs">
+            <div class="speaker-thumb-grid">
                 <a href="{{ site.url }}/speakers#niels-van-royen"><br>
                     <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
                 </a>
