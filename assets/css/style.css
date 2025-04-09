@@ -237,7 +237,6 @@ footer {
 .program-time {
     font-weight: bold;
     text-align: right; /* Align time to the right for clarity */
-    background: #ffe;
 
 }
 
@@ -349,9 +348,9 @@ footer {
     margin-right: 10px;
   }
   
-  main, .program, .program-item {
+ /* main, .program, .program-item {
     border: 2px dashed red;
-  }   
+  }*/   
   
   
   .program-description {
@@ -367,10 +366,7 @@ footer {
   }
   
   .program-text {
-   /* flex: 1;
-    min-width: 250px;*/
     width: 100%;
-    background: #eef;
 
   }
   
