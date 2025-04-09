@@ -240,8 +240,11 @@ footer {
 }
 
 .program-description {
-    text-align: left; /* Align description to the left */
-    
+    /*text-align: left; /* Align description to the left */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
 }
   
   .program-session {
