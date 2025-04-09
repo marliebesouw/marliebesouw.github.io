@@ -126,19 +126,16 @@ main {
     position: absolute;
     top: 100%; /* Aligns below "Program" */
     left: 50%; /* Aligns it to the center */
-    transform: none; /* Centers it correctly */
+    transform: translateX(-50%); /* Centers it correctly */
     background-color: #1B2430; /* Dark blue */
     min-width: 140px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
     z-index: 1000;
     text-align: left; /* Keeps text aligned properly */
     padding: 10px 0;
+    transition: opacity 0.2s ease;
 }
 
-/* Ensure dropdown stays directly below when hovering */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
 
 /* Dropdown links styling */
 .dropdown-content a {
@@ -500,28 +497,6 @@ footer {
     }
 }
 
-@media screen and (max-width: 768px) {
-    .dropdown-content {
-      position: static;           /* Let it flow naturally in the list */
-      transform: none !important; /* Remove the centering */
-      left: 0;
-      width: 100%;
-      background-color: #1B2430;
-      box-shadow: none;
-      text-align: center;
-      display: none;              /* Keep it hidden until dropdown is active */
-    }
-  
-    .dropdown:hover .dropdown-content {
-      display: block;             /* Show on hover or tap */
-    }
-  
-    .dropdown-content a {
-      padding: 12px 0;
-      display: block;
-    }
-  }
-  
 
 /* Default: 60x60px */
 .speaker-thumb-grid .speaker-thumb {
@@ -566,7 +541,10 @@ footer {
       box-shadow: none;
       text-align: center;
     }
-  
+
+    .dropdown .dropdown-content {
+        display: none;
+    }
     .dropdown.open .dropdown-content {
       display: block;
     }

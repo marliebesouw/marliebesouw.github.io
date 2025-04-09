@@ -57,6 +57,26 @@
         }
     </script>
 
+<script>
+    // Mobile dropdown toggle logic
+    document.querySelectorAll('.dropbtn').forEach(btn => {
+      btn.addEventListener('click', function (e) {
+        // Prevent default link behavior
+        e.preventDefault();
+  
+        // Close other dropdowns
+        document.querySelectorAll('.dropdown').forEach(drop => {
+          if (drop !== this.parentElement) {
+            drop.classList.remove('open');
+          }
+        });
+  
+        // Toggle current dropdown
+        this.parentElement.classList.toggle('open');
+      });
+    });
+  </script>
+  
 </body>
 </html>
 
