@@ -548,6 +548,9 @@ footer {
         .dropdown:hover .dropdown-content {
           display: block; /* show on hover */
         }
+        .dropdown.open .dropdown-content {
+            display: none; /* prevent mobile class from interfering on desktop */
+          }
       }
       
       
