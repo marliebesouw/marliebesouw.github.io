@@ -231,12 +231,14 @@ footer {
     grid-template-columns: 120px 1fr auto; /* First column for time, second for description */
     gap: 20px; /* Space between columns */
     margin-bottom: 10px; /* Space between program items */
-    align-items: start; /* Aligns text at the top */
+    align-items: flex-start; /* Aligns text at the top */
 }
 
 .program-time {
     font-weight: bold;
     text-align: right; /* Align time to the right for clarity */
+    background: #ffe;
+
 }
 
 .program-description {
@@ -290,12 +292,14 @@ footer {
     /*flex-direction: row; */    /* Force horizontal stacking */
     justify-content: flex-end; /* Align group to the right */
     gap: 10px;
-    align-items: center;
+    align-items: flex-start;
    /* margin-left: auto;
     min-width: fit-content;
     max-width: 300px;
     overflow-x: auto;*/
    /* margin-top: 10px;*/
+   background: #efe;
+
     }
     .speaker-thumb-grid a {
         display: inline-block;
@@ -366,8 +370,11 @@ footer {
   }
   
   .program-text {
-    flex: 1;
-    min-width: 250px;
+   /* flex: 1;
+    min-width: 250px;*/
+    width: 100%;
+    background: #eef;
+
   }
   
   .program-image img {
