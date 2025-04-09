@@ -23,7 +23,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">9.45–10.25</div>
     <div class="program-text">
       <strong>Plenary session 1:</strong><br>
-      <em>The opportunities and challenges of AI in healthcare</em><br>
+      <strong><em>The opportunities and challenges of AI in healthcare</em></strong><br>
       Speaker: <a href="{{ site.url }}/speakers#colin-jacobs" class="speaker-link">Colin Jacobs</a>
     </div>
     <div class="speaker-thumb-grid">
