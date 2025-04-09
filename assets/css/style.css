@@ -269,12 +269,22 @@ footer {
     border: 2px solid #1B2430;
   }
   
-  .speaker-thumb-row {
+
+  .speaker-thumb-grid {
     display: flex;
-    justify-content: flex-start; /* or center / space-around */
-    gap: 15px;
-    margin-left: 160px; /* Adjust based on your program layout */
-    flex-wrap: wrap; /* Makes it responsive */
+    flex-wrap: wrap;
+    justify-content: flex-end; /* Pushes images to the right */
+    gap: 10px;
+    margin-top: 10px;
+    max-width: 250px; /* Optional: controls how many images fit per line */
+  }
+  
+  .speaker-thumb-grid .speaker-thumb {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #1B2430;
   }
   
   
