@@ -38,7 +38,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">10.25-10.55</div>
     <div class="program-text">
       <strong>Plenary session 2:</strong><br>
-      <u>Considerations for selecting an AI system</u><br>
+      <strong><em>Considerations for selecting an AI system</strong><br><br>
       Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
     </div>
     <div class="speaker-thumb-grid">
@@ -53,7 +53,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">11.00-12.30</div>
     <div class="program-text">
       <strong>Workshop 1:</strong><br>
-      <u>Hands-on workshop: selecting an AI system</u><br>
+      <strong><em>Hands-on workshop: selecting an AI system</em></strong><br><br>
       Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
     </div>
     <div class="speaker-thumb-grid">
@@ -66,7 +66,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
   <!-- OR Divider -->
   <div class="program-item">
     <div class="program-time"></div>
-    <div class="program-text">&nbsp;&nbsp;<em><u>or</u>*</em></div>
+    <div class="program-text">&nbsp;&nbsp;<em><strong>or</strong>*</em></div>
   </div>
 
   <!-- Session 1a/1b -->
@@ -74,7 +74,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time"></div>
     <div class="program-text">
       <strong>Session 1a/1b:</strong><br>
-      <u>Insight session: AI in clinical practice.</u><br>
+      <strong><em>Insight session: AI in clinical practice.</em></strong><br>
       Speakers: <br>
       &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
       <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
@@ -127,7 +127,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">13.30-15.00</div>
     <div class="program-text">
       <strong>Workshop 2:</strong><br>
-      <u>Hands-on workshop: selecting an AI system</u><br>
+      <strong><em>Hands-on workshop: selecting an AI system</em></strong><br>
       Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
     </div>
     <div class="speaker-thumb-grid">
@@ -140,7 +140,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
   <!-- OR Divider -->
   <div class="program-item">
     <div class="program-time"></div>
-    <div class="program-text">&nbsp;&nbsp;<em><u>or</u>*</em></div>
+    <div class="program-text">&nbsp;&nbsp;<em><strong>or</strong>*</em></div>
   </div>
 
   <!-- Session 1a/1b -->
@@ -148,7 +148,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time"></div>
     <div class="program-text">
       <strong>Session 2a/2b:</strong><br>
-      <u>Insight session: AI in clinical practice.</u><br>
+      <strong><em>Insight session: AI in clinical practice.</em></strong><br>
       Speakers: <br>
       &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
       <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
@@ -201,7 +201,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">15.30–16.00</div>
     <div class="program-text">
       <strong>Plenary session 3:</strong><br>
-      <em>Bringing the large language model (LLM) to the clinic</em><br>
+      <strong><em>Bringing the large language model (LLM) to the clinic</em></strong><br>
       Speakers:<br>
       <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> & 
       <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
@@ -221,7 +221,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
     <div class="program-time">16.00–16.45</div>
     <div class="program-text">
       <strong>Plenary session 4:</strong><br>
-      <em>What is the future of AI in healthcare?</em><br>
+      <strong><em>What is the future of AI in healthcare?</em></strong><br>
       Speakers:<br>
       <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> & 
       <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
