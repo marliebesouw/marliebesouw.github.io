@@ -539,7 +539,8 @@ footer {
       background-color: #1B2430;
       width: 100%;
       box-shadow: none;
-      text-align: center;
+      text-align: left;
+      padding-left: 20px
     }
 
     .dropdown .dropdown-content {
