@@ -549,3 +549,31 @@ footer {
         box-sizing: border-box;
       }
       
+      /* === DESKTOP (hover) === */
+@media (min-width: 769px) {
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  }
+  
+  /* === MOBILE (click simulation using checkbox hack) === */
+  @media (max-width: 768px) {
+    .dropdown-content {
+      display: none;
+      position: static;
+      background-color: #1B2430;
+      width: 100%;
+      box-shadow: none;
+      text-align: center;
+    }
+  
+    .dropdown.open .dropdown-content {
+      display: block;
+    }
+  
+    .dropdown-content a {
+      padding: 12px 0;
+      display: block;
+    }
+  }
+  
