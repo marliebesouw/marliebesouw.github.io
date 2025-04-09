@@ -102,6 +102,20 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
       </a>
     </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#steven-schalekamp">
+        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
+      </a>
+      <a href="{{ site.url }}/speakers#TBA">
+        <img src="{{ site.url }}/assets/img/TBA.jpg" class="speaker-thumb" alt="TBA">
+      </a>
+      <a href="{{ site.url }}/speakers#hanneke-bluemink">
+        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
+      </a>
+      <a href="{{ site.url }}/speakers#dennie-fransen">
+        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
+      </a>    
+    </div>
   </div>
 
   <!-- Lunch -->
