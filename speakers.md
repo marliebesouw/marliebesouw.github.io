@@ -97,7 +97,7 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker rigth" id = "TBA">
+<div class="speaker right" id = "TBA">
     <img src="{{ site.url }}/assets/img/TBA.jpg" alt="TBA">
     <div class="speaker-info">
         <h2>To Be Announced
