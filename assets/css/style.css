@@ -269,6 +269,14 @@ footer {
     border: 2px solid #1B2430;
   }
   
+  .speaker-thumb-row {
+    display: flex;
+    justify-content: flex-start; /* or center / space-around */
+    gap: 15px;
+    margin-left: 160px; /* Adjust based on your program layout */
+    flex-wrap: wrap; /* Makes it responsive */
+  }
+  
   
   .speaker-inline {
     display: flex;
