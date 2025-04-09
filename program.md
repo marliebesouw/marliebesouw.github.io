@@ -106,7 +106,6 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         </div>
     </div>
     </div>
-
     <div class="program-item">
         <div class="program-time"> </div> 
 
@@ -124,8 +123,26 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
             &nbsp;&nbsp;&nbsp;&nbsp; Radiology: 
             <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & TBA <br>
             &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy: 
-            <a href="{{ site.url }}/speakers#hanneke-bluemink"
+            <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & 
+            <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>  
+        </div>
 
+        <!-- COLUMN 3: IMAGES -->
+        <div class="speaker-thumb-grid">
+            <a href="{{ site.url }}/speakers#niels-van-royen">
+                <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
+            </a>
+            <a href="{{ site.url }}/speakers#joeri-huigen">
+                <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
+            </a>
+            <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
+                <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
+            </a>
+            <a href="{{ site.url }}/speakers#gabriele-bani">
+                <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" class="speaker-thumb" alt="Gabriele Bani">
+            </a>
+        </div>
+    </div>
 
         <div class="program-item">
             <div class="program-time">12.30-13.30</div>
