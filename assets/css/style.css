@@ -126,7 +126,7 @@ main {
     position: absolute;
     top: 100%; /* Aligns below "Program" */
     left: 50%; /* Aligns it to the center */
-    transform: translateX(-50%); /* Centers it correctly */
+    transform: none; /* Centers it correctly */
     background-color: #1B2430; /* Dark blue */
     min-width: 140px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
