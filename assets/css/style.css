@@ -270,7 +270,7 @@ footer {
     border: 2px solid #1B2430;
   }
 
-  
+
   .program-session::before,
   .program-session::after {
     content: none; /* prevents pseudo-elements adding a stripe */
@@ -290,16 +290,16 @@ footer {
   }
   
 
-  .speaker-thumb-grid {
+    .speaker-thumb-grid {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end; /* Pushes images to the right */
+    flex-direction: row;     /* Force horizontal stacking */
+    justify-content: flex-end; /* Align group to the right */
     gap: 10px;
     margin-left: auto;
     margin-top: 10px;
-    max-width: 150px; /* Optional: controls how many images fit per line */
-  }
-  
+    }
+
   .speaker-thumb-grid .speaker-thumb {
     width: 60px;
     height: 60px;
