@@ -525,31 +525,63 @@ footer {
       }
       
       /* === DESKTOP (hover) === */
-@media (min-width: 769px) {
-    .dropdown:hover .dropdown-content {
-      display: block;
-    }
-  }
+      @media (min-width: 769px) {
+        .dropdown-content {
+          position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+          top: 100%;
+          text-align: left;
+          padding: 10px 0;
+          background-color: #1B2430;
+          min-width: 140px;
+          box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+          z-index: 1000;
+        }
+      
+        .dropdown:hover .dropdown-content {
+          display: block;
+        }
+      }
+      
   
   /* === MOBILE (click simulation using checkbox hack) === */
-  @media (max-width: 768px) {
-    .dropdown-content {
-        display: none;
-        position: relative;        /* ← was static before, this is better */
-        background-color: #1B2430;
-        width: 100%;
-        box-shadow: none;
-        text-align: center;        /* align with top nav items */
-        padding: 0;                /* remove left padding */
-      }
-    
-      .dropdown.open .dropdown-content {
-        display: block;
-      }
-    
-      .dropdown-content a {
-        padding: 12px 0;
-        display: block;
-      }
-  }
-  
+    @media (max-width: 768px) {
+        .navbar ul {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .navbar li {
+            width: 100%;
+            text-align: center;
+            margin: 0;
+        }
+        
+        .dropdown {
+            display: block;       /* Was inline-block, force block for full-width */
+            width: 100%;
+            position: relative;
+        }
+        
+        .dropdown-content {
+            display: none;
+            position: relative;   /* Key: prevent absolute offset issues */
+            background-color: #1B2430;
+            width: 100%;
+            box-shadow: none;
+            padding: 0;
+            text-align: center;
+        }
+        
+        .dropdown.open .dropdown-content {
+            display: block;
+        }
+        
+        .dropdown-content a {
+            padding: 12px 0;
+            display: block;
+            width: 100%;
+        }
+        }
+        
