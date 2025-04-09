@@ -487,6 +487,28 @@ footer {
     }
 }
 
+@media screen and (max-width: 768px) {
+    .dropdown-content {
+      position: static;           /* Let it flow naturally in the list */
+      transform: none !important; /* Remove the centering */
+      left: 0;
+      width: 100%;
+      background-color: #1B2430;
+      box-shadow: none;
+      text-align: center;
+      display: none;              /* Keep it hidden until dropdown is active */
+    }
+  
+    .dropdown:hover .dropdown-content {
+      display: block;             /* Show on hover or tap */
+    }
+  
+    .dropdown-content a {
+      padding: 12px 0;
+      display: block;
+    }
+  }
+  
 
 /* Default: 60x60px */
 .speaker-thumb-grid .speaker-thumb {
