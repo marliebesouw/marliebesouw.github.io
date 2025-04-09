@@ -10,6 +10,7 @@ html, body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    overflow-x: hidden;
 }
 
 
@@ -82,16 +83,18 @@ main {
 }
 
 .navbar ul {
-    list-style: none;
-    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     padding: 0;
-;
+    margin: 0;
 }
 
 .navbar li {
-    display: inline;
-    margin: 0 20px;
+    margin: 0 10px;
+    white-space: nowrap;
 }
+
 
 .navbar a {
     color: white;
@@ -340,7 +343,6 @@ footer {
     .program-item > .program-time {
       grid-area: time;
       text-align: left;
-      padding-bottom: 5px;
     }
   
     .program-item > .program-text {
@@ -536,7 +538,8 @@ footer {
         box-sizing: border-box;
       }
       
-      * {
-        outline: 1px solid red;
+      img, video, iframe, table, div, section, nav, header, main, footer {
+        max-width: 100%;
+        box-sizing: border-box;
       }
       
