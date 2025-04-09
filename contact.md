@@ -115,9 +115,11 @@ document.getElementById("contactForm").addEventListener("submit", function(event
         background-color: #f5f5f5;
         padding: 20px;
         border-radius: 8px;
-        width: 50%;
-        margin: auto;
+        width: 100%;
+        max-width: 600px; /* nice readable width on large screens */
+        margin: 20px auto;
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        box-sizing: border-box;
     }
 
     /* Style for input fields */
