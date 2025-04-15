@@ -9,7 +9,7 @@ title: Speakers
 <div class="speaker left" id="colin-jacobs">
     <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
     <div class="speaker-info">
-        <h2>Colin Jacobs  
+        <h2>Dr. Ir. Colin Jacobs  
         <a href="https://www.linkedin.com/in/colin-jacobs-01a14628/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -21,7 +21,7 @@ title: Speakers
 <div class="speaker right" id="kicky-van-leeuwen">
     <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" alt="Kicky van Leeuwen">
     <div class="speaker-info">
-        <h2>Kicky van Leeuwen  
+        <h2>Dr. Kicky van Leeuwen  
         <a href="https://www.linkedin.com/in/kickyvanleeuwen/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -43,7 +43,7 @@ title: Speakers
 <div class="speaker left" id = "Niels van Royen">
     <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
     <div class="speaker-info">
-        <h2>Niels van Royen
+        <h2>Prof. Dr. Niels van Royen, MD
         <a href="https://www.linkedin.com/in/niels-van-royen-56ba1193/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -89,28 +89,29 @@ title: Speakers
 <div class="speaker left" id = "Steven Schalekamp">
     <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
     <div class="speaker-info">
-        <h2>Steven Schalekamp
+        <h2>Dr. Steven Schalekamp, MD
         <a href="https://www.linkedin.com/in/steven-schalekamp-22306ab2/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> Dr. Steven Schalekamp is a radiologist at Radboudumc with a focus on chest imaging and the clinical application of AI in radiology. His research examines the validation and real-world impact of AI tools, including their regulatory claims and evidence base. He has led key studies revealing that many CE-marked AI products lack clear intended use or robust clinical validation. He also co-authored work showing that AI can safely identify normal chest X-rays, helping reduce radiologist workload. His work bridges clinical practice and critical evaluation of AI technologies in healthcare.</p>
+        <p> Steven Schalekamp is a radiologist at Radboudumc with a focus on chest imaging and the clinical application of AI in radiology. His research examines the validation and real-world impact of AI tools, including their regulatory claims and evidence base. He has led key studies revealing that many CE-marked AI products lack clear intended use or robust clinical validation. He also co-authored work showing that AI can safely identify normal chest X-rays, helping reduce radiologist workload. His work bridges clinical practice and critical evaluation of AI technologies in healthcare.</p>
     </div>
 </div>
 
 <div class="speaker right" id = "TBA">
-    <img src="{{ site.url }}/assets/img/TBA.jpg" alt="TBA">
+    <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
     <div class="speaker-info">
-        <h2>To Be Announced
-
-        </h2>
-        <p>  </p>
+        <h2>Daniel Drieling
+        <a href="https://www.linkedin.com/in/daniel-drieling-94ba5382/" target ="_blank" style="margin-left:3mm;" >
+            <i class = "fa-brands fa-linkedin"></i>
+        </a></h2>
+        <p> Daniel Frieling is a product manager at MeVis Medical Solutions AG, where he has contributed to the development and delivery of advanced medical imaging software for over 17 years. With a background in computer science and a strong focus on information systems, Daniel brings extensive experience in product development, IT project management, and clinical application delivery. His work supports the integration of innovative imaging solutions into clinical workflows, enhancing diagnostic precision and patient care. </p>
     </div>
 </div> 
 
 <div class="speaker left" id = "Hanneke Bluemink">
     <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
     <div class="speaker-info">
-        <h2>Hanneke Bluemink
+        <h2>Dr. Ir. Hanneke Bluemink
         <a href="https://www.linkedin.com/in/hanneke-bluemink-2055256/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -143,7 +144,7 @@ title: Speakers
 <div class="speaker right" id = "martijn-bauer">
     <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" alt="Martijn Bauer">
     <div class="speaker-info">
-       <h2>Martijn Bauer
+       <h2>Dr. Martijn Bauer, MD
         <a href="https://www.linkedin.com/in/martijn-bauer-79909b6/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -156,7 +157,7 @@ title: Speakers
 <div class="speaker left" id = "bram-van-ginneken">
     <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
     <div class="speaker-info">
-       <h2>Bram van Ginneken 
+       <h2>Prof. Dr. Bram van Ginneken 
         <a href="https://www.linkedin.com/in/bramvanginneken/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
@@ -171,7 +172,7 @@ title: Speakers
         <a href="https://www.linkedin.com/in/robertbreas/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
+        <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work as a senior consultant facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
     </div>
 </div>
 
