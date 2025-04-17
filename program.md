@@ -83,7 +83,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
       <a href="{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
-      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & TBA<br>
+      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> &  <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
       <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & 
       <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
