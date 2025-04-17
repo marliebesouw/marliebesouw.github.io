@@ -25,7 +25,7 @@ title: Speakers
         <a href="https://www.linkedin.com/in/kickyvanleeuwen/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> Kicky van Leeuwen is a co-founder of Romion Health, where she applies her expertise as a clinical scientist in medical imaging and healthcare innovation. With a strong background in translational research, she works on bridging the gap between advanced imaging technologies and clinical implementation. At Romion Health, she focuses on integrating AI-driven solutions into medical practice, optimizing imaging techniques, and improving diagnostic accuracy. </p>
+        <p> Kicky van Leeuwen is a market expert in AI solutions for radiology and healthcare. She founded Health AI Register, a globally used platform offering insights into commercial AI software solutions. She co-leads Romion Health to drive the responsible adoption of AI by advising and educating on medical AI procurement and implementation throughout Europe. Previously, she completed a PhD at Radboud University Medical Center, on the validation and implementation of commercial AI solutions in radiology.</p>
     </div>
 </div>
 
