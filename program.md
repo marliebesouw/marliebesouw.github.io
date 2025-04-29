@@ -157,7 +157,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
       <a href="{{ site.url }}/speakers#gabriele-bani" class="speaker-link">Gabriele Bani</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
-      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & TBA<br>
+      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & Daniel Drieling<br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
       <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> & 
       <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
@@ -179,7 +179,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
       </a>
       <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="D">
+        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
       </a>
       <a href="{{ site.url }}/speakers#hanneke-bluemink">
         <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
