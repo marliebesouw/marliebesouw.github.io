@@ -172,7 +172,7 @@ title: Speakers
         <a href="https://www.linkedin.com/in/robertbreas/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> Robert Breas specializes in healthcare IT infrastructure, data management, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work as a senior consultant facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
+        <p> Robert Breas specializes in healthcare IT infrastructure, data management, AI, and the integration of digital technologies in medical imaging. With a deep understanding of IT systems and clinical workflows and interoperability, he ensures that imaging data is effectively processed, stored, and utilized for research and patient care. His work as a senior consultant facilitates seamless collaboration between clinicians, researchers, and IT professionals, enhancing efficiency and innovation in the medical field. </p>
     </div>
 </div>
 
