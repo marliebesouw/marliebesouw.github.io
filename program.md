@@ -105,7 +105,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
       </a>
       <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpg" class="speaker-thumb" alt="Daniel Drielings">
+        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drielings">
       </a>
       <a href="{{ site.url }}/speakers#hanneke-bluemink">
         <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
@@ -178,8 +178,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <a href="{{ site.url }}/speakers#steven-schalekamp">
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
       </a>
-      <a href="{{ site.url }}/speakers#TBA">
-        <img src="{{ site.url }}/assets/img/TBA.jpg" class="speaker-thumb" alt="TBA">
+      <a href="{{ site.url }}/speakers#daniel-drieling">
+        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="D">
       </a>
       <a href="{{ site.url }}/speakers#hanneke-bluemink">
         <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
