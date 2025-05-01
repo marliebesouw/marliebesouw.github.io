@@ -14,7 +14,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
 
   <!-- Registration -->
   <div class="program-item">
-    <div class="program-time">9.00-9.30</div>
+    <div class="program-time">9.00-9.45</div>
     <div class="program-text"><strong>Registration of participants</strong></div>
   </div>
 
