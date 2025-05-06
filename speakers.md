@@ -89,14 +89,15 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right" id = "Gabriele Bani">
-    <img src="{{ site.url }}/assets/img/Gabriele_Bani.jpg" alt="Gabriele Bani">
+<div class="speaker right" id = "TBA">
+    <img src="{{ site.url }}/assets/img/TBA.jpg" alt="TBA">
     <div class="speaker-info">
-        <h2>Gabriele Bani
-        <a href="https://www.linkedin.com/in/gabriele-bani-ai/" target="_blank" style="margin-left:3mm;">
+        <h2>TBA
+        <!-- <a href="https://www.linkedin.com/in/gabriele-bani-ai/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
-        </a></h2>
-        <p> Gabriele Bani is an AI Engineer at Ellogon.AI, a company specializing in developing artificial intelligence solutions for pathology. He holds a Master's degree in Artificial Intelligence from the University of Amsterdam and has a background in Computer Science, including participation in an Erasmus+ Exchange Programme at the University of Groningen. Before joining Ellogon.AI, Gabriele founded Intrical AI, a tech startup that utilized AI and Natural Language Processing to enhance the research processes of M&A analysts. In his current role at Ellogon.AI, he focuses on creating state-of-the-art AI models aimed at improving diagnostic accuracy and efficiency in pathology. </p>
+        </a> -->
+        </h2> 
+        <p> To be announced</p>
     </div>
 </div>
 
