@@ -23,12 +23,17 @@ title: Welcome to ICAI-Healthcare
     <p>
    <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
 
-    Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This course is designed to bridge that gap—connecting ideas with implementation. <br>
+    Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This course is designed to bridge that gap: connecting ideas with implementation. <br>
 
-    A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and successfully implement it. This course provides practical insights, real-world case studies, and hands-on experience to help professionals navigate the entire AI adoption process. By bringing together healthcare experts, AI vendors, and researchers, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br>
-    
-    The Innovation Center for Artificial Intelligence <a href="https://www.icai.ai/" target="_blank">(ICAI)</a> is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by fostering partnerships that drive cutting-edge AI innovations. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
-  </p>
+    A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and <strong>successfully implement</strong> it. This course provides <strong>practical insights, real-world case studies, and hands-on experience</strong> to help professionals navigate the entire AI adoption process. By bringing together <strong>healthcare experts, AI vendors, and researchers</strong>, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br>
+    </p>
+</div> 
+
+  ## ICAI
+   <div class="content">
+   <p>
+    The Innovation Center for Artificial Intelligence <a href="https://www.icai.ai/" target="_blank">(ICAI)</a> is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
+    </p>
 </div>
 
 ## About the Course
@@ -43,9 +48,11 @@ This course is designed to provide healthcare professionals, researchers, and de
 
 ## Who Should Attend?
 - Healthcare professionals looking to integrate AI into clinical practice, including:  
+<strong>
   - Medical doctors  
   - Medical physicists  
-  - Medical technicians  
+  - Medical technicians 
+  </strong> 
 - Decision-makers evaluating AI solutions for healthcare settings  
 - Anyone seeking practical guidance on selecting and implementing AI systems  
 
