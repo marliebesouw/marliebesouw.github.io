@@ -28,8 +28,8 @@ The Netherlands <br>
 
 
 <div class="experience-gallery">
-  <img src="{{ site.url }}/assets/img/experience19.jpg" alt="Experience Center 19">
-  <img src="{{ site.url }}/assets/img/experience30.jpg" alt="Experience Center 30">
-  <img src="{{ site.url }}/assets/img/experience35.jpg" alt="Experience Center 35">
+  <img src="{{ site.url }}/assets/img/Rumcexperiencecenter19.jpg" alt="Experience Center 19">
+  <img src="{{ site.url }}/assets/img/Rumcexperiencecenter30.jpg" alt="Experience Center 30">
+  <img src="{{ site.url }}/assets/img/Rumcexperiencecenter35.jpg" alt="Experience Center 35">
 </div>
 Copyright Radboudumc
