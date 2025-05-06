@@ -58,6 +58,6 @@ This course is designed to provide healthcare professionals, researchers, and de
 
 
 
-<div class="content">
+<!-- <div class="content">
     <p><strong>***</strong>Sign-ups are not open yet, but you can <a href="{{ site.url }}/contact">register your interest</a> to stay informed. We will keep you updated and let you know as soon as registration becomes available.<strong>***</strong></p>
-</div>
+</div> -->
