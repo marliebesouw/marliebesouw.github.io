@@ -3,7 +3,22 @@ layout: default
 title: Program
 ---
 
-# Program Overview
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <h1 style="margin: 0;">Program Overview</h1>
+  <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank" style="
+    background-color: #1B2430;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+  ">
+    Register now
+  </a>
+</div>
+
 
 <div class="content">
 Below you can find the time schedule of the workshop day on September 19. <br>
