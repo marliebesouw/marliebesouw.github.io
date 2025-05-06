@@ -48,11 +48,11 @@ This course is designed to provide healthcare professionals, researchers, and de
 
 ## Who Should Attend?
 - Healthcare professionals looking to integrate AI into clinical practice, including:  
-<strong>
+  
   - Medical doctors  
   - Medical physicists  
   - Medical technicians 
-  </strong> 
+ 
 - Decision-makers evaluating AI solutions for healthcare settings  
 - Anyone seeking practical guidance on selecting and implementing AI systems  
 
