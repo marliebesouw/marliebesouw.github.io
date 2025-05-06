@@ -29,7 +29,7 @@ title: Welcome to ICAI-Healthcare
     </p>
 </div> 
 
-  ## ICAI
+## ICAI
    <div class="content">
    <p>
     The Innovation Center for Artificial Intelligence <a href="https://www.icai.ai/" target="_blank">(ICAI)</a> is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
@@ -37,7 +37,7 @@ title: Welcome to ICAI-Healthcare
 </div>
 
 ## About the Course
-This course is designed to provide healthcare professionals, researchers, and decision-makers with practical insights and background knowledge on the critical decision of buying, building, selecting, and implementing AI solutions for healthcare. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
+This course is designed to provide healthcare professionals, researchers, and decision-makers with practical insights and background knowledge on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
 
 <!-- ## Course Objectives
 - Understand the buy vs. build principle in AI for healthcare  
