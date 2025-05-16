@@ -11,7 +11,7 @@ title: AI for Healthcare
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 6px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 5px;
   ">
