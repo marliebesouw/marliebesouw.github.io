@@ -20,7 +20,7 @@ title: AI for Healthcare
 </div>
 
 <!-- <h2 style= "margin: 0;"></h2> -->
-<h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><i>How to choose it, how to (really) use it?</i></h2>
+<h2 style="margin-top: 0; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><i>How to choose it, how to (really) use it?</i></h2>
 
 <div class="content">
   <p>
@@ -59,7 +59,7 @@ title: AI for Healthcare
        </ul>
       </ul> <br> 
 
-    <h2><strong>ICAI</strong></h2>
+  <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>ICAI</strong></h2>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
     ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. It bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
    </p>
