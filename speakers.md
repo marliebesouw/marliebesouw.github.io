@@ -46,7 +46,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
   <div class="speaker-info">
     <h2>Prof. Dr. Niels van Royen <a href="https://www.linkedin.com/in/niels-van-royen-56ba1193/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Head of Cardiology at Radboudumc, Prof. van Royen combines clinical care and translational research in interventional cardiology. He explores how AI can support diagnostic and procedural decision-making, particularly through advanced imaging such as optical coherence tomography (OCT). His session will reflect on the clinical needs that should guide AI implementation in cardiology.</p>
+    <p>Head of Cardiology at Radboudumc, Prof. van Royen leads both clinical care and translational research in interventional cardiology. He integrates advanced imaging technologies, such as optical coherence tomography (OCT), to improve real-time decision-making in the cath lab. His session will focus on how AI can support interpretation of complex cardiac imaging, enhance intervention strategies, and be safely embedded into cardiology workflows.</p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander Vanpeteghem">
   <div class="speaker-info">
     <h2>Alexander Vanpeteghem <a href="https://www.linkedin.com/in/alexander-vanpeteghem-38a725167/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Alexander Vanpeteghem works in digital innovation for cardiovascular care, bridging clinical requirements with emerging AI tools. He focuses on structured reporting and workflow optimization, and will offer a complementary perspective on how vendors can develop usable, relevant solutions in collaboration with clinical teams.</p>
+    <p>Alexander Vanpeteghem works in digital innovation in cardiology and is closely involved in bridging clinical needs with emerging AI tools. He collaborates on projects exploring the use of AI in structured reporting and workflow optimization. He will deliver an insight session together with Niels, discussing the opportunities for collaboration between vendor and clinician, and how the vendor starts from an idea to development.</p>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
   <div class="speaker-info">
     <h2>Natalie ter Hoeve <a href="https://www.linkedin.com/in/natalie-ter-hoeve-61a8ab87/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Natalie ter Hoeve is a pathologist assistant at UMC Utrecht. She is involved in AI-assisted diagnostic workflows for prostate and breast cancer, including the CONFIDENT trial, a prospective evaluation of AI use in pathology. Her session will cover how safety, validation, and usability are balanced in real-world AI deployment.</p>
+    <p>Natalie ter Hoeve is a pathologist assistant at the University Medical Center Utrecht (UMCU), actively involved in integrating artificial intelligence (AI) into pathology to enhance diagnostic accuracy and efficiency. She focuses on implementing AI-assisted workflows in prostate and breast cancer diagnostics. She will lead a session, focusing on the insights of implmenting AI in the pathology department.</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
   <div class="speaker-info">
     <h2>Dr. Steven Schalekamp <a href="https://www.linkedin.com/in/steven-schalekamp-22306ab2/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Dr. Schalekamp is a radiologist at Radboudumc specializing in chest imaging and the practical implementation of AI in radiology. He is actively involved in selecting and integrating commercial AI tools into diagnostic workflows. In his session, he will share when and why AI is adopted, or not, and what radiologists need to make informed, responsible decisions.</p>
+    <p>Steven Schalekamp is a radiologist at Radboudumc specializing in chest imaging, with an active role in evaluating and implementing AI tools in clinical radiology. As both a clinician and researcher, he is closely involved in assessing the value, risks, and workflow impact of commercial AI solutions. In his session, he will discuss what drives the decision to adopt (or not adopt) an AI tool, including clinical relevance, integration challenges, and end-user experience. His perspective highlights the reality of embedding AI into practice: from evidence to workflow fit and long-term usability.</p>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
   <div class="speaker-info">
     <h2>Daniel Drieling <a href="https://www.linkedin.com/in/daniel-drieling-94ba5382/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Daniel Drieling is a Senior Product Manager at MeVis Medical Solutions, with nearly two decades of experience in designing medical imaging software. He works closely with hospitals to translate clinical needs into usable tools and ensure smooth integration into radiology workflows. His talk offers a vendor perspective on sustainable AI collaboration.
+    <p>Daniel Drieling is a Senior Product Manager at MeVis Medical Solutions. With a background in computer science and a strong understanding of hospital IT environments, Daniel has led the design and deployment of AI-powered imaging tools for lung cancer screening and beyond. He brings a valuable vendor perspective on how clinical needs and technical possibilities must align: From interface design and workflow integration to regulatory constraints and user feedback loops. During his session with Steven, he will reflect on lessons learned from long-term collaborations with hospitals and how vendor–clinic partnerships can lead to meaningful, sustainable AI implementation.
 </p>
   </div>
 </div>
@@ -90,7 +90,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
   <div class="speaker-info">
     <h2>Dr. Ir. Hanneke Bluemink <a href="https://www.linkedin.com/in/hanneke-bluemink-2055256/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Hanneke is a medical physicist at Catharina Hospital in Eindhoven, focusing on AI-based automation in radiotherapy. She specializes in deep learning for segmentation and treatment planning, particularly in breast cancer. Her session will share lessons from clinical implementation and collaboration with vendors.</p>
+    <p>As a medical physicist at Catharina Hospital, Hanneke is specialized in AI-based automation of radiotherapy planning and segmentation workflows. In her session with Dennie, Hanneke will share practical insights on working with vendors, validating AI models in clinical workflows, and the cultural and technical shifts required to move from manual to automated planning in a safe and effective way.</p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
   <div class="speaker-info">
     <h2>Dennie Fransen <a href="https://www.linkedin.com/in/DennieFransen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Dennie Fransen is an Application Specialist at RaySearch Laboratories and former Senior RT technologist at HollandPTC. He has hands-on experience with advanced planning systems and AI-supported dose prediction. His talk will highlight how AI can improve planning efficiency while preserving the role of clinical expertise.
+    <p>Dennie Fransen is an Application Specialist at RaySearch Laboratories and previously worked as a Senior Radiation Therapy Technologist at HollandPTC. He has extensive hands-on experience with advanced radiotherapy planning systems. Dennie specializes in optimizing treatment workflows through AI-supported planning and automation. In his session with Hanneke, he will discuss how AI is used to enhance precision, reduce planning time, and support clinical teams, while also highlighting how clinical expertise must remain central when adopting new tools in radiotherapy departments.
     </p>
   </div>
 </div>
@@ -109,7 +109,7 @@ title: Speakers
   <div class="speaker-info">
     <h2>Marja de Waal <a href="https://www.linkedin.com/in/marja-de-waal-42b61337/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
     <p>
-    Marja de Waal is a clinical informatician at Radboudumc with a background in medical imaging and digital innovation. She initiated a pilot evaluating the use of AI-based digital scribes (Autoscriber) within the EPIC electronic health record system. In the panel, she will reflect on the challenges and opportunities of introducing large language models (LLMs) into clinical documentation workflows, and the lessons learned from her implementation experience.
+    Marja de Waal is a clinical informatician at Radboudumc with a background in medical imaging and digital innovation. She initiated and led a pilot project at Radboudumc to assess the use of AI-driven digital scribes (Autoscriber) within the EPIC EHR system, focusing on ambient listening and its impact on clinician workload and documentation quality. In the session with Martijn, she will reflect on how large language models can support, but also challenge, clinical routines, and what conditions must be in place for successful adoption.
     </p>
   </div> 
 </div>
@@ -118,7 +118,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" alt="Martijn Bauer">
   <div class="speaker-info">
     <h2>Dr. Martijn Bauer <a href="https://www.linkedin.com/in/martijn-bauer-79909b6/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Martijn is an internist at Leiden University Medical Center (LUMC) and Chief Medical Information Officer at Autoscriber. He was closely involved in initiating and testing Autoscriber in clinical environments and brings a dual perspective as both user and developer. In the panel, he will share what it takes to implement AI tools that truly support clinicians and how LLMs are changing the future of documentation and decision support.</p>
+    <p>Martijn Bauer is an internist at Leiden University Medical Center (LUMC) and Chief Medical Information Officer at Autoscriber. He was instrumental in initiating the development of Autoscriber within LUMC’s internal medicine department, where he recognized the potential of AI to support clinical documentation and reduce administrative burden. Drawing from both his clinical and innovation roles, Martijn brings a unique perspective on what it takes to co-develop AI tools that actually work for clinicians. During the session with Marja, he will give a demo and share lessons from real-world implementation, including how to manage expectations, ensure clinician trust, and embed large language models into daily EHR use.</p>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
   <div class="speaker-info">
     <h2>Prof. Dr. Bram van Ginneken <a href="https://www.linkedin.com/in/bramvanginneken/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p> Bram van Ginneken is a professor of medical image analysis at Radboudumc and one of the world’s leading researchers in AI for radiology. He has pioneered the development of deep learning algorithms for detecting diseases such as lung cancer and tuberculosis, and has led numerous international validation efforts. In his session with Robert, he will share a forward-looking perspective on how AI is likely to reshape hospitals over the coming years, from changing diagnostic workflows to shifting what it means to be a clinician. 
+    <p> Bram van Ginneken is a professor of medical image analysis at Radboudumc and one of the world’s leading researchers in AI for radiology. He has pioneered the development of deep learning algorithms for detecting diseases such as lung cancer and tuberculosis, and has led numerous international validation efforts. Bram’s work bridges cutting-edge model development with the practical realities of deployment in diverse clinical environments. In his session with Robert, he will share a forward-looking perspective on how AI is likely to reshape hospitals over the coming years — from changing diagnostic workflows to shifting what it means to be a clinician.
     </p>
   </div>
 </div>
