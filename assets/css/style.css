@@ -30,7 +30,7 @@ main {
 
 .content a {
     color: #1B2430; /* Dark color */
-    text-decoration: none; /* Removes underline */
+    text-decoration: underline; /* Removes underline */
     font-weight: bold; /* Optional: Makes text bold */
 }
 
@@ -207,6 +207,7 @@ header, .hero, .hero img {
     text-decoration:none;  
     /* font-weight: bold, italic;  */
     font-style: italic;
+    
 }
 
 .speaker-link:hover {
