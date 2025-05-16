@@ -17,7 +17,7 @@ title: Speakers
   ">
     Register now
   </a>
-</div><br>
+</div>
 
 <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">🧠 Plenary & Workshop Speakers</h2>
 <div class="speaker left" id="colin-jacobs">
