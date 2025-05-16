@@ -24,7 +24,10 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
   <div class="speaker-info">
     <h2>Dr. Ir. Colin Jacobs <a href="https://www.linkedin.com/in/colin-jacobs-01a14628/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Expert in AI for lung cancer screening and thoracic imaging. Leads research on the clinical validation of AI and its role in early detection. Plenary speaker on evaluating AI in practice.</p>
+    <p> Colin Jacobs is Associate Professor in Artificial Intelligence in Thoracic Oncology at Radboudumc.
+      He is internationally recognized for his work on AI in lung cancer screening and detection. His research
+      focuses on clinically validating AI for chest imaging and ensuring its safe implementation. Colin will deliver
+      a plenary session on the real-world impact of AI in screening programs and the challenges of clinical deployment.</p>
   </div>
 </div>
 
@@ -32,7 +35,8 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" alt="Kicky van Leeuwen">
   <div class="speaker-info">
     <h2>Dr. Kicky van Leeuwen <a href="https://www.linkedin.com/in/kickyvanleeuwen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Founder of Health AI Register and Romion Health. Specializes in responsible AI procurement and implementation. Leads plenary and workshop on selecting clinical AI tools.</p>
+    <p>Kicky van Leeuwen is a market expert in AI solutions for radiology and healthcare. She founded Health AI Register, a globally used platform offering insights into commercial AI software solutions. She co-leads Romion Health to drive the responsible adoption of AI by advising and educating on medical AI procurement and implementation throughout Europe.     
+    During the congress, she will deliver a plenary session about the considerations for selecting an AI system, and she will lead a hands-on workshop on selecting AI systems, focusing on practical insights.</p>
   </div>
 </div>
 
