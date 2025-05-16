@@ -9,6 +9,7 @@
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
 </head>
 <body>
+  
 
     <!-- HEADER with Image -->
  <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank">
@@ -16,6 +17,15 @@
         <img src="{{ site.baseurl }}/assets/img/header.png" alt="ICAI Healthcare Banner">
     </header>
  </a>
+ 
+  <!-- PAGE TITLE -->
+    <section class="page-title" style="text-align: center; padding: 1.5rem 1rem 0.5rem;">
+      <h1 style="margin-bottom: 0.2em;">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 style="font-weight: normal; color: #555; margin-top: 0;">{{ page.subtitle }}</h2>
+      {% endif %}
+    </section>
+
 
     <!-- NAVIGATION BAR -->
     <nav class="navbar">
