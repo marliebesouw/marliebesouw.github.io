@@ -17,9 +17,9 @@ title: AI for Healthcare
   ">
     Register now
   </a> 
-  <br><br>
-  <h2 style= "margin: 0;">How to choose it, how to (really) use it?</h2>
-</div>
+</div><br>
+
+<h2 style= "margin: 0;"><i>How to choose it, how to (really) use it?</i></h2>
 
 <div class="content">
     <p>
