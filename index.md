@@ -42,7 +42,7 @@ This course is designed to provide healthcare professionals, researchers, and de
 - Engage in interactive workshops for hands-on experience  
 - Discuss the future of AI in clinical practice with experts   -->
 
-## Who Should Attend?
+<!-- ## Who Should Attend?
 - Healthcare professionals looking to integrate AI into clinical practice, including:  
   
   - Medical doctors  
@@ -50,12 +50,13 @@ This course is designed to provide healthcare professionals, researchers, and de
   - Medical technicians 
  
 - Decision-makers evaluating AI solutions for healthcare settings  
-- Anyone seeking practical guidance on selecting and implementing AI systems  
+- Anyone seeking practical guidance on selecting and implementing AI systems   -->
 
 ## ICAI
    <div class="content">
    <p>
-    The Innovation Center for Artificial Intelligence <a href="https://www.icai.ai/" target="_blank">(ICAI)</a> is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
+    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
+    ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
     </p>
 </div>
 
