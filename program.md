@@ -17,7 +17,7 @@ title: Program
   ">
     Register now
   </a>
-</div><br>
+</div>
 
 
 <div class="content">
