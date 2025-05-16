@@ -52,7 +52,7 @@ title: Speakers
 
 <div class="speaker right" id="alexander-vanpeteghem">
   <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander Vanpeteghem">
-  <div class="speaker-info">
+  <div class="speaker-info" id ="alexander-vanpeteghem">
     <h2>Alexander Vanpeteghem <a href="https://www.linkedin.com/in/alexander-vanpeteghem-38a725167/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
     <p>Alexander Vanpeteghem works in digital innovation in cardiology and is closely involved in bridging clinical needs with emerging AI tools. He collaborates on projects exploring the use of AI in structured reporting and workflow optimization. In his joint session with Niels, he will discuss the opportunities for collaboration between vendor and clinician, and how the vendor starts from an idea to development.</p>
   </div>
