@@ -23,7 +23,8 @@ title: Program
 <div class="content">
 Below you can find the time schedule of the congress day on September 19. <br>
 More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>.
-</div>
+</div><br>
+<h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
 
 <div class="program">
 
