@@ -23,7 +23,7 @@ title: Program
 <div class="content">
 Below you can find the time schedule of the congress day on September 19. <br>
 More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>.
-</div><br>
+</div>
 <h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
 
 <div class="program">
@@ -264,6 +264,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
   </div>
 
 </div>
+<h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
+
 
 <div class="content">
   *The participants will be divided into smaller groups for the workshops. You will either attend the workshop in the morning (1) or in the afternoon (2).  
