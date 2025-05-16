@@ -17,7 +17,7 @@ html, body {
 /* MAIN CONTENT */
 main {
     flex: 1;
-    max-width: 800px;
+    max-width: 600px;
     margin: 20px auto;
     padding: 20px;
     background: white;

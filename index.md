@@ -32,7 +32,7 @@ title: AI for Healthcare
       This congress offers:
       <ul>
        <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
-       <li>Hands-on workshops with <a href="{{ site.url }}/speakers"><i>leading experts</i></a></li>
+       <li>Hands-on workshops with <a href="{{ site.url }}/speakers">leading experts</a></li>
        <li>Practical tools to select and implement AI solutions</li>
       </ul>
 
@@ -42,7 +42,7 @@ title: AI for Healthcare
    <h3> About the Congress</h3>
     This congress is designed to provide clinicians, medical physicists and technicians with practical insights into real-world applications of AI, focusing on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br>
 
-   The<a href="{{ site.url }}/program" > <i>program</i></a> consists of:
+   The <a href="{{ site.url }}/program">program</a> consists of:
       <ul>
        <li><strong>Plenary sessions on:</strong></li>
        <ul>
