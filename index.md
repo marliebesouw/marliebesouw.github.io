@@ -31,7 +31,7 @@ title: AI for Healthcare
       This congress offers:
       <ul>
        <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
-       <li>Hands-on workshops with <a href="{{ site.url }}/speakers" > leading expert</a></li>
+       <li>Hands-on workshops with <a href="{{ site.url }}/speakers" > <i>leading experts</i></a></li>
        <li>Practical tools to select and implement AI solutions</li>
       </ul>
 
