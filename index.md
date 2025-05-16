@@ -39,7 +39,7 @@ title: AI for Healthcare
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward.
 
 
-   <h3> About the Course</h3>
+   <h3> About the Congress</h3>
     This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br>
 
    The<a href="{{ site.url }}/program" > <i>program</i></a> consists of:
