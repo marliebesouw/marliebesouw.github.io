@@ -21,7 +21,7 @@ title: Program
 
 
 <div class="content">
-Below you can find the time schedule of the workshop day on September 19. <br>
+Below you can find the time schedule of the congress day on September 19. <br>
 More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>.
 </div>
 
