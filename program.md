@@ -93,7 +93,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       Speakers: <br>
       &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
       <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
-      <a href="{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a><br>
+      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
       <a href="{{ site.url }}/speakers#TBA" class="speaker-link">TBA</a><br>
@@ -107,8 +107,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <a href="{{ site.url }}/speakers#niels-van-royen">
         <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
       </a>
-      <a href="{{ site.url }}/speakers#joeri-huigen">
-        <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
+      <a href="{{ site.url }}/speakers#alexander_vanpeteghem">
+        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
       </a>
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
         <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
@@ -167,7 +167,7 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       Speakers: <br>
       &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
       <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> & 
-      <a href="{{ site.url }}/speakers#joeri-huigen" class="speaker-link">Joeri Huigen</a><br>
+      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
       <a href="{{ site.url }}/speakers#TBA" class="speaker-link">TBA</a><br>
@@ -181,8 +181,8 @@ More information regarding the speakers can be found <a href= "{{ site.url }}/sp
       <a href="{{ site.url }}/speakers#niels-van-royen">
         <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
       </a>
-      <a href="{{ site.url }}/speakers#joeri-huigen">
-        <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" class="speaker-thumb" alt="Joeri Huigen">
+      <a href="{{ site.url }}/speakers#alexander-vanpeteghem">
+        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
       </a>
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
         <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
