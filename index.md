@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "AI for Healthcare: How to choose it, how to (really) use it?"
+title: AI for Healthcare 
+subtitle: How to choose it, how to (really) use it?
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
