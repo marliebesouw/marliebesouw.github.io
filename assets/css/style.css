@@ -32,6 +32,7 @@ main {
     color: #1B2430; /* Dark color */
     text-decoration: underline; /* Removes underline */
     font-weight: bold; /* Optional: Makes text bold */
+    font-style:italic;
 }
 
 .content a:hover {
