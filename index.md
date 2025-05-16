@@ -36,7 +36,7 @@ title: AI for Healthcare
        <li>Practical tools to select and implement AI solutions</li>
       </ul>
 
-    Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br>
+    Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
 
 
    <h3> About the Congress</h3>
