@@ -23,11 +23,35 @@ title: AI for Healthcare: How to choose it, how to (really) use it?
     <p>
    <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
 
+<<<<<<< HEAD
     Everybody talks about AI, but how do you choose the right one?
 
     Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This congress is designed to bridge that gap: connecting ideas with implementation. <br>
 
     A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and <strong>successfully implement</strong> it. This congress provides <strong>practical insights, real-world case studies, and hands-on experience</strong> to help professionals navigate the entire AI adoption process. By bringing together <strong>healthcare experts, AI vendors, and researchers</strong>, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br>
+=======
+    Everyone talks about AI — but how do you choose the right one? And how do you actually use it in your clinic? <br>
+
+    On September 19, join clinicians, medical physicists, and AI experts to explore how AI is being used in hospitals today. Learn how to collaborate with vendors, evaluate tools, and apply AI responsibly.
+
+    This one-day congress offers:
+
+    This one-day congress offers:
+    <ul>
+      <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
+      <li>Hands-on workshops with leading experts</li>
+      <li>Practical tools to select and implement AI solutions</li>
+    </ul>
+
+    Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward.
+
+      
+
+    <!-- In this day, we present how AI is used by cardiologists, radiologists and.. in various hospitals and how to collaborate with vendors.
+    This is your chance to
+    Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This congress is designed to bridge that gap: connecting ideas with implementation. <br>
+    A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and <strong>successfully implement</strong> it. This congress provides <strong>practical insights, real-world case studies, and hands-on experience</strong> to help professionals navigate the entire AI adoption process. By bringing together <strong>healthcare experts, AI vendors, and researchers</strong>, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br> -->
+>>>>>>> afde60dab91fa0dea7fe7c4466b2b53893b03339
     </p>
 </div> 
 
@@ -56,7 +80,11 @@ This congress is designed to provide clinicians, medical physicists and technici
    <div class="content">
    <p>
     This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
+<<<<<<< HEAD
     The Innovation Center for Artificial Intelligence <a href="https://www.icai.ai/" target="_blank">(ICAI)</a> is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
+=======
+    ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
+>>>>>>> afde60dab91fa0dea7fe7c4466b2b53893b03339
     </p>
 </div>
 
