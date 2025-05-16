@@ -99,7 +99,7 @@ title: Speakers
   <div class="speaker-info">
     <h2>Marja de Waal <a href="https://www.linkedin.com/in/marja-de-waal-42b61337/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
     <p>Clinical informatician at Radboudumc. Leads pilots with AI-powered digital scribes to evaluate their role in clinical documentation.</p>
-  </div>
+  </div> 
 </div>
 
 <div class="speaker left" id="martijn-bauer">
