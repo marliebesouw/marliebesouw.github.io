@@ -19,7 +19,7 @@ title: Speakers
   </a>
 </div><br>
 
-<h2>🧠 Plenary & Workshop Speakers</h2>
+<h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">🧠 Plenary & Workshop Speakers</h2>
 <div class="speaker left" id="colin-jacobs">
   <img src="{{ site.url }}/assets/img/Colin_Jacobs.jpg" alt="Colin Jacobs">
   <div class="speaker-info">
@@ -36,7 +36,7 @@ title: Speakers
   </div>
 </div>
 
-<h2>🔍 Insight Session Speakers</h2>
+<h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">🔍 Insight Session Speakers</h2>
 <div class="speaker left" id="niels-van-royen">
   <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
   <div class="speaker-info">
@@ -93,7 +93,7 @@ title: Speakers
   </div>
 </div>
 
-<h2>💬 Panel: LLMs & The Future of Clinical AI</h2>
+<h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">💬 Panel: LLMs & The Future of Clinical AI</h2>
 <div class="speaker right" id="marja-de-waal">
   <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" alt="Marja de Waal">
   <div class="speaker-info">
