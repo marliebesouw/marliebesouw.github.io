@@ -36,7 +36,7 @@ title: Speakers
   <div class="speaker-info">
     <h2>Dr. Kicky van Leeuwen <a href="https://www.linkedin.com/in/kickyvanleeuwen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
     <p>Kicky van Leeuwen is a market expert in AI solutions for radiology and healthcare. She founded Health AI Register, a globally used platform offering insights into commercial AI software solutions. She co-leads Romion Health to drive the responsible adoption of AI by advising and educating on medical AI procurement and implementation throughout Europe.     
-    During the congress, she will deliver a plenary session about the considerations for selecting an AI system, and she will lead a hands-on workshop on selecting AI systems, focusing on practical insights.</p>
+    During the congress, she will deliver a plenary session about the considerations for selecting an AI system, and will lead a hands-on workshop offering practical guidance.</p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander Vanpeteghem">
   <div class="speaker-info">
     <h2>Alexander Vanpeteghem <a href="https://www.linkedin.com/in/alexander-vanpeteghem-38a725167/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Alexander Vanpeteghem works in digital innovation in cardiology and is closely involved in bridging clinical needs with emerging AI tools. He collaborates on projects exploring the use of AI in structured reporting and workflow optimization. He will deliver an insight session together with Niels, discussing the opportunities for collaboration between vendor and clinician, and how the vendor starts from an idea to development.</p>
+    <p>Alexander Vanpeteghem works in digital innovation in cardiology and is closely involved in bridging clinical needs with emerging AI tools. He collaborates on projects exploring the use of AI in structured reporting and workflow optimization. In his joint session with Niels, he will discuss the opportunities for collaboration between vendor and clinician, and how the vendor starts from an idea to development.</p>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
   <div class="speaker-info">
     <h2>Natalie ter Hoeve <a href="https://www.linkedin.com/in/natalie-ter-hoeve-61a8ab87/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Natalie ter Hoeve is a pathologist assistant at the University Medical Center Utrecht (UMCU), actively involved in integrating artificial intelligence (AI) into pathology to enhance diagnostic accuracy and efficiency. She focuses on implementing AI-assisted workflows in prostate and breast cancer diagnostics. She will lead a session, focusing on the insights of implmenting AI in the pathology department.</p>
+    <p>Natalie ter Hoeve is a pathologist assistant at the University Medical Center Utrecht (UMCU), actively involved in integrating artificial intelligence (AI) into pathology to enhance diagnostic accuracy and efficiency. She focuses on implementing AI-assisted workflows in prostate and breast cancer diagnostics. She will lead a session focusing on the insights of implementing AI in the pathology department.</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
   <div class="speaker-info">
     <h2>Dr. Steven Schalekamp <a href="https://www.linkedin.com/in/steven-schalekamp-22306ab2/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Steven Schalekamp is a radiologist at Radboudumc specializing in chest imaging, with an active role in evaluating and implementing AI tools in clinical radiology. As both a clinician and researcher, he is closely involved in assessing the value, risks, and workflow impact of commercial AI solutions. In his session, he will discuss what drives the decision to adopt (or not adopt) an AI tool, including clinical relevance, integration challenges, and end-user experience. His perspective highlights the reality of embedding AI into practice: from evidence to workflow fit and long-term usability.</p>
+    <p>Steven Schalekamp is a radiologist at Radboudumc specializing in chest imaging, with an active role in evaluating and implementing AI tools in clinical radiology. As both a clinician and researcher, he is closely involved in assessing the value, risks, and workflow impact of commercial AI solutions. In his session, he will discuss what drives the decision to adopt (or not adopt) an AI tool, focusing on clinical needs, workflow fit, and long-term usability. His perspective highlights the reality of embedding AI into practice: from evidence to workflow fit and long-term usability.</p>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
   <div class="speaker-info">
     <h2>Daniel Drieling <a href="https://www.linkedin.com/in/daniel-drieling-94ba5382/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Daniel Drieling is a Senior Product Manager at MeVis Medical Solutions. With a background in computer science and a strong understanding of hospital IT environments, Daniel has led the design and deployment of AI-powered imaging tools for lung cancer screening and beyond. He brings a valuable vendor perspective on how clinical needs and technical possibilities must align: From interface design and workflow integration to regulatory constraints and user feedback loops. During his session with Steven, he will reflect on lessons learned from long-term collaborations with hospitals and how vendor–clinic partnerships can lead to meaningful, sustainable AI implementation.
+    <p>Daniel Drieling is a Senior Product Manager at MeVis Medical Solutions. With a background in computer science and a strong understanding of hospital IT environments, Daniel has led the design and deployment of AI-powered imaging tools for lung cancer screening and beyond. He brings a valuable vendor perspective on how clinical needs and technical possibilities must align: from interface design and workflow integration to regulatory constraints and user feedback loops. During his session with Steven, he will reflect on lessons learned from long-term collaborations with hospitals and how vendor–clinic partnerships can lead to meaningful, sustainable AI implementation.
 </p>
   </div>
 </div>
@@ -118,7 +118,7 @@ title: Speakers
   <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" alt="Martijn Bauer">
   <div class="speaker-info">
     <h2>Dr. Martijn Bauer <a href="https://www.linkedin.com/in/martijn-bauer-79909b6/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Martijn Bauer is an internist at Leiden University Medical Center (LUMC) and Chief Medical Information Officer at Autoscriber. He was instrumental in initiating the development of Autoscriber within LUMC’s internal medicine department, where he recognized the potential of AI to support clinical documentation and reduce administrative burden. Drawing from both his clinical and innovation roles, Martijn brings a unique perspective on what it takes to co-develop AI tools that actually work for clinicians. During the session with Marja, he will give a demo and share lessons from real-world implementation, including how to manage expectations, ensure clinician trust, and embed large language models into daily EHR use.</p>
+    <p>Martijn Bauer is an internist at Leiden University Medical Center (LUMC) and Chief Medical Information Officer at Autoscriber. He was instrumental in initiating the development of Autoscriber within LUMC’s internal medicine department, where he recognized the potential of AI to support clinical documentation and reduce administrative burden. Drawing from both his clinical and innovation roles, Martijn brings a unique perspective on what it takes to co-develop AI tools that actually work for clinicians. During the session with Marja, he will give a demo and share lessons from real-world implementation, how to manage expectations, earn clinician trust, and integrate LLMs into daily EHR use.</p>
   </div>
 </div>
 
