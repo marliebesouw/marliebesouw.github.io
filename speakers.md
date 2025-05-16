@@ -41,7 +41,7 @@ title: Speakers
 </div>
 
 <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">🔍 Insight Session Speakers</h2>
-<h3><i>Cardiology</i></h3>
+<h3><i><strong>Cardiology</strong></i></h3>
 <div class="speaker left" id="niels-van-royen">
   <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
   <div class="speaker-info">
@@ -58,7 +58,7 @@ title: Speakers
   </div>
 </div>
 
-<h3><i>Pathology</i></h3>
+<h3><i><strong>Pathology</strong></i></h3>
 <div class="speaker left" id="natalie-ter-hoeve">
   <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
   <div class="speaker-info">
@@ -67,7 +67,7 @@ title: Speakers
   </div>
 </div>
 
-<h3><i>Radiology</i></h3>
+<h3><i><strong>Radiology</strong></i></h3>
 <div class="speaker right" id="steven-schalekamp">
   <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
   <div class="speaker-info">
@@ -85,7 +85,7 @@ title: Speakers
   </div>
 </div>
 
-<h3><i>Radiotherapy</i></h3>
+<h3><i><strong>Radiotherapy</strong></i></h3>
 <div class="speaker right" id="hanneke-bluemink">
   <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
   <div class="speaker-info">
