@@ -26,7 +26,8 @@ title: AI for Healthcare
     <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
       Everyone talks about AI, but how do you choose the right one? And how do you actually use it in your clinic? <br>
 
-      On <strong>September 19</strong>, join clinicians, medical physicists, and AI experts to explore how AI is being used in hospitals today. Learn how to collaborate with vendors, evaluate tools, and apply AI responsibly. <br><br>
+      On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your change to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
+       <br><br>
 
       This congress offers:
       <ul>
@@ -47,7 +48,7 @@ title: AI for Healthcare
        <ul>
         <li>The opportunities and challenges of AI in healthcare </li>
         <li>Considerations for selecting an AI system </li>
-        <li>Bringing the large language model (LLM) to the clinic</li>.
+        <li>Bringing the large language model (LLM) to the clinic</li>
         <li>The future of AI in Healthcare </li>
        </ul>
        <li><strong>Workshops and interactive sessions:</strong></li>
@@ -55,7 +56,6 @@ title: AI for Healthcare
         <li>Hands-on workshop: Selecting an AI system</li>
         <li>Insight sessoins: AI in clinical practice</li>
        </ul>
-        </li>
       </ul>
 
     <h3> ICAI </h3>
