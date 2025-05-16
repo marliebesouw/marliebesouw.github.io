@@ -56,7 +56,7 @@ title: AI for Healthcare
         <li>Hands-on workshop: Selecting an AI system</li>
         <li>Insight sessions: AI in clinical practice</li>
        </ul>
-      </ul> <br> <br>
+      </ul> <br> 
 
     <h2><strong>ICAI</strong></h2>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
