@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to ICAI-Healthcare
+title: "AI for Healthcare: How to choose it, how to (really) use it?"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
