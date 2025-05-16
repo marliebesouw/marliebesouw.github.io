@@ -11,7 +11,7 @@ title: AI for Healthcare
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 6px;
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
     margin-top: 5px;
   ">
@@ -36,7 +36,7 @@ title: AI for Healthcare
        <li>Practical tools to select and implement AI solutions</li>
       </ul>
 
-    Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward.
+    Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br>
 
 
    <h3> About the Congress</h3>
@@ -56,7 +56,7 @@ title: AI for Healthcare
         <li>Hands-on workshop: Selecting an AI system</li>
         <li>Insight sessions: AI in clinical practice</li>
        </ul>
-      </ul>
+      </ul> <br>
 
     <h3> ICAI </h3>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
