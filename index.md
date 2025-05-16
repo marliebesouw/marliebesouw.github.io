@@ -39,7 +39,7 @@ title: AI for Healthcare
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
 
 
-   <h2> About the Congress</h2>
+   <h2><strong>About the Congress</strong></h2>
     This congress is designed to provide clinicians, medical physicists and technicians with practical insights into real-world applications of AI, focusing on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br> <br>
 
    The <a href="{{ site.url }}/program">program</a> consists of:
@@ -58,7 +58,7 @@ title: AI for Healthcare
        </ul>
       </ul> <br> <br>
 
-    <h2> ICAI </h2>
+    <h2><strong>ICAI</strong></h2>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
     ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. It bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
    </p>
