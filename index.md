@@ -4,7 +4,7 @@ title: AI for Healthcare
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <h1 style="margin: 0;">AI for Healthcare</h1>
+  <h1 style="margin: 0;"><strong>AI for Healthcare</strong></h1>
   <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank" style="
     background-color:rgb(255, 130, 3);
     color: rgb(27, 36, 48);
@@ -22,33 +22,26 @@ title: AI for Healthcare
 <h2 style= "margin: 0;"><i>How to choose it, how to (really) use it?</i></h2>
 
 <div class="content">
-    <p>
-   <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
-    Everyone talks about AI — but how do you choose the right one? And how do you actually use it in your clinic? <br>
+  <p>
+    <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
+      Everyone talks about AI — but how do you choose the right one? And how do you actually use it in your clinic? <br>
 
-    On September 19, join clinicians, medical physicists, and AI experts to explore how AI is being used in hospitals today. Learn how to collaborate with vendors, evaluate tools, and apply AI responsibly.
+      On <strong>September 19</strong>, join clinicians, medical physicists, and AI experts to explore how AI is being used in hospitals today. Learn how to collaborate with vendors, evaluate tools, and apply AI responsibly. <br><br>
 
-    This one-day congress offers:
-
-    This one-day congress offers:
-    <ul>
-      <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
-      <li>Hands-on workshops with leading experts</li>
-      <li>Practical tools to select and implement AI solutions</li>
-    </ul>
+      This congress offers:
+      <ul>
+       <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
+       <li>Hands-on workshops with leading experts</li>
+       <li>Practical tools to select and implement AI solutions</li>
+      </ul>
 
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward.
 
-    <!-- Artificial intelligence is rapidly advancing, but successful adoption in healthcare settings remains complex. This course is designed to bridge that gap: connecting ideas with implementation. <br>
 
-    A key challenge in healthcare is not just deciding whether to buy or build an AI solution, but also how to select and <strong>successfully implement</strong> it. This course provides <strong>practical insights, real-world case studies, and hands-on experience</strong> to help professionals navigate the entire AI adoption process. By bringing together <strong>healthcare experts, AI vendors, and researchers</strong>, we aim to equip participants with the knowledge and tools needed to make informed choices and ensure successful integration of AI in clinical practice.<br><br>
-    </p> -->
-</div> 
-
-
-
-## About the Course
-This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
+    <h3> About the Course</h3>
+    This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
+   </p>
+</div> <br>
 
 <!-- ## Course Objectives
 - Understand the buy vs. build principle in AI for healthcare  
