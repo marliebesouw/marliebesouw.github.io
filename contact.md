@@ -24,7 +24,21 @@ Marlie Besouw <br>
 
 
 
-# Contact 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <h1 style="margin: 0;">Contact</h1>
+  <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank" style="
+    background-color:rgb(255, 130, 3);
+    color: rgb(27, 36, 48);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 5px;
+  ">
+    Register now
+  </a>
+</div>
 
 <div class="content">
     <div id="formContainer">
