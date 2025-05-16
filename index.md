@@ -26,13 +26,13 @@ title: AI for Healthcare
     <strong> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</strong><br><br>
       Everyone talks about AI, but how do you choose the right one? And how do you actually use it in your clinic? <br>
 
-      On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your change to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
+      On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your chance to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
        <br><br>
 
       This congress offers:
       <ul>
        <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
-       <li>Hands-on workshops with <a href="{{ site.url }}/speakers" > <i>leading experts</i></a></li>
+       <li>Hands-on workshops with <a href="{{ site.url }}/speakers"><i>leading experts</i></a></li>
        <li>Practical tools to select and implement AI solutions</li>
       </ul>
 
@@ -40,7 +40,7 @@ title: AI for Healthcare
 
 
    <h3> About the Congress</h3>
-    This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br>
+    This congress is designed to provide clinicians, medical physicists and technicians with practical insights into real-world applications of AI, focusing on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br>
 
    The<a href="{{ site.url }}/program" > <i>program</i></a> consists of:
       <ul>
@@ -54,13 +54,13 @@ title: AI for Healthcare
        <li><strong>Workshops and interactive sessions:</strong></li>
        <ul>
         <li>Hands-on workshop: Selecting an AI system</li>
-        <li>Insight sessoins: AI in clinical practice</li>
+        <li>Insight sessions: AI in clinical practice</li>
        </ul>
       </ul>
 
     <h3> ICAI </h3>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
-    ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
+    ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. It bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
    </p>
 </div> <br>
 
