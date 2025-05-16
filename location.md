@@ -18,7 +18,7 @@ title: Location
   ">
     Register now
   </a>
-</div>
+</div><br>
 
 <div class="content a">
     <a href="https://www.radboudumc.nl/over-het-radboudumc/experience-center" target="_blank">
