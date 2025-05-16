@@ -43,14 +43,14 @@ title: AI for Healthcare
 
    The<a href="{{ site.url }}/program" > <i>program</i></a> consists of:
       <ul>
-       <li><strong>Plenary sessions on:<strong></li>
+       <li><strong>Plenary sessions on:</strong></li>
        <ul>
         <li>The opportunities and challenges of AI in healthcare </li>
         <li>Considerations for selecting an AI system </li>
         <li>Bringing the large language model (LLM) to the clinic</li>.
         <li>The future of AI in Healthcare </li>
        </ul>
-       <li><strong>Workshops and interactive sessions:<strong></li>
+       <li><strong>Workshops and interactive sessions:</strong></li>
        <ul>
         <li>Hands-on workshop: Selecting an AI system</li>
         <li>Insight sessoins: AI in clinical practice</li>
