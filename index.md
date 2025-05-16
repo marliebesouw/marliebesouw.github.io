@@ -19,7 +19,8 @@ title: AI for Healthcare
   </a> 
 </div>
 
-<h2 style= "margin: 0;"><i>How to choose it, how to (really) use it?</i></h2>
+<!-- <h2 style= "margin: 0;"></h2> -->
+<h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><i>How to choose it, how to (really) use it?</i></h2>
 
 <div class="content">
   <p>
@@ -38,8 +39,8 @@ title: AI for Healthcare
 
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
 
-
-   <h2><strong>About the Congress</strong></h2>
+  <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>About the Congress</strong></h2>
+   <!-- <h2><strong>About the Congress</strong></h2> -->
     This congress is designed to provide clinicians, medical physicists and technicians with practical insights into real-world applications of AI, focusing on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br> <br>
 
    The <a href="{{ site.url }}/program">program</a> consists of:
