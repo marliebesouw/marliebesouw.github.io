@@ -39,7 +39,25 @@ title: AI for Healthcare
 
 
    <h3> About the Course</h3>
-    This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows.
+    This congress is designed to provide clinicians, medical physicists and technicians with real-world applications of AI practical insights on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br>
+
+   The<a href="{{ site.url }}/program" > <i>program</i></a> consists of:
+      <ul>
+       <li><strong>Plenary sessions on:<strong></li>
+       <ul>
+        <li>The opportunities and challenges of AI in healthcare </li>
+        <li>Considerations for selecting an AI system </li>
+        <li>Bringing the large language model (LLM) to the clinic</li>.
+        <li>The future of AI in Healthcare </li>
+       </ul>
+       <li><strong>Workshops and interactive sessions:<strong></li>
+       <ul>
+        <li>Hands-on workshop: Selecting an AI system</li>
+        <li>Insight sessoins: AI in clinical practice</li>
+       </ul>
+        </li>
+      </ul>
+
     <h3> ICAI </h3>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (Innovation Center for Artificial Intelligence), as part of the ROBUST inititative for trustworthy AI. 
     ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. ICAI bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
