@@ -66,14 +66,14 @@ title: Speakers
     </div>
 </div>
 
-<div class="speaker right" id = "Joeri Huigen">
-    <img src="{{ site.url }}/assets/img/Joeri_Huigen.jpg" alt="Joeri Huigen">
+<div class="speaker right" id = "Alexander Vanpeteghem">
+    <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander_Vanpeteghem">
     <div class="speaker-info">
-        <h2>Joeri Huigen
-        <a href="https://www.linkedin.com/in/joeri-h-09764287/" target="_blank" style="margin-left:3mm;">
+        <h2>Alexander Vanpeteghem
+        <a href="https://www.linkedin.com/in/alexander-vanpeteghem-38a725167/" target="_blank" style="margin-left:3mm;">
             <i class="fa-brands fa-linkedin"></i>
         </a></h2>
-        <p> ​Joeri Huigen serves as a Territory Manager in the Vascular division at Abbott, a global healthcare company. Based in Zwolle, Netherlands, he has been with Abbott since 2022, bringing over 3 years of experience in this role. His expertise lies in sales and management within the vascular and endovascular medical devices sector. </p>
+        <p>  </p>
     </div>
 </div>
 
