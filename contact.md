@@ -38,7 +38,7 @@ Marlie Besouw <br>
   ">
     Register now
   </a>
-</div>
+</div><br>
 
 <div class="content">
     <div id="formContainer">

@@ -17,7 +17,7 @@ title: Speakers
   ">
     Register now
   </a>
-</div>
+</div><br>
 
 
 <div class="speaker left" id="colin-jacobs">
