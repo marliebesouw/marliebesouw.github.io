@@ -27,7 +27,7 @@ title: Speakers
     <p> Colin Jacobs is Associate Professor in Artificial Intelligence in Thoracic Oncology at Radboudumc.
       He is internationally recognized for his work on AI in lung cancer screening and detection. His research
       focuses on clinically validating AI for chest imaging and ensuring its safe implementation. Colin will deliver
-      a plenary session on the real-world impact of AI in screening programs and the challenges of clinical deployment.</p>
+      a plenary session on the opportunities and challenges of AI in healthcare.</p>
   </div>
 </div>
 
