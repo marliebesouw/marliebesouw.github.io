@@ -60,7 +60,7 @@ title: AI for Healthcare
       </ul> <br> 
 
   <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>ICAI</strong></h2>
-   This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST project for trustworthy AI. 
+   This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST project for trustworthy AI. <a href="https://www.nwo.nl/onderzoeksprogrammas/kennis-en-innovatieconvenant-kic/langetermijnprogrammas-kic-2020-2023/robust-trustworthy-ai-based-systems-for-sustainable-growth" target="_blank">ROBUST is funded by the NWO. </a><br>
     ICAI is a national initiative focused on AI talent development and research collaboration in the Netherlands. It bridges the gap between academia, industry, and healthcare by <strong>fostering partnerships that drive cutting-edge AI innovations</strong>. Through its network of AI labs, ICAI enables research that directly impacts real-world applications, including healthcare, business, and societal challenges. 
    </p>
 </div> <br>
