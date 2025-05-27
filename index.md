@@ -30,12 +30,12 @@ title: AI for Healthcare
       On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your chance to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
        <br><br>
 
-      What you'll take away from this congres:
-      <ul>
-       <li><i class="fas fa-check-circle check-icon"></i><strong>Enhanced decision-making skills</strong> for selecting appropriate AI tools tailored to your clinical setting</li>
-       <li><i class="fas fa-check-circle check-icon"></i><strong>Strategies for effective collaboration</strong> with vendors and stakeholders during AI implementation</li>
-       <li><i class="fas fa-check-circle check-icon"></i><strong>Insights into integrating AI</strong> into existing clinical workflows to improve efficiency and patient outcomes</li>
-       <li><i class="fas fa-check-circle check-icon"></i><strong>Understanding of ethical considerations</strong> and best practices for responsible AI use in healthcare</li>
+      <p>What you'll take away from this congress:</p>
+      <ul style="list-style: none; padding-left: 0;">
+        <li><i class="fas fa-check-circle check-icon"></i><strong>Enhanced decision-making skills</strong> for selecting appropriate AI tools tailored to your clinical setting</li>
+        <li><i class="fas fa-check-circle check-icon"></i><strong>Strategies for effective collaboration</strong> with vendors and stakeholders during AI implementation</li>
+        <li><i class="fas fa-check-circle check-icon"></i><strong>Insights into integrating AI</strong> into existing clinical workflows to improve efficiency and patient outcomes</li>
+        <li><i class="fas fa-check-circle check-icon"></i><strong>Understanding of ethical considerations</strong> and best practices for responsible AI use in healthcare</li>
       </ul>
 
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
