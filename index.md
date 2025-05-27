@@ -84,7 +84,7 @@ title: AI for Healthcare
         <li>Insight sessions: AI in clinical practice</li>
        </ul>
       </ul> <br>  -->
-
+<!-- 
     <div style="background: #F9F9F9; padding: 20px 25px; border-left: 5px solid #FF7900; margin-top: 2rem; margin-bottom: 2rem;">
       <h3 style="margin-top: 0;">The <a href="{{ site.url }}/program">program</a> consists of:</h3>
       <ul style="list-style: none; padding-left: 0; margin-bottom: 1rem;">
@@ -105,8 +105,29 @@ title: AI for Healthcare
           </ul>
         </li>
       </ul>
-    </div>
+    </div> -->
 
+    <div style="background: #F9F9F9; padding: 20px 25px; border-left: 5px solid #FF7900; margin-top: 2rem; margin-bottom: 2rem;">
+      <h3 style="margin-top: 0;">The <a href="{{ site.url }}/program">program</a> consists of:</h3>
+      <ul style="list-style: none; padding-left: 0; margin-bottom: 1rem;">
+        <li style="margin-bottom: 20px;">
+          <strong>Plenary sessions on:</strong>
+          <ul style="list-style-type: disc; padding-left: 1.2rem; margin-top: 10px; font-size: 1rem;">
+            <li style="margin-bottom: 6px;">The opportunities and challenges of AI in healthcare</li>
+            <li style="margin-bottom: 6px;">Considerations for selecting an AI system</li>
+            <li style="margin-bottom: 6px;">Bringing the large language model (LLM) to the clinic</li>
+            <li style="margin-bottom: 6px;">The future of AI in healthcare</li>
+          </ul>
+        </li>
+        <li style="margin-bottom: 0;">
+          <strong>Workshops and interactive sessions:</strong>
+          <ul style="list-style-type: disc; padding-left: 1.2rem; margin-top: 10px; font-size: 1rem;">
+            <li style="margin-bottom: 6px;">Hands-on workshop: Selecting an AI system</li>
+            <li style="margin-bottom: 6px;">Insight sessions: AI in clinical practice</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
 
   <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>ICAI</strong></h2>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST project for trustworthy AI. <a href="https://www.nwo.nl/onderzoeksprogrammas/kennis-en-innovatieconvenant-kic/langetermijnprogrammas-kic-2020-2023/robust-trustworthy-ai-based-systems-for-sustainable-growth" target="_blank">ROBUST is funded by the NWO. </a><br>
