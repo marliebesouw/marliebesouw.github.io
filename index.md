@@ -30,11 +30,12 @@ title: AI for Healthcare
       On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your chance to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
        <br><br>
 
-      This congress offers:
+      What you'll take away from this congres:
       <ul>
-       <li>Real-world use cases from radiology, radiotherapy, cardiology, and pathology</li>
-       <li>Hands-on workshops with <a href="{{ site.url }}/speakers">leading experts</a></li>
-       <li>Practical tools to select and implement AI solutions</li>
+       <li><strong>Enhanced decision-making skills</strong> for selecting appropriate AI tools tailored to your clinical setting</li>
+       <li><strong>Strategies for effective collaboration</strong> with vendors and stakeholders during AI implementation</li>
+       <li><strong>Insights into integrating AI</strong> into existing clinical workflows to improve efficiency and patient outcomes</li>
+       <li><strong>Understanding of ethical considerations</strong> and best practices for responsible AI use in healthcare</li>
       </ul>
 
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
