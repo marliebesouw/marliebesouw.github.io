@@ -22,7 +22,9 @@ title: Program
 
 <div class="content">
 Below you can find the time schedule of the congress day on September 19. <br>
-More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>.
+More information regarding the speakers can be found <a href= "{{ site.url }}/speakers">here</a>. <br> <br>
+If you do not have a preference for a specific field (cardiology, pathology, radiology, or radiotherapy), you can indicate this during registration and we will assign you to one of the insight sessions. These sessions are not only focused on the specific AI tools presented, but also cover broader topics such as workflow integration, user experience, and common implementation challenges across specialties.
+
 </div>
 <h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
 
