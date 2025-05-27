@@ -32,10 +32,10 @@ title: AI for Healthcare
 
       What you'll take away from this congres:
       <ul>
-       <li><strong>Enhanced decision-making skills</strong> for selecting appropriate AI tools tailored to your clinical setting</li>
-       <li><strong>Strategies for effective collaboration</strong> with vendors and stakeholders during AI implementation</li>
-       <li><strong>Insights into integrating AI</strong> into existing clinical workflows to improve efficiency and patient outcomes</li>
-       <li><strong>Understanding of ethical considerations</strong> and best practices for responsible AI use in healthcare</li>
+       <li><i class="fas fa-check-circle check-icon"></i><strong>Enhanced decision-making skills</strong> for selecting appropriate AI tools tailored to your clinical setting</li>
+       <li><i class="fas fa-check-circle check-icon"></i><strong>Strategies for effective collaboration</strong> with vendors and stakeholders during AI implementation</li>
+       <li><i class="fas fa-check-circle check-icon"></i><strong>Insights into integrating AI</strong> into existing clinical workflows to improve efficiency and patient outcomes</li>
+       <li><i class="fas fa-check-circle check-icon"></i><strong>Understanding of ethical considerations</strong> and best practices for responsible AI use in healthcare</li>
       </ul>
 
     Whether you're exploring AI for the first time or navigating implementation, this day gives you the clarity and confidence to move forward. <br><br>
