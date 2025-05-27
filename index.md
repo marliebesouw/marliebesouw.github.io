@@ -85,7 +85,7 @@ title: AI for Healthcare
        </ul>
       </ul> <br>  -->
 
-    <div style="background: #F9F9F9; padding: 20px 25px; border-left: 5px solid #1B2430; margin-top: 2rem; margin-bottom: 2rem;">
+    <div style="background: #F9F9F9; padding: 20px 25px; border-left: 5px solid #FF7900; margin-top: 2rem; margin-bottom: 2rem;">
       <h3 style="margin-top: 0;">The <a href="{{ site.url }}/program">program</a> consists of:</h3>
       <ul style="list-style: none; padding-left: 0; margin-bottom: 1rem;">
         <li style="margin-bottom: 10px;">
