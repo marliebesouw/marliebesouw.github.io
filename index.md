@@ -68,7 +68,7 @@ title: AI for Healthcare
   <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>About the Congress</strong></h2>
    <!-- <h2><strong>About the Congress</strong></h2> -->
     This congress is designed to provide clinicians, medical physicists and technicians with practical insights into real-world applications of AI, focusing on <strong>the critical decision of buying, building, selecting, and implementing AI solutions for healthcare</strong>. Through a combination of expert talks, hands-on workshops, and real-world case studies, participants will gain a deeper understanding of the opportunities, challenges, and key considerations when integrating AI into clinical workflows. <br> <br> <br>
-
+<!-- 
    The <a href="{{ site.url }}/program">program</a> consists of:
       <ul>
        <li><strong>Plenary sessions on:</strong></li>
@@ -83,7 +83,30 @@ title: AI for Healthcare
         <li>Hands-on workshop: Selecting an AI system</li>
         <li>Insight sessions: AI in clinical practice</li>
        </ul>
-      </ul> <br> 
+      </ul> <br>  -->
+
+    <div style="background: #F9F9F9; padding: 20px 25px; border-left: 5px solid #1B2430; margin-top: 2rem; margin-bottom: 2rem;">
+      <h3 style="margin-top: 0;">The <a href="{{ site.url }}/program">program</a> consists of:</h3>
+      <ul style="list-style: none; padding-left: 0; margin-bottom: 1rem;">
+        <li style="margin-bottom: 10px;">
+          <strong>Plenary sessions on:</strong>
+          <ul style="list-style-type: disc; padding-left: 20px;">
+            <li>The opportunities and challenges of AI in healthcare</li>
+            <li>Considerations for selecting an AI system</li>
+            <li>Bringing the large language model (LLM) to the clinic</li>
+            <li>The future of AI in healthcare</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Workshops and interactive sessions:</strong>
+          <ul style="list-style-type: disc; padding-left: 20px;">
+            <li>Hands-on workshop: Selecting an AI system</li>
+            <li>Insight sessions: AI in clinical practice</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
 
   <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"><strong>ICAI</strong></h2>
    This day is organized by <a href="https://www.icai.ai/" target="_blank">ICAI</a> (the Innovation Center for Artificial Intelligence), as part of the ROBUST project for trustworthy AI. <a href="https://www.nwo.nl/onderzoeksprogrammas/kennis-en-innovatieconvenant-kic/langetermijnprogrammas-kic-2020-2023/robust-trustworthy-ai-based-systems-for-sustainable-growth" target="_blank">ROBUST is funded by the NWO. </a><br>
