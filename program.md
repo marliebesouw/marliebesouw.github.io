@@ -219,7 +219,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     <div class="program-time">15.30–16.00</div>
     <div class="program-text">
       <strong>Plenary session 3:</strong><br>
-      <strong><em>Bringing the large language model (LLM) to the clinic</em></strong><br>
+      <strong><em>Bringing the large language model (LLM) into clinical practice</em></strong><br>
       Speakers:<br>
       <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> & 
       <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
