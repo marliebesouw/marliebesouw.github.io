@@ -24,7 +24,9 @@ title: AI for Healthcare
 
 <div class="content">
   <p>
-    <strong><span style="color: #FF8203;"> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</span></strong><br><br>
+    <strong><span style="color: #FF8203;"> ***Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.***</span></strong><br>
+    The course is designed to meet the criteria for accredited continuing professional education (DOO).
+    <br><br>
       Everyone talks about AI, but how do you choose the right one? And how do you actually use it in your clinic? <br>
 
       On <strong>September 19</strong>, clinicians, medical physicists, and AI experts will share how AI is currently being used in hospitals. This is your chance to learn how to evaluate AI tools, collaborate with vendors, and implement AI responsibly in clinical practice.
