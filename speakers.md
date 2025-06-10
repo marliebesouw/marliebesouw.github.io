@@ -76,7 +76,7 @@ title: Speakers
 
 
 <h2><i><strong>Radiology</strong></i></h2>
-<div class="speaker right" id="steven-schalekamp">
+<div class="speaker left" id="steven-schalekamp">
   <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
   <div class="speaker-info">
     <h2>Dr. Steven Schalekamp <a href="https://www.linkedin.com/in/steven-schalekamp-22306ab2/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -84,7 +84,7 @@ title: Speakers
   </div>
 </div>
 
-<div class="speaker left" id="daniel-drieling">
+<div class="speaker right" id="daniel-drieling">
   <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
   <div class="speaker-info">
     <h2>Daniel Drieling <a href="https://www.linkedin.com/in/daniel-drieling-94ba5382/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -94,7 +94,7 @@ title: Speakers
 </div>
 
 <h2><i><strong>Radiotherapy</strong></i></h2>
-<div class="speaker right" id="hanneke-bluemink">
+<div class="speaker left" id="hanneke-bluemink">
   <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
   <div class="speaker-info">
     <h2>Dr. Ir. Hanneke Bluemink <a href="https://www.linkedin.com/in/hanneke-bluemink-2055256/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -102,7 +102,7 @@ title: Speakers
   </div>
 </div>
 
-<div class="speaker left" id="dennie-fransen">
+<div class="speaker right" id="dennie-fransen">
   <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
   <div class="speaker-info">
     <h2>Dennie Fransen <a href="https://www.linkedin.com/in/DennieFransen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -112,7 +112,7 @@ title: Speakers
 </div>
 
 <h2 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;">💬 LLMs & The Future of AI in Healthcare</h2>
-<div class="speaker right" id="marja-de-waal">
+<div class="speaker left" id="marja-de-waal">
   <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" alt="Marja de Waal">
   <div class="speaker-info">
     <h2>Marja de Waal <a href="https://www.linkedin.com/in/marja-de-waal-42b61337/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -122,7 +122,7 @@ title: Speakers
   </div> 
 </div>
 
-<div class="speaker left" id="martijn-bauer">
+<div class="speaker right" id="martijn-bauer">
   <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" alt="Martijn Bauer">
   <div class="speaker-info">
     <h2>Dr. Martijn Bauer <a href="https://www.linkedin.com/in/martijn-bauer-79909b6/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -130,7 +130,7 @@ title: Speakers
   </div>
 </div>
 
-<div class="speaker right" id="bram-van-ginneken">
+<div class="speaker left" id="bram-van-ginneken">
   <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" alt="Bram van Ginneken">
   <div class="speaker-info">
     <h2>Prof. Dr. Bram van Ginneken <a href="https://www.linkedin.com/in/bramvanginneken/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
@@ -139,7 +139,7 @@ title: Speakers
   </div>
 </div>
 
-<div class="speaker left" id="robert-breas">
+<div class="speaker right" id="robert-breas">
   <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" alt="Robert Breas">
   <div class="speaker-info">
     <h2>Robert Breas <a href="https://www.linkedin.com/in/robertbreas/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
