@@ -99,7 +99,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
-      <a href="{{ site.url }}/speakers#TBA" class="speaker-link">TBA</a><br>
+      <a href="{{ site.url }}/speakers#dirk-vossen" class="speaker-link">Dirk Vossen</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
       <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> &  <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
@@ -116,8 +116,8 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
         <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
       </a>
-      <a href="{{ site.url }}/speakers#gabriele-bani">
-        <img src="{{ site.url }}/assets/img/TBA.jpg" class="speaker-thumb" alt="TBA">
+      <a href="{{ site.url }}/speakers#dirk-vossen">
+        <img src="{{ site.url }}/assets/img/Dirk_Vossen.jpg" class="speaker-thumb" alt="Dirk Vossen">
       </a>
       <a href="{{ site.url }}/speakers#steven-schalekamp">
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
@@ -173,7 +173,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> & 
-      <a href="{{ site.url }}/speakers#TBA" class="speaker-link">TBA</a><br>
+      <a href="{{ site.url }}/speakers#dirk-vossen" class="speaker-link">Dirk Vossen</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
       <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> & <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
@@ -190,8 +190,8 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
         <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
       </a>
-      <a href="{{ site.url }}/speakers#gabriele-bani">
-        <img src="{{ site.url }}/assets/img/TBA.jpg" class="speaker-thumb" alt="TBA">
+      <a href="{{ site.url }}/speakers#dirk-vossen">
+        <img src="{{ site.url }}/assets/img/Dirk_Vossen.jpg" class="speaker-thumb" alt="Dirk Vossen">
       </a>
       <a href="{{ site.url }}/speakers#steven-schalekamp">
         <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">

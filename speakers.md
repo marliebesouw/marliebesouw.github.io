@@ -66,6 +66,15 @@ title: Speakers
   </div>
 </div>
 
+<div class="speaker right" id="dirk-vossen">
+  <img src="{{ site.url }}/assets/img/Dirk_Vossen.jpg" alt="Dirk Vossen">
+  <div class="speaker-info" id ="Dirk Vossen">
+    <h2>Dr. Dirk Vossen <a href="https://www.linkedin.com/in/dirkvossen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
+    <p>Dirk Vossen is the Chief Diagnostics Officer at Visiopharm, where he oversees clinical AI programs and product strategy in digital pathology. He holds a PhD in physics from Utrecht University/AMOLF and brings over a decade of experience from his co founding of Philips' Digital & Computational Pathology business. At Visiopharm, Dirk leads teams developing CE IVD certified AI solutions, such as Qualitopix, to enhance quality and consistency in tissue based diagnostics. </p>
+  </div>
+</div>
+
+
 <h2><i><strong>Radiology</strong></i></h2>
 <div class="speaker right" id="steven-schalekamp">
   <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
