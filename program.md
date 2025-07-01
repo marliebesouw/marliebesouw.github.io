@@ -38,7 +38,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
 
   <!-- Plenary 1 -->
   <div class="program-item">
-    <div class="program-time">9.45–10.25</div>
+    <div class="program-time">9.45–10.30</div>
     <div class="program-text">
       <strong>Plenary session 1:</strong><br>
       <strong><em>The opportunities and challenges of AI in healthcare</em></strong><br>
@@ -53,7 +53,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
 
   <!-- Plenary 2 -->
   <div class="program-item">
-    <div class="program-time">10.25-10.55</div>
+    <div class="program-time">10.30-11.00</div>
     <div class="program-text">
       <strong>Plenary session 2:</strong><br>
       <strong><em>Considerations for selecting an AI system</em></strong><br>
