@@ -66,11 +66,11 @@ title: Speakers
   </div>
 </div>
 
-<div class="speaker right" id="dirk-vossen">
-  <img src="{{ site.url }}/assets/img/Dirk_Vossen.jpg" alt="Dirk Vossen">
-  <div class="speaker-info" id ="Dirk Vossen">
-    <h2>Dr. Dirk Vossen <a href="https://www.linkedin.com/in/dirkvossen/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
-    <p>Dirk Vossen is the Chief Diagnostics Officer at Visiopharm, where he oversees clinical AI programs and product strategy in digital pathology. He holds a PhD in physics from Utrecht University/AMOLF and brings over a decade of experience from his co founding of Philips' Digital & Computational Pathology business. At Visiopharm, Dirk leads teams developing CE IVD certified AI solutions, such as Qualitopix, to enhance quality and consistency in tissue based diagnostics. </p>
+<div class="speaker right" id="mateusz-tylicki">
+  <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" alt="Mateusz Tylicki">
+  <div class="speaker-info" id ="Mateusz Tylicki">
+    <h2>Mateusz Tylicki <a href="https://www.linkedin.com/in/MateuszTylicki/" target="_blank" style="margin-left:3mm;"><i class="fa-brands fa-linkedin"></i></a></h2>
+    <p>Mateusz Tylicki is Global Product Manager at Visiopharm, leading AI-powered quality control and diagnostic solutions for digital pathology. He helped spearhead Qualitopix for IHC quality control and oversees several IVDR-cleared algorithms for biomarkers including PD-L1, HER2,  Ki-67 as well as lymph node detection. Previously, as Founding Product Manager at Kheiron Medical Technologies, he led the development of Mia and Mia-IQ, CE-markd AI for breast cancer screening, and developed patient-trial matching systems at Antidote. His expertise spans translating oncology AI research into products that enhance diagnostic precision across pathology and radiology workflows. </p>
   </div>
 </div>
 
