@@ -25,7 +25,7 @@ title: AI for Healthcare
 <div class="content">
   <p>
     <span style="color: #FF8203;"><strong> Accredited by the NVRO, NVVP, NVvR, NVKF and NVVC.<br><br>
-    The course is designed to meet the criteria for accredited continuing professional education (DOO).</span>
+    The course is designed to meet the criteria for accredited continuing professional education (DOO).</strong></span>
     <br><br>
       Everyone talks about AI, but how do you choose the right one? And how do you actually use it in your clinic? <br>
 
