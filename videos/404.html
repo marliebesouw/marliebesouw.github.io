@@ -22,5 +22,22 @@
 
   <body>
     <div id="root"></div>
+    <script>
+      (function () {
+        // If we arrive via root 404 redirect as /videos/#/watch/…,
+        // convert it to a real path so BrowserRouter can match it.
+        var h = window.location.hash || "";
+        if (h && h.startsWith("#/")) {
+          var target = h.slice(1);                 // "/watch/xyz"
+          var search = window.location.search || "";
+          var desired = "/videos" + target + search;
+          var current = window.location.pathname + window.location.search + window.location.hash;
+          if (current !== desired) {
+            history.replaceState(null, "", desired);
+          }
+        }
+      })();
+    </script>
+
   </body>
 </html>
