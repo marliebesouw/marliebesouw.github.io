@@ -84,3 +84,21 @@ permalink: /404.html
   <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="Not found">
 </div>
 /div>
+
+<script>
+(function () {
+  var p = window.location.pathname;   // bv. /videos/watch
+  if (!p) return;
+
+  // Alleen deep links onder /videos/ doorsturen
+  if (p === '/videos' || p === '/videos/') return;
+
+  if (p.startsWith('/videos/')) {
+    var rest   = p.slice('/videos'.length);   // bv. /watch
+    var search = window.location.search || '';
+    var hash   = window.location.hash   || '';
+    // Stuur door naar SPA hash route
+    window.location.replace('/videos/#' + rest + search + hash);
+  }
+})();
+</script>
