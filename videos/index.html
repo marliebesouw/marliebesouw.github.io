@@ -1,46 +1,3 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <title>AI for Healthcare | Videos</title>
-    <meta name="description" content="AI for Healthcare course video page" />
-    <meta name="author" content="ICAI Healthcare" />
-
-    <meta property="og:title" content="AI for Healthcare | Videos" />
-    <meta property="og:description" content="Videos from the AI for Healthcare academy" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://icai-healthcare.com/assets/opengraph-image.png" />
-
-    <link rel="icon" type="image/x-icon" href="/videos/favicon.ico" />
-    <script type="module" crossorigin src="/videos/assets/index-CH8SavzV.js"></script>
-    <link rel="stylesheet" crossorigin href="/videos/assets/index-BHlBHEZr.css">
-  </head>
-
-  <body>
-    <div id="root"></div>
-    <script>
-      (function () {
-        // If we arrive via root 404 redirect as /videos/#/watch/…,
-        // convert it to a real path so BrowserRouter can match it.
-        var h = window.location.hash || "";
-        if (h && h.startsWith("#/")) {
-          var target = h.slice(1);                 // "/watch/xyz"
-          var search = window.location.search || "";
-          var desired = "/videos" + target + search;
-          var current = window.location.pathname + window.location.search + window.location.hash;
-          if (current !== desired) {
-            history.replaceState(null, "", desired);
-          }
-        }
-      })();
-    </script>
-
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
-</html> --> 
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -49,17 +6,16 @@
     <title>AI for Healthcare | Videos</title>
     <meta name="description" content="AI for Healthcare course video page" />
     <meta name="author" content="ICAI Healthcare" />
-
-    <!-- Open Graph -->
     <meta property="og:title" content="AI for Healthcare | Videos" />
     <meta property="og:description" content="Videos from the AI for Healthcare academy" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://icai-healthcare.com/assets/opengraph-image.png" />
-
     <link rel="icon" type="image/x-icon" href="/videos/favicon.ico" />
+    <script type="module" crossorigin src="/videos/assets/index-CH8SavzV.js"></script>
+    <link rel="stylesheet" crossorigin href="/videos/assets/index-BHlBHEZr.css">
   </head>
   <body>
     <div id="root"></div>
-    <!-- DEV script only; Vite will replace this with hashed assets on build -->
+    <!-- DEV entry; Vite replaces this with hashed assets at build time -->
   </body>
 </html>
