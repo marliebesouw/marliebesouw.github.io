@@ -29,18 +29,8 @@ title: Program
     margin-top: 8px;
   }
 
-  /* Thumbnail grid inside the card */
-  .speakers-grid {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
-    margin-top: 10px;
-  }
-  @media (max-width: 900px) {
-    .speakers-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  }
-  .speakers-grid a { text-decoration: none; color: inherit; text-align: center; display: block; }
-  .speakers-grid img { width: 100%; height: auto; border-radius: 6px; }
+  /* Keep a bit of spacing above the thumbnail grid inside the card */
+  .speakers-card .speaker-thumb-grid { margin-top: 10px; }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -205,44 +195,41 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
   <h3><strong>Insight session speakers</strong></h3>
 
   <div class="speakers-list">
-    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Cardiology:</strong>
-    <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
+    <strong>Cardiology:</strong> <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
     <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Pathology:</strong>
-    <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
+    <strong>Pathology:</strong> <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
     <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiology:</strong>
-    <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
+    <strong>Radiology:</strong> <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
     <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiotherapy:</strong>
-    <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
+    <strong>Radiotherapy:</strong> <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
     <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
   </div>
 
-  <div class="speakers-grid">
+  <!-- Use the same thumbnail style as the rest of the page -->
+  <div class="speaker-thumb-grid">
     <a href="{{ site.url }}/speakers#niels-van-royen">
-      <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
+      <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
     </a>
     <a href="{{ site.url }}/speakers#alexander-vanpeteghem">
-      <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander Vanpeteghem">
+      <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
     </a>
     <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
-      <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
+      <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
     </a>
     <a href="{{ site.url }}/speakers#mateusz-tylicki">
-      <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" alt="Mateusz Tylicki">
+      <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
     </a>
     <a href="{{ site.url }}/speakers#steven-schalekamp">
-      <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
+      <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
     </a>
     <a href="{{ site.url }}/speakers#daniel-drieling">
-      <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
+      <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
     </a>
     <a href="{{ site.url }}/speakers#hanneke-bluemink">
-      <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
+      <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
     </a>
     <a href="{{ site.url }}/speakers#dennie-fransen">
-      <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
+      <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
     </a>
   </div>
 
