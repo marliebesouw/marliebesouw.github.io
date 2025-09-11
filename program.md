@@ -4,8 +4,16 @@ title: Program
 ---
 
 <style>
-  .program-sep { border-top: 2px solid #ccc; margin: 12px 0; }
-  .program-item:last-child { margin-bottom: 0; }
+  /* tighter separator before the speakers block */
+  .program-sep { border-top: 1px solid #ddd; margin: 8px 0 8px; }
+
+  /* collapse extra spacing inside the program list */
+  .program { margin-bottom: 0 !important; }
+  .program .program-item { margin-bottom: 12px; }
+  .program .program-item:last-child { margin-bottom: 0; }
+
+  /* thumbnails block spacing */
+  .speaker-thumb-grid { margin-top: 8px; margin-bottom: 0; }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -213,8 +221,6 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     </div>
   </div>
 </div>
-
-<h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
 
 <div class="content">
   *Participants are divided into smaller groups for the workshop and the insight sessions. <br>
