@@ -1,4 +1,4 @@
-<!doctype html>
+<!-- <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -18,4 +18,48 @@
   })();
 </script>
 </body>
+</html>
+ -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Continue to reset password</title>
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; margin:0; padding:24px; }
+      .card { max-width: 520px; margin: 12vh auto; padding: 24px; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; }
+      h1 { margin: 0 0 12px; }
+      p { margin: 8px 0; color: #374151; }
+      .btn { display:inline-block; padding:10px 16px; background:#FF7A00; color:#fff; border-radius:8px; text-decoration:none; font-weight:600; }
+      .muted { color:#6b7280; font-size:14px; margin-top:8px }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Continue to reset your password</h1>
+      <p>Click the button to proceed. If this page was opened by an email scanner, nothing will happen until you click.</p>
+      <p class="muted">If the button doesn’t work, copy the link and paste it into your browser.</p>
+      <p><a id="go" class="btn" href="#">Continue</a></p>
+    </div>
+
+    <script>
+      // base path (e.g. "/videos")
+      var base = location.pathname.replace(/\/reset-bridge\.html$/, "");
+      // Keep the Supabase params (?type=recovery&code=...) or legacy hash if present
+      var tail = location.search || location.hash || "";
+      // Final target for your HashRouter route
+      var target = base + "/#/reset-password" + tail;
+
+      var a = document.getElementById("go");
+      a.href = target;
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        // Use replace() to avoid keeping the bridge in history
+        location.replace(target);
+      });
+    </script>
+  </body>
 </html>
