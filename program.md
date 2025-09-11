@@ -4,7 +4,7 @@ title: Program
 ---
 
 <style>
-  .program-sep { border-top: 1px solid #eee; margin: 12px 0 16px; }
+  .program-sep { border-top: 2px solid #ccc; margin: 24px 0; }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -127,6 +127,14 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> and 
       <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
     </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#marja-de-waal">
+        <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" class="speaker-thumb" alt="Marja de Waal">
+      </a>
+      <a href="{{ site.url }}/speakers#martijn-bauer">
+        <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" class="speaker-thumb" alt="Martijn Bauer">
+      </a>
+    </div>
   </div>
 
   <!-- Plenary 4 -->
@@ -139,6 +147,14 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> and 
       <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
     </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#bram-van-ginneken">
+        <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" class="speaker-thumb" alt="Bram van Ginneken">
+      </a>
+      <a href="{{ site.url }}/speakers#robert-breas">
+        <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" class="speaker-thumb" alt="Robert Breas">
+      </a>
+    </div>
   </div>
 
   <!-- Networking drinks -->
@@ -147,8 +163,10 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     <div class="program-text"><strong>Networking drinks</strong></div>
   </div>
 
-  <!-- Single speakers block at the end -->
+  <!-- Clear separator before the single speakers block -->
   <div class="program-sep"></div>
+
+  <!-- Single speakers block at the end -->
   <div class="program-item">
     <div class="program-time"></div>
     <div class="program-text">
@@ -193,7 +211,6 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       </a>    
     </div>
   </div>
-
 </div>
 
 <h1 style="margin-top: 3rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem;"> </h1>
