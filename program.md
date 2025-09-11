@@ -160,58 +160,60 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
   </div>
 </div>
 
-<!-- Reference card: Insight session speakers -->
+<!-- Reference card: Insight session speakers (inline 4×2 grid floated right) -->
 <div style="
   background:#f9fafb; border:1px solid #e5e7eb; border-radius:10px;
   padding:16px; margin-top:16px;
 ">
   <h3 style="margin:0 0 12px 0;"><strong>Insight session speakers</strong></h3>
 
-  <!-- two-column layout: text left, 4×2 grid right -->
-  <div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap;">
-    <!-- left: text -->
-    <div style="flex:1 1 320px; min-width:280px; line-height:1.6;">
-      <strong>Cardiology:</strong> <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
-      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
-      <strong>Pathology:</strong> <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
-      <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
-      <strong>Radiology:</strong> <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
-      <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
-      <strong>Radiotherapy:</strong> <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
-      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
-    </div>
-
-    <!-- right: 4×2 grid of thumbnails -->
-    <div style="
-      flex:0 0 520px; max-width:520px; 
-      display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:12px;
-    ">
-      <a href="{{ site.url }}/speakers#niels-van-royen">
-        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
-      </a>
-      <a href="{{ site.url }}/speakers#alexander-vanpeteghem">
-        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
-      </a>
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
-        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-      </a>
-      <a href="{{ site.url }}/speakers#mateusz-tylicki">
-        <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
-      </a>
-      <a href="{{ site.url }}/speakers#steven-schalekamp">
-        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
-      </a>
-      <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
-      </a>
-      <a href="{{ site.url }}/speakers#hanneke-bluemink">
-        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
-      </a>
-      <a href="{{ site.url }}/speakers#dennie-fransen">
-        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
-      </a>
-    </div>
+  <!-- right side: grid floats right; text flows on the left -->
+  <div class="speaker-thumb-grid" style="
+    float:right;
+    display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:12px;
+    width:520px; max-width:100%;
+    margin-left:16px;
+  ">
+    <a href="{{ site.url }}/speakers#niels-van-royen">
+      <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
+    </a>
+    <a href="{{ site.url }}/speakers#alexander-vanpeteghem">
+      <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
+    </a>
+    <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
+      <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
+    </a>
+    <a href="{{ site.url }}/speakers#mateusz-tylicki">
+      <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
+    </a>
+    <a href="{{ site.url }}/speakers#steven-schalekamp">
+      <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
+    </a>
+    <a href="{{ site.url }}/speakers#daniel-drieling">
+      <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
+    </a>
+    <a href="{{ site.url }}/speakers#hanneke-bluemink">
+      <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
+    </a>
+    <a href="{{ site.url }}/speakers#dennie-fransen">
+      <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
+    </a>
   </div>
+
+  <!-- left side: text beside the grid -->
+  <div style="line-height:1.6;">
+    <strong>Cardiology:</strong> <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
+    <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
+    <strong>Pathology:</strong> <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
+    <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
+    <strong>Radiology:</strong> <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
+    <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
+    <strong>Radiotherapy:</strong> <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
+    <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
+  </div>
+
+  <!-- clearfix -->
+  <div style="clear:both;"></div>
 
   <div style="font-size:0.92rem; color:#555; margin-top:8px;">
     Speakers per domain, used in the insight sessions.
