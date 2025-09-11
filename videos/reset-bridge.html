@@ -1,25 +1,3 @@
-<!-- <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Redirecting…</title>
-  <meta name="robots" content="noindex" />
-</head>
-<body>
-<script>
-  // Supabase sends tokens in the hash: #access_token=...&refresh_token=...&type=recovery
-  // HashRouter already uses '#/'. A second hash would drop the route.
-  // Bridge: read the hash and convert to querystring behind '#/reset-password'.
-  (function () {
-    var h = window.location.hash || "";        // e.g. "#access_token=...&type=recovery"
-    var qs = h.replace(/^#/, "");              // "access_token=...&type=recovery"
-    var target = window.location.origin + "/videos/#/reset-password?" + qs;
-    window.location.replace(target);
-  })();
-</script>
-</body>
-</html>
- -->
 <!doctype html>
 <html lang="en">
   <head>
