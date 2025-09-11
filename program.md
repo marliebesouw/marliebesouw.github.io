@@ -3,6 +3,10 @@ layout: default
 title: Program
 ---
 
+<style>
+  .program-sep { border-top: 1px solid #eee; margin: 12px 0 16px; }
+</style>
+
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <h1 style="margin: 0;"><strong>Program Overview</strong></h1>
   <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank" style="
@@ -31,19 +35,19 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
 
   <!-- Registration -->
   <div class="program-item">
-    <div class="program-time">09:00 to 09:30</div>
+    <div class="program-time">09.00-09.30</div>
     <div class="program-text"><strong>Registration and welcome coffee or tea</strong></div>
   </div>
 
   <!-- Chair welcome -->
   <div class="program-item">
-    <div class="program-time">09:30 to 09:45</div>
+    <div class="program-time">09.30-09.45</div>
     <div class="program-text"><strong>Welcome by chairperson</strong></div>
   </div>
 
   <!-- Opening keynote -->
   <div class="program-item">
-    <div class="program-time">09:45 to 10:30</div>
+    <div class="program-time">09.45-10.30</div>
     <div class="program-text">
       <strong>Opening keynote:</strong><br>
       <strong><em>The opportunities and challenges of AI in healthcare</em></strong><br>
@@ -56,9 +60,9 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     </div>
   </div>
 
-  <!-- Plenary 2 -->
+  <!-- Plenary -->
   <div class="program-item">
-    <div class="program-time">10:30 to 11:00</div>
+    <div class="program-time">10.30-11.00</div>
     <div class="program-text">
       <strong>Plenary session:</strong><br>
       <strong><em>Considerations for selecting an AI system</em></strong><br>
@@ -71,78 +75,34 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     </div>
   </div>
 
-  <!-- Morning parallel: A groups workshop, B groups insight -->
+  <!-- Morning parallel -->
   <div class="program-item">
-    <div class="program-time">11:00 to 12:30</div>
+    <div class="program-time">11.00-12.30</div>
     <div class="program-text">
-      <strong>Groups A1 and A2:</strong> <em>Hands-on workshop: selecting an AI system</em>. Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br>
-      <strong>Groups B1 and B2, parallel:</strong> <em>Insight session: AI in clinical practice</em> (Cardiology, Pathology, Radiology, Radiotherapy)
+      <strong>Groups A1 + A2:</strong> <em>Hands-on workshop: selecting an AI system</em><br>
+      Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br><br>
+      <strong>Groups B1 + B2, parallel:</strong> <em>Insight session: AI in clinical practice</em> (Cardiology, Pathology, Radiology, Radiotherapy)
     </div>
     <div class="speaker-thumb-grid">
       <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
         <img src="{{ site.url }}/assets/img/Kicky_van_Leeuwen.jpg" class="speaker-thumb" alt="Kicky van Leeuwen">
       </a>
-    </div>
-  </div>
-
-  <!-- Morning insight speakers -->
-  <div class="program-item">
-    <div class="program-time"></div>
-    <div class="program-text">
-      <strong>Insight session speakers:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
-      <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
-      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
-      <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
-      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
-      <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
-      <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
-      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
-    </div>
-    <div class="speaker-thumb-grid">
-      <a href="{{ site.url }}/speakers#niels-van-royen">
-        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
-      </a>
-      <a href="{{ site.url }}/speakers#alexander_vanpeteghem">
-        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
-      </a>
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
-        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-      </a>
-      <a href="{{ site.url }}/speakers#mateusz-tylicki">
-        <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
-      </a>
-      <a href="{{ site.url }}/speakers#steven-schalekamp">
-        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
-      </a>
-      <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
-      </a>
-      <a href="{{ site.url }}/speakers#hanneke-bluemink">
-        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
-      </a>
-      <a href="{{ site.url }}/speakers#dennie-fransen">
-        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
-      </a>    
     </div>
   </div>
 
   <!-- Lunch -->
   <div class="program-item">
-    <div class="program-time">12:30 to 13:30</div>
+    <div class="program-time">12.30-13.30</div>
     <div class="program-text"><strong>Lunch and networking</strong></div>
   </div>
 
-  <!-- Afternoon parallel: A groups insight, B groups workshop -->
+  <!-- Afternoon parallel (B first) -->
   <div class="program-item">
-    <div class="program-time">13:30 to 15:00</div>
+    <div class="program-time">13.30-15.00</div>
     <div class="program-text">
-      <strong>Groups A1 and A2:</strong> <em>Insight session, parallel</em> (Cardiology, Pathology, Radiology, Radiotherapy)<br>
-      <strong>Groups B1 and B2:</strong> <em>Hands-on workshop: selecting an AI system</em>. Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a>
+      <strong>Groups B1 + B2:</strong> <em>Hands-on workshop: selecting an AI system</em><br>
+      Speaker: <a href="{{ site.url }}/speakers#kicky-van-leeuwen" class="speaker-link">Kicky van Leeuwen</a><br><br>
+      <strong>Groups A1 + A2, parallel:</strong> <em>Insight session: AI in clinical practice</em> (Cardiology, Pathology, Radiology, Radiotherapy)
     </div>
     <div class="speaker-thumb-grid">
       <a href="{{ site.url }}/speakers#kicky-van-leeuwen">
@@ -151,61 +111,15 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     </div>
   </div>
 
-  <!-- Afternoon insight speakers (repeat for clarity) -->
-  <div class="program-item">
-    <div class="program-time"></div>
-    <div class="program-text">
-      <strong>Insight session speakers:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Cardiology:
-      <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
-      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Pathology:
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
-      <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Radiology:
-      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
-      <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Radiotherapy:
-      <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
-      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
-    </div>
-    <div class="speaker-thumb-grid">
-      <a href="{{ site.url }}/speakers#niels-van-royen">
-        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
-      </a>
-      <a href="{{ site.url }}/speakers#alexander_vanpeteghem">
-        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
-      </a>
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
-        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-      </a>
-      <a href="{{ site.url }}/speakers#mateusz-tylicki">
-        <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
-      </a>
-      <a href="{{ site.url }}/speakers#steven-schalekamp">
-        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
-      </a>
-      <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
-      </a>
-      <a href="{{ site.url }}/speakers#hanneke-bluemink">
-        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
-      </a>
-      <a href="{{ site.url }}/speakers#dennie-fransen">
-        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
-      </a>    
-    </div>
-  </div>
-
   <!-- Coffee -->
   <div class="program-item">
-    <div class="program-time">15:00 to 15:30</div>
+    <div class="program-time">15.00-15.30</div>
     <div class="program-text"><strong>Coffee break</strong></div>
   </div>
 
   <!-- Plenary 3 -->
   <div class="program-item">
-    <div class="program-time">15:30 to 16:00</div>
+    <div class="program-time">15.30-16.00</div>
     <div class="program-text">
       <strong>Plenary session:</strong><br>
       <strong><em>Bringing the large language model into clinical practice</em></strong><br>
@@ -213,19 +127,11 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#marja-de-waal" class="speaker-link">Marja de Waal</a> and 
       <a href="{{ site.url }}/speakers#martijn-bauer" class="speaker-link">Martijn Bauer</a>
     </div>
-    <div class="speaker-thumb-grid">
-      <a href="{{ site.url }}/speakers#marja-de-waal">
-        <img src="{{ site.url }}/assets/img/Marja_de_Waal.jpg" class="speaker-thumb" alt="Marja de Waal">
-      </a>
-      <a href="{{ site.url }}/speakers#martijn-bauer">
-        <img src="{{ site.url }}/assets/img/Martijn_Bauer1.jpg" class="speaker-thumb" alt="Martijn Bauer">
-      </a>
-    </div>
   </div>
 
   <!-- Plenary 4 -->
   <div class="program-item">
-    <div class="program-time">16:00 to 17:00</div>
+    <div class="program-time">16.00-17.00</div>
     <div class="program-text">
       <strong>Plenary session:</strong><br>
       <strong><em>What is the future of AI in healthcare?</em></strong><br>
@@ -233,20 +139,59 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
       <a href="{{ site.url }}/speakers#bram-van-ginneken" class="speaker-link">Bram van Ginneken</a> and 
       <a href="{{ site.url }}/speakers#robert-breas" class="speaker-link">Robert Breas</a>
     </div>
-    <div class="speaker-thumb-grid">
-      <a href="{{ site.url }}/speakers#bram-van-ginneken">
-        <img src="{{ site.url }}/assets/img/Bram_van_Ginneken.jpg" class="speaker-thumb" alt="Bram van Ginneken">
-      </a>
-      <a href="{{ site.url }}/speakers#robert-breas">
-        <img src="{{ site.url }}/assets/img/Robert_Breas.jpg" class="speaker-thumb" alt="Robert Breas">
-      </a>
-    </div>
   </div>
 
   <!-- Networking drinks -->
   <div class="program-item">
-    <div class="program-time">17:00 to 18:00</div>
+    <div class="program-time">17.00-18.00</div>
     <div class="program-text"><strong>Networking drinks</strong></div>
+  </div>
+
+  <!-- Single speakers block at the end -->
+  <div class="program-sep"></div>
+  <div class="program-item">
+    <div class="program-time"></div>
+    <div class="program-text">
+      <strong>Insight session speakers</strong><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Cardiology:</strong>
+      <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
+      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Pathology:</strong>
+      <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
+      <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiology:</strong>
+      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
+      <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiotherapy:</strong>
+      <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
+      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
+    </div>
+    <div class="speaker-thumb-grid">
+      <a href="{{ site.url }}/speakers#niels-van-royen">
+        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
+      </a>
+      <a href="{{ site.url }}/speakers#alexander_vanpeteghem">
+        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
+      </a>
+      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
+        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
+      </a>
+      <a href="{{ site.url }}/speakers#mateusz-tylicki">
+        <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
+      </a>
+      <a href="{{ site.url }}/speakers#steven-schalekamp">
+        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
+      </a>
+      <a href="{{ site.url }}/speakers#daniel-drieling">
+        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
+      </a>
+      <a href="{{ site.url }}/speakers#hanneke-bluemink">
+        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
+      </a>
+      <a href="{{ site.url }}/speakers#dennie-fransen">
+        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
+      </a>    
+    </div>
   </div>
 
 </div>
