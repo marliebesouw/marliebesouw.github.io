@@ -4,7 +4,8 @@ title: Program
 ---
 
 <style>
-  .program-sep { border-top: 2px solid #ccc; margin: 24px 0; }
+  .program-sep { border-top: 2px solid #ccc; margin: 12px 0; }
+  .program-item:last-child { margin-bottom: 0; }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
