@@ -8,15 +8,23 @@
   <body>
     <p>Redirecting…</p>
     <script>
-      // Basis pad, bijvoorbeeld "/videos"
+      // Basis pad (bijv. "/videos")
       var base = location.pathname.replace(/\/reset-bridge\.html$/, "");
-      // Haal de query uit de Supabase redirect
+
+      // Supabase zet hier de PKCE params zoals ?type=recovery&code=...
       var q = location.search.replace(/^\?/, ""); // "type=recovery&code=..."
-      // Bouw doelroute voor HashRouter
+
+      // Debug: laat kort zien wat er binnenkomt
+      try { console.log("[bridge] search=", location.search, "hash=", location.hash); } catch {}
+
+      // 1) Doelroute voor je HashRouter
       var hashRoute = base + "/#/reset-password" + (q ? "?" + q : "");
-      // Dubbele verzekering: zet dezelfde query ook vóór de hash, zodat libs die alleen window.location.search lezen het ook vinden
+
+      // 2) Extra defensief: zet dezelfde query óók vóór de hash
+      //    Zo kunnen libs die alleen window.location.search lezen, de code ook vinden
       var finalUrl = base + (q ? "?" + q : "") + "/#/" + "reset-password" + (q ? "?" + q : "");
-      // Gebruik replace om geen extra history entry te maken
+
+      // Redirect (geen extra history entry)
       location.replace(finalUrl);
     </script>
   </body>
