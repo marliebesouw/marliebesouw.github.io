@@ -277,5 +277,5 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
   This choice determines which session you will be assigned to (a or b).
 
   <h2>Accreditation</h2>
-  Accreditation approval from NVVC, NVVP, NVvR, NVRO, and NVKF is currently in progress.
+  Accreditation is approved by NVVC, NVVP, NVvR, NVRO, and NVKF.
 </div>
