@@ -97,6 +97,17 @@ main {
     white-space: nowrap;
 }
 
+/* Align the external-link icon and ensure no theme pseudo-icon shows */
+.nav-link .icon-external {
+  font-size: 0.85em;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+/* If your theme injects a camera via ::before, remove it for this link */
+.nav-link-external::before {
+  content: none !important;
+}
 
 .navbar a {
     color: white;

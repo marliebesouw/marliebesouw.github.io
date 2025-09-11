@@ -31,13 +31,13 @@
         {%- endif -%}
       {%- endfor -%}
 
-      <!-- NEW: Videos link with aligned external link icon -->
+      <!-- Videos link, opens in new tab, external-link icon aligned to the right -->
       <li class="nav-item">
-        <a class="nav-link" href="https://icai-healthcare.nl/videos" target="_blank">
-          Videos <i class="fas fa-up-right-from-square" style="font-size: 0.85em; vertical-align: middle; margin-left: 4px;"></i>
+        <a class="nav-link nav-link-external" href="https://icai-healthcare.nl/videos" target="_blank" rel="noopener">
+          Videos <i class="fa-solid fa-arrow-up-right-from-square icon-external"></i>
         </a>
       </li>
- 
+
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
