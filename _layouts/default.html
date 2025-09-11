@@ -4,46 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <!-- Font Awesome 6 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
+    <style>
+      /* align the external-link icon nicely after “Videos” */
+      .navbar a .icon-external {
+        font-size: 0.85em;
+        vertical-align: middle;
+        margin-left: 6px;
+      }
+    </style>
 </head>
 <body>
-  
 
     <!-- HEADER with Image -->
- <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank">
-    <header class="hero">
-        <img src="{{ site.baseurl }}/assets/img/header.png" alt="ICAI Healthcare Banner">
-    </header>
- </a>
-
+    <a href="https://registratie.radboudumc.nl/166356/subscribe" target="_blank" rel="noopener">
+      <header class="hero">
+          <img src="{{ site.baseurl }}/assets/img/header.png" alt="ICAI Healthcare Banner">
+      </header>
+    </a>
 
     <!-- NAVIGATION BAR -->
     <nav class="navbar">
-        <button class="hamburger" onclick="toggleMenu()">☰</button> <!-- Three stripes -->
-        <ul id ="navMenu">
+        <button class="hamburger" onclick="toggleMenu()">☰</button>
+        <ul id="navMenu">
             <li><a href="{{ site.baseurl }}/">Home</a></li>
             <!-- <li><a href="{{ site.baseurl }}/information">Information</a></li> -->
-            
-            <!-- <li class="dropdown">
-                <a href="{{ site.baseurl }}/program" class="dropbtn">Program</a>
-                <ul class="dropdown-content">
-                  <li><a href="{{ site.baseurl }}/program">Program</a></li>
-                  <li><a href="{{ site.baseurl }}/speakers">Speakers</a></li>
-                </ul>
-              </li> -->
+
+            <!--
+            <li class="dropdown">
+              <a href="{{ site.baseurl }}/program" class="dropbtn">Program</a>
+              <ul class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/program">Program</a></li>
+                <li><a href="{{ site.baseurl }}/speakers">Speakers</a></li>
+              </ul>
+            </li>
+            -->
             <li><a href="{{ site.baseurl }}/program">Program</a></li>
-            <li><a href="{{ site.baseurl }}/speakers">Speakers</a></li> 
-            <!-- <li><a href="{{ site.baseurl }}/sign-up">Sign-up</a></li> -->
-            <!--<li><a href="{{ site.baseurl }}/videos">Videos</a></li>-->
-            <li><a href="{{ site.baseurl }}/location">Location</a></li>            
+            <li><a href="{{ site.baseurl }}/speakers">Speakers</a></li>
+            <li><a href="{{ site.baseurl }}/location">Location</a></li>
             <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-              <li>
-                <a href="https://icai-healthcare.nl/videos" target="_blank">
-                  <i class="fas fa-video"></i> Videos
-                </a>
-              </li>
+
+            <!-- NEW: Videos, opens in new tab with external-link icon -->
+            <li>
+              <a href="https://icai-healthcare.nl/videos" target="_blank" rel="noopener">
+                Videos <i class="fa-solid fa-arrow-up-right-from-square icon-external" aria-hidden="true"></i>
+              </a>
+            </li>
         </ul>
     </nav>
 
@@ -58,34 +69,27 @@
     </footer>
 
     <script>
-        function toggleMenu() {
-            var menu = document.getElementById("navMenu");
-            menu.classList.toggle("active");
-        }
+      function toggleMenu() {
+        var menu = document.getElementById("navMenu");
+        menu.classList.toggle("active");
+      }
     </script>
 
-<script>
-    document.querySelectorAll('.dropbtn').forEach(btn => {
-      btn.addEventListener('click', function (e) {
-        // Only run toggle on mobile
-        if (window.innerWidth <= 768) {
-          e.preventDefault();
-  
-          // Close all others
-          document.querySelectorAll('.dropdown').forEach(drop => {
-            if (drop !== this.parentElement) {
-              drop.classList.remove('open');
-            }
-          });
-  
-          // Toggle current one
-          this.parentElement.classList.toggle('open');
-        }
+    <script>
+      document.querySelectorAll('.dropbtn').forEach(btn => {
+        btn.addEventListener('click', function (e) {
+          if (window.innerWidth <= 768) {
+            e.preventDefault();
+            document.querySelectorAll('.dropdown').forEach(drop => {
+              if (drop !== this.parentElement) {
+                drop.classList.remove('open');
+              }
+            });
+            this.parentElement.classList.toggle('open');
+          }
+        });
       });
-    });
-  </script>
-  
-  
+    </script>
+
 </body>
 </html>
-
