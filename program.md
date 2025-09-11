@@ -4,16 +4,43 @@ title: Program
 ---
 
 <style>
-  /* tighter separator before the speakers block */
-  .program-sep { border-top: 1px solid #ddd; margin: 8px 0 8px; }
-
-  /* collapse extra spacing inside the program list */
+  /* Timeline spacing tweaks */
   .program { margin-bottom: 0 !important; }
   .program .program-item { margin-bottom: 12px; }
   .program .program-item:last-child { margin-bottom: 0; }
 
-  /* thumbnails block spacing */
-  .speaker-thumb-grid { margin-top: 8px; margin-bottom: 0; }
+  /* Reference card for speakers at the end */
+  .speakers-card {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 16px;
+    margin-top: 16px;
+  }
+  .speakers-card h3 {
+    margin: 0 0 8px 0;
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+  .speakers-list { line-height: 1.6; }
+  .speakers-caption {
+    font-size: 0.92rem;
+    color: #555;
+    margin-top: 8px;
+  }
+
+  /* Thumbnail grid inside the card */
+  .speakers-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 10px;
+  }
+  @media (max-width: 900px) {
+    .speakers-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  .speakers-grid a { text-decoration: none; color: inherit; text-align: center; display: block; }
+  .speakers-grid img { width: 100%; height: auto; border-radius: 6px; }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
@@ -171,58 +198,60 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
     <div class="program-time">17.00-18.00</div>
     <div class="program-text"><strong>Networking drinks</strong></div>
   </div>
+</div>
 
-  <!-- Clear separator before the single speakers block -->
-  <div class="program-sep"></div>
+<!-- Reference card: Insight session speakers -->
+<div class="speakers-card">
+  <h3><strong>Insight session speakers</strong></h3>
 
-  <!-- Single speakers block at the end -->
-  <div class="program-item">
-    <div class="program-time"></div>
-    <div class="program-text">
-      <strong>Insight session speakers</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Cardiology:</strong>
-      <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
-      <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Pathology:</strong>
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
-      <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiology:</strong>
-      <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
-      <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiotherapy:</strong>
-      <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
-      <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
-    </div>
-    <div class="speaker-thumb-grid">
-      <a href="{{ site.url }}/speakers#niels-van-royen">
-        <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" class="speaker-thumb" alt="Niels van Royen">
-      </a>
-      <a href="{{ site.url }}/speakers#alexander_vanpeteghem">
-        <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" class="speaker-thumb" alt="Alexander Vanpeteghem">
-      </a>
-      <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
-        <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" class="speaker-thumb" alt="Natalie ter Hoeve">
-      </a>
-      <a href="{{ site.url }}/speakers#mateusz-tylicki">
-        <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" class="speaker-thumb" alt="Mateusz Tylicki">
-      </a>
-      <a href="{{ site.url }}/speakers#steven-schalekamp">
-        <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" class="speaker-thumb" alt="Steven Schalekamp">
-      </a>
-      <a href="{{ site.url }}/speakers#daniel-drieling">
-        <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" class="speaker-thumb" alt="Daniel Drieling">
-      </a>
-      <a href="{{ site.url }}/speakers#hanneke-bluemink">
-        <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" class="speaker-thumb" alt="Hanneke Bluemink">
-      </a>
-      <a href="{{ site.url }}/speakers#dennie-fransen">
-        <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" class="speaker-thumb" alt="Dennie Fransen">
-      </a>    
-    </div>
+  <div class="speakers-list">
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Cardiology:</strong>
+    <a href="{{ site.url }}/speakers#niels-van-royen" class="speaker-link">Niels van Royen</a> and 
+    <a href="{{ site.url }}/speakers#alexander-vanpeteghem" class="speaker-link">Alexander Vanpeteghem</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Pathology:</strong>
+    <a href="{{ site.url }}/speakers#natalie-ter-hoeve" class="speaker-link">Natalie ter Hoeve</a> and 
+    <a href="{{ site.url }}/speakers#mateusz-tylicki" class="speaker-link">Mateusz Tylicki</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiology:</strong>
+    <a href="{{ site.url }}/speakers#steven-schalekamp" class="speaker-link">Steven Schalekamp</a> and  
+    <a href="{{ site.url }}/speakers#daniel-drieling" class="speaker-link">Daniel Drieling</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>Radiotherapy:</strong>
+    <a href="{{ site.url }}/speakers#hanneke-bluemink" class="speaker-link">Hanneke Bluemink</a> and 
+    <a href="{{ site.url }}/speakers#dennie-fransen" class="speaker-link">Dennie Fransen</a>
+  </div>
+
+  <div class="speakers-grid">
+    <a href="{{ site.url }}/speakers#niels-van-royen">
+      <img src="{{ site.url }}/assets/img/Niels_van_Royen.jpg" alt="Niels van Royen">
+    </a>
+    <a href="{{ site.url }}/speakers#alexander-vanpeteghem">
+      <img src="{{ site.url }}/assets/img/Alexander_Vanpeteghem.png" alt="Alexander Vanpeteghem">
+    </a>
+    <a href="{{ site.url }}/speakers#natalie-ter-hoeve">
+      <img src="{{ site.url }}/assets/img/Natalie_ter_Hoeve.jpg" alt="Natalie ter Hoeve">
+    </a>
+    <a href="{{ site.url }}/speakers#mateusz-tylicki">
+      <img src="{{ site.url }}/assets/img/Mateusz_Tylicki.png" alt="Mateusz Tylicki">
+    </a>
+    <a href="{{ site.url }}/speakers#steven-schalekamp">
+      <img src="{{ site.url }}/assets/img/Steven_Schalekamp.jpg" alt="Steven Schalekamp">
+    </a>
+    <a href="{{ site.url }}/speakers#daniel-drieling">
+      <img src="{{ site.url }}/assets/img/Daniel_Drieling.jpeg" alt="Daniel Drieling">
+    </a>
+    <a href="{{ site.url }}/speakers#hanneke-bluemink">
+      <img src="{{ site.url }}/assets/img/Hanneke_Bluemink.jpg" alt="Hanneke Bluemink">
+    </a>
+    <a href="{{ site.url }}/speakers#dennie-fransen">
+      <img src="{{ site.url }}/assets/img/Dennie_Fransen.jpg" alt="Dennie Fransen">
+    </a>
+  </div>
+
+  <div class="speakers-caption">
+    Speakers per domain, used in the insight sessions.
   </div>
 </div>
 
-<div class="content">
+<div class="content" style="margin-top: 16px;">
   *Participants are divided into smaller groups for the workshop and the insight sessions. <br>
   A1 and A2 attend the morning workshop and the afternoon insight session. <br>
   B1 and B2 attend the morning insight session and the afternoon workshop. <br><br>
