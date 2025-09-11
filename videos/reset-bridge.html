@@ -8,14 +8,16 @@
   <body>
     <p>Redirecting…</p>
     <script>
-      // base path (e.g. "/videos")
+      // Basis pad, bijvoorbeeld "/videos"
       var base = location.pathname.replace(/\/reset-bridge\.html$/, "");
-      // preserve ?query or #hash
-      var tail = location.search || location.hash || "";
-      // final route for your SPA
-      var target = base + "/#/reset-password" + tail;
-      // immediately forward
-      location.replace(target);
+      // Haal de query uit de Supabase redirect
+      var q = location.search.replace(/^\?/, ""); // "type=recovery&code=..."
+      // Bouw doelroute voor HashRouter
+      var hashRoute = base + "/#/reset-password" + (q ? "?" + q : "");
+      // Dubbele verzekering: zet dezelfde query ook vóór de hash, zodat libs die alleen window.location.search lezen het ook vinden
+      var finalUrl = base + (q ? "?" + q : "") + "/#/" + "reset-password" + (q ? "?" + q : "");
+      // Gebruik replace om geen extra history entry te maken
+      location.replace(finalUrl);
     </script>
   </body>
 </html>
