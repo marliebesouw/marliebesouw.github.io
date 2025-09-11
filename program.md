@@ -160,7 +160,7 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
   </div>
 </div>
 
-<!-- Reference card: Insight session speakers (inline 4×2 grid floated right) -->
+<!-- Reference card: Insight session speakers (inline 4×2 grid floated right, tight spacing) -->
 <div style="
   background:#f9fafb; border:1px solid #e5e7eb; border-radius:10px;
   padding:16px; margin-top:16px;
@@ -170,8 +170,9 @@ If you do not have a preference for a specific field (cardiology, pathology, rad
   <!-- right side: grid floats right; text flows on the left -->
   <div class="speaker-thumb-grid" style="
     float:right;
-    display:grid; grid-template-columns:repeat(4, minmax(0,1fr)); gap:12px;
-    width:520px; max-width:100%;
+    display:grid;
+    grid-template-columns:repeat(4, auto);   /* auto-sized columns so thumbs sit tight */
+    column-gap:8px; row-gap:8px;             /* tighter gaps like your timeline */
     margin-left:16px;
   ">
     <a href="{{ site.url }}/speakers#niels-van-royen">
